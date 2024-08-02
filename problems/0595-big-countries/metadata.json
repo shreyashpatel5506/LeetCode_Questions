@@ -1,0 +1,14 @@
+{
+  "id": "0595",
+  "title": "Big Countries",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "big-countries",
+  "acceptanceDate": "2024-08-02T09:42:45.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+  "submissionId": 1341685024,
+  "lastUpdated": "2026-07-31T10:38:36.873Z"
+}

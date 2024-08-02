@@ -1,0 +1,14 @@
+{
+  "id": "1148",
+  "title": "Article Views I",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "article-views-i",
+  "acceptanceDate": "2024-08-02T15:44:37.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/article-views-i/",
+  "submissionId": 1342004971,
+  "lastUpdated": "2026-07-31T10:38:40.579Z"
+}

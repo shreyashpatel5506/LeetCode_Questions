@@ -1,0 +1,14 @@
+{
+  "id": "1683",
+  "title": "Invalid Tweets",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "invalid-tweets",
+  "acceptanceDate": "2024-08-02T15:49:40.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/invalid-tweets/",
+  "submissionId": 1342010179,
+  "lastUpdated": "2026-07-31T10:38:42.252Z"
+}

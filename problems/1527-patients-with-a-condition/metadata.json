@@ -1,0 +1,14 @@
+{
+  "id": "1527",
+  "title": "Patients With a Condition",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "patients-with-a-condition",
+  "acceptanceDate": "2024-08-08T17:07:28.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/patients-with-a-condition/",
+  "submissionId": 1349118656,
+  "lastUpdated": "2026-07-31T10:38:53.962Z"
+}

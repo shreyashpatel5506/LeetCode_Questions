@@ -1,0 +1,16 @@
+{
+  "id": "3248",
+  "title": "Snake in Matrix",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "language": "c",
+  "slug": "snake-in-matrix",
+  "acceptanceDate": "2024-08-14T14:42:48.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/snake-in-matrix/",
+  "submissionId": 1355492912,
+  "lastUpdated": "2026-07-31T10:39:05.652Z"
+}

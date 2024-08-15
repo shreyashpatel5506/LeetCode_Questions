@@ -1,0 +1,15 @@
+{
+  "id": "0860",
+  "title": "Lemonade Change",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "python",
+  "slug": "lemonade-change",
+  "acceptanceDate": "2024-08-15T13:37:30.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+  "submissionId": 1356614071,
+  "lastUpdated": "2026-07-31T10:39:08.961Z"
+}

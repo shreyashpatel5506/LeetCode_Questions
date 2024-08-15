@@ -1,0 +1,14 @@
+{
+  "id": "2356",
+  "title": "Number of Unique Subjects Taught by Each Teacher",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "number-of-unique-subjects-taught-by-each-teacher",
+  "acceptanceDate": "2024-08-15T12:15:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/",
+  "submissionId": 1356535921,
+  "lastUpdated": "2026-07-31T10:39:07.313Z"
+}

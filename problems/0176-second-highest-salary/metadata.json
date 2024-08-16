@@ -1,0 +1,14 @@
+{
+  "id": "0176",
+  "title": "Second Highest Salary",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "second-highest-salary",
+  "acceptanceDate": "2024-08-16T14:56:50.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/second-highest-salary/",
+  "submissionId": 1357902589,
+  "lastUpdated": "2026-07-31T10:39:12.272Z"
+}

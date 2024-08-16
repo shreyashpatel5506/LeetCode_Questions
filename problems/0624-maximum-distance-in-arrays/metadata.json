@@ -1,0 +1,15 @@
+{
+  "id": "0624",
+  "title": "Maximum Distance in Arrays",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "javascript",
+  "slug": "maximum-distance-in-arrays",
+  "acceptanceDate": "2024-08-16T06:49:57.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-distance-in-arrays/",
+  "submissionId": 1357456623,
+  "lastUpdated": "2026-07-31T10:39:10.606Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0610",
+  "title": "Triangle Judgement",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "triangle-judgement",
+  "acceptanceDate": "2024-08-17T12:46:39.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/triangle-judgement/",
+  "submissionId": 1358896633,
+  "lastUpdated": "2026-07-31T10:39:19.095Z"
+}

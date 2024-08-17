@@ -1,0 +1,14 @@
+{
+  "id": "1978",
+  "title": "Employees Whose Manager Left the Company",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "employees-whose-manager-left-the-company",
+  "acceptanceDate": "2024-08-17T10:21:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/employees-whose-manager-left-the-company/",
+  "submissionId": 1358774552,
+  "lastUpdated": "2026-07-31T10:39:13.927Z"
+}

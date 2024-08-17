@@ -1,0 +1,14 @@
+{
+  "id": "1327",
+  "title": "List the Products Ordered in a Period",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "list-the-products-ordered-in-a-period",
+  "acceptanceDate": "2024-08-17T11:49:48.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/list-the-products-ordered-in-a-period/",
+  "submissionId": 1358850597,
+  "lastUpdated": "2026-07-31T10:39:17.399Z"
+}

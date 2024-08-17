@@ -1,0 +1,14 @@
+{
+  "id": "1484",
+  "title": "Group Sold Products By The Date",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "group-sold-products-by-the-date",
+  "acceptanceDate": "2024-08-17T11:27:39.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/group-sold-products-by-the-date/",
+  "submissionId": 1358832164,
+  "lastUpdated": "2026-07-31T10:39:15.579Z"
+}

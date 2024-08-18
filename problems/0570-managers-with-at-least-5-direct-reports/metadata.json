@@ -1,0 +1,14 @@
+{
+  "id": "0570",
+  "title": "Managers with at Least 5 Direct Reports",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "managers-with-at-least-5-direct-reports",
+  "acceptanceDate": "2024-08-18T18:31:57.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports/",
+  "submissionId": 1360620905,
+  "lastUpdated": "2026-07-31T10:39:25.736Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1075",
+  "title": "Project Employees I",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "project-employees-i",
+  "acceptanceDate": "2024-08-18T18:35:12.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/project-employees-i/",
+  "submissionId": 1360624002,
+  "lastUpdated": "2026-07-31T10:39:27.398Z"
+}

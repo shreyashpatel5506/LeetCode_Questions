@@ -1,0 +1,14 @@
+{
+  "id": "1729",
+  "title": "Find Followers Count",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "find-followers-count",
+  "acceptanceDate": "2024-08-18T19:42:08.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-followers-count/",
+  "submissionId": 1360681666,
+  "lastUpdated": "2026-07-31T10:39:29.076Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0183",
+  "title": "Customers Who Never Order",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "customers-who-never-order",
+  "acceptanceDate": "2024-08-19T18:19:28.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/customers-who-never-order/",
+  "submissionId": 1361669800,
+  "lastUpdated": "2026-07-31T10:39:32.376Z"
+}

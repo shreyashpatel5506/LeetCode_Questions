@@ -1,0 +1,14 @@
+{
+  "id": "0619",
+  "title": "Biggest Single Number",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "biggest-single-number",
+  "acceptanceDate": "2024-08-20T13:49:10.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/biggest-single-number/",
+  "submissionId": 1362446144,
+  "lastUpdated": "2026-07-31T10:39:35.799Z"
+}

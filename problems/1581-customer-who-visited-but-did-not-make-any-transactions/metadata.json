@@ -1,0 +1,14 @@
+{
+  "id": "1581",
+  "title": "Customer Who Visited but Did Not Make Any Transactions",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "customer-who-visited-but-did-not-make-any-transactions",
+  "acceptanceDate": "2024-08-21T13:25:37.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/",
+  "submissionId": 1363500439,
+  "lastUpdated": "2026-07-31T10:39:37.454Z"
+}

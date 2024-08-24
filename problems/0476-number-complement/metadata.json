@@ -1,0 +1,14 @@
+{
+  "id": "0476",
+  "title": "Number Complement",
+  "difficulty": "Easy",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "language": "javascript",
+  "slug": "number-complement",
+  "acceptanceDate": "2024-08-24T13:48:29.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-complement/",
+  "submissionId": 1366743128,
+  "lastUpdated": "2026-07-31T10:39:39.142Z"
+}

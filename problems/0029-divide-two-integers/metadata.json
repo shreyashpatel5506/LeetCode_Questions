@@ -1,0 +1,15 @@
+{
+  "id": "0029",
+  "title": "Divide Two Integers",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "language": "python3",
+  "slug": "divide-two-integers",
+  "acceptanceDate": "2024-08-25T16:57:29.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+  "submissionId": 1368092298,
+  "lastUpdated": "2026-07-31T10:39:44.428Z"
+}

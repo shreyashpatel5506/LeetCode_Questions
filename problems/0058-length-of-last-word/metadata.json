@@ -1,0 +1,14 @@
+{
+  "id": "0058",
+  "title": "Length of Last Word",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "javascript",
+  "slug": "length-of-last-word",
+  "acceptanceDate": "2024-08-25T15:50:53.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+  "submissionId": 1368031015,
+  "lastUpdated": "2026-07-31T10:39:40.789Z"
+}

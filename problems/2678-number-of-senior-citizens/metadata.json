@@ -1,0 +1,15 @@
+{
+  "id": "2678",
+  "title": "Number of Senior Citizens",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String"
+  ],
+  "language": "c",
+  "slug": "number-of-senior-citizens",
+  "acceptanceDate": "2024-08-25T16:17:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-senior-citizens/",
+  "submissionId": 1368054103,
+  "lastUpdated": "2026-07-31T10:39:42.766Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "0190",
+  "title": "Reverse Bits",
+  "difficulty": "Easy",
+  "topics": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "language": "python3",
+  "slug": "reverse-bits",
+  "acceptanceDate": "2024-08-28T13:18:23.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+  "submissionId": 1371140911,
+  "lastUpdated": "2026-07-31T10:39:47.718Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0342",
+  "title": "Power of Four",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "language": "python3",
+  "slug": "power-of-four",
+  "acceptanceDate": "2024-08-29T10:44:52.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+  "submissionId": 1372096490,
+  "lastUpdated": "2026-07-31T10:39:54.604Z"
+}

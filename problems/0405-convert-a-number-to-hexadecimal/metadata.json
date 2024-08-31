@@ -1,0 +1,16 @@
+{
+  "id": "0405",
+  "title": "Convert a Number to Hexadecimal",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Bit Manipulation"
+  ],
+  "language": "python3",
+  "slug": "convert-a-number-to-hexadecimal",
+  "acceptanceDate": "2024-08-31T09:17:38.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+  "submissionId": 1373999311,
+  "lastUpdated": "2026-07-31T10:39:56.714Z"
+}

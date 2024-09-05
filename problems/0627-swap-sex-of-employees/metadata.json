@@ -1,0 +1,14 @@
+{
+  "id": "0627",
+  "title": "Swap Sex of Employees",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "swap-sex-of-employees",
+  "acceptanceDate": "2024-09-05T10:44:27.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/swap-sex-of-employees/",
+  "submissionId": 1379825061,
+  "lastUpdated": "2026-07-31T10:40:00.810Z"
+}

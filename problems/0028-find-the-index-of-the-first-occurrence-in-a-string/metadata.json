@@ -1,0 +1,16 @@
+{
+  "id": "0028",
+  "title": "Find the Index of the First Occurrence in a String",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "String Matching"
+  ],
+  "language": "php",
+  "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+  "acceptanceDate": "2024-09-07T16:52:17.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+  "submissionId": 1382279275,
+  "lastUpdated": "2026-07-31T10:40:04.624Z"
+}

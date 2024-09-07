@@ -1,0 +1,16 @@
+{
+  "id": "1137",
+  "title": "N-th Tribonacci Number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "language": "python3",
+  "slug": "n-th-tribonacci-number",
+  "acceptanceDate": "2024-09-07T07:59:59.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+  "submissionId": 1381845894,
+  "lastUpdated": "2026-07-31T10:40:02.956Z"
+}

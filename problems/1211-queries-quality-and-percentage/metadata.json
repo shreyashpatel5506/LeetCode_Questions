@@ -1,0 +1,14 @@
+{
+  "id": "1211",
+  "title": "Queries Quality and Percentage",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "queries-quality-and-percentage",
+  "acceptanceDate": "2024-09-18T06:33:19.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/queries-quality-and-percentage/",
+  "submissionId": 1394059033,
+  "lastUpdated": "2026-07-31T10:40:09.616Z"
+}

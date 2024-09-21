@@ -1,0 +1,14 @@
+{
+  "id": "1084",
+  "title": "Sales Analysis III",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "sales-analysis-iii",
+  "acceptanceDate": "2024-09-21T07:59:45.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sales-analysis-iii/",
+  "submissionId": 1397198949,
+  "lastUpdated": "2026-07-31T10:40:11.348Z"
+}

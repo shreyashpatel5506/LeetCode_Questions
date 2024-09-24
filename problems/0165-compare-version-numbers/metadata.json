@@ -1,0 +1,15 @@
+{
+  "id": "0165",
+  "title": "Compare Version Numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "javascript",
+  "slug": "compare-version-numbers",
+  "acceptanceDate": "2024-09-24T13:12:51.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/compare-version-numbers/",
+  "submissionId": 1400711934,
+  "lastUpdated": "2026-07-31T10:40:19.894Z"
+}

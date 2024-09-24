@@ -1,0 +1,16 @@
+{
+  "id": "2000",
+  "title": "Reverse Prefix of Word",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Stack"
+  ],
+  "language": "javascript",
+  "slug": "reverse-prefix-of-word",
+  "acceptanceDate": "2024-09-24T11:39:03.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-prefix-of-word/",
+  "submissionId": 1400637616,
+  "lastUpdated": "2026-07-31T10:40:16.573Z"
+}

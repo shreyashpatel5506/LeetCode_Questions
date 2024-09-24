@@ -1,0 +1,9 @@
+class Solution:
+    def reversePrefix(self, word: str, ch: str) -> str:
+        index = word.find(ch)
+        
+        if index == -1:
+            return word  
+        reversed_prefix = word[:index + 1][::-1]
+        return reversed_prefix + word[index + 1:]
+

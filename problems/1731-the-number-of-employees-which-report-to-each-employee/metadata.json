@@ -1,0 +1,14 @@
+{
+  "id": "1731",
+  "title": "The Number of Employees Which Report to Each Employee",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "the-number-of-employees-which-report-to-each-employee",
+  "acceptanceDate": "2024-09-24T07:03:02.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/",
+  "submissionId": 1400433811,
+  "lastUpdated": "2026-07-31T10:40:14.889Z"
+}

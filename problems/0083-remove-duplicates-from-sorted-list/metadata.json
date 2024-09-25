@@ -1,0 +1,14 @@
+{
+  "id": "0083",
+  "title": "Remove Duplicates from Sorted List",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List"
+  ],
+  "language": "javascript",
+  "slug": "remove-duplicates-from-sorted-list",
+  "acceptanceDate": "2024-09-25T11:57:39.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+  "submissionId": 1401789573,
+  "lastUpdated": "2026-07-31T10:00:51.592Z"
+}

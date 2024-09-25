@@ -1,0 +1,16 @@
+{
+  "id": "0075",
+  "title": "Sort Colors",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "javascript",
+  "slug": "sort-colors",
+  "acceptanceDate": "2024-09-25T10:44:56.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+  "submissionId": 1401741143,
+  "lastUpdated": "2026-07-31T10:00:48.954Z"
+}

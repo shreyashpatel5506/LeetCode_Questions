@@ -1,0 +1,16 @@
+{
+  "id": "0303",
+  "title": "Range Sum Query - Immutable",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Design",
+    "Prefix Sum"
+  ],
+  "language": "javascript",
+  "slug": "range-sum-query-immutable",
+  "acceptanceDate": "2024-09-25T15:52:33.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+  "submissionId": 1401996239,
+  "lastUpdated": "2026-07-31T10:00:56.188Z"
+}

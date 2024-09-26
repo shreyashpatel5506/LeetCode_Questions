@@ -1,0 +1,15 @@
+{
+  "id": "0704",
+  "title": "Binary Search",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "python3",
+  "slug": "binary-search",
+  "acceptanceDate": "2024-09-26T13:56:46.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+  "submissionId": 1402956792,
+  "lastUpdated": "2026-07-31T06:40:50.747Z"
+}

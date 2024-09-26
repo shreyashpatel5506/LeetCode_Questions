@@ -1,0 +1,15 @@
+{
+  "id": "0374",
+  "title": "Guess Number Higher or Lower",
+  "difficulty": "Easy",
+  "topics": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "language": "javascript",
+  "slug": "guess-number-higher-or-lower",
+  "acceptanceDate": "2024-09-26T13:53:23.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+  "submissionId": 1402953724,
+  "lastUpdated": "2026-07-31T06:40:48.471Z"
+}

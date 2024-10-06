@@ -1,0 +1,16 @@
+{
+  "id": "1813",
+  "title": "Sentence Similarity III",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "String"
+  ],
+  "language": "python3",
+  "slug": "sentence-similarity-iii",
+  "acceptanceDate": "2024-10-06T05:02:09.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sentence-similarity-iii/",
+  "submissionId": 1413320707,
+  "lastUpdated": "2026-07-31T06:41:06.942Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2455",
+  "title": "Average Value of Even Numbers That Are Divisible by Three",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "javascript",
+  "slug": "average-value-of-even-numbers-that-are-divisible-by-three",
+  "acceptanceDate": "2024-10-06T04:48:23.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/",
+  "submissionId": 1413310440,
+  "lastUpdated": "2026-07-31T06:41:04.697Z"
+}

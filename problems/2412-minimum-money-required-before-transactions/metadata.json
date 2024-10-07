@@ -1,0 +1,16 @@
+{
+  "id": "2412",
+  "title": "Minimum Money Required Before Transactions",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "javascript",
+  "slug": "minimum-money-required-before-transactions",
+  "acceptanceDate": "2024-10-07T12:12:27.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-money-required-before-transactions/",
+  "submissionId": 1414713329,
+  "lastUpdated": "2026-07-31T06:41:09.330Z"
+}

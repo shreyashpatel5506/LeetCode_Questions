@@ -1,0 +1,16 @@
+{
+  "id": "1497",
+  "title": "Check If Array Pairs Are Divisible by k",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "javascript",
+  "slug": "check-if-array-pairs-are-divisible-by-k",
+  "acceptanceDate": "2024-10-08T15:58:15.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/",
+  "submissionId": 1416028854,
+  "lastUpdated": "2026-07-31T06:41:11.862Z"
+}

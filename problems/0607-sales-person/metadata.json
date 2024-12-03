@@ -1,0 +1,14 @@
+{
+  "id": "0607",
+  "title": "Sales Person",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "sales-person",
+  "acceptanceDate": "2024-12-03T09:26:25.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sales-person/",
+  "submissionId": 1469111238,
+  "lastUpdated": "2026-07-31T06:41:15.871Z"
+}

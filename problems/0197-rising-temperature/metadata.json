@@ -1,0 +1,14 @@
+{
+  "id": "0197",
+  "title": "Rising Temperature",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "rising-temperature",
+  "acceptanceDate": "2024-12-10T13:50:14.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
+  "submissionId": 1475280864,
+  "lastUpdated": "2026-07-31T06:41:20.951Z"
+}

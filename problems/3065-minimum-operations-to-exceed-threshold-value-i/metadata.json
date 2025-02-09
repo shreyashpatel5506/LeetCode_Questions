@@ -1,0 +1,14 @@
+{
+  "id": "3065",
+  "title": "Minimum Operations to Exceed Threshold Value I",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "python3",
+  "slug": "minimum-operations-to-exceed-threshold-value-i",
+  "acceptanceDate": "2025-02-09T12:25:12.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/",
+  "submissionId": 1536954798,
+  "lastUpdated": "2026-07-31T06:41:25.588Z"
+}

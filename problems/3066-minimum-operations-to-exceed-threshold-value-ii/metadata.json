@@ -1,0 +1,16 @@
+{
+  "id": "3066",
+  "title": "Minimum Operations to Exceed Threshold Value II",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "language": "javascript",
+  "slug": "minimum-operations-to-exceed-threshold-value-ii",
+  "acceptanceDate": "2025-02-13T13:54:09.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/",
+  "submissionId": 1541788357,
+  "lastUpdated": "2026-07-31T06:41:27.867Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "0338",
+  "title": "Counting Bits",
+  "difficulty": "Easy",
+  "topics": [
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "language": "python3",
+  "slug": "counting-bits",
+  "acceptanceDate": "2025-03-31T17:17:03.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+  "submissionId": 1592272772,
+  "lastUpdated": "2026-07-31T06:41:32.543Z"
+}

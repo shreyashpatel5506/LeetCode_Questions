@@ -1,0 +1,14 @@
+{
+  "id": "3226",
+  "title": "Number of Bit Changes to Make Two Integers Equal",
+  "difficulty": "Easy",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "language": "python3",
+  "slug": "number-of-bit-changes-to-make-two-integers-equal",
+  "acceptanceDate": "2025-03-31T16:46:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/",
+  "submissionId": 1592242430,
+  "lastUpdated": "2026-07-31T06:41:30.145Z"
+}

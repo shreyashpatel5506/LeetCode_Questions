@@ -1,0 +1,16 @@
+{
+  "id": "1790",
+  "title": "Check if One String Swap Can Make Strings Equal",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "check-if-one-string-swap-can-make-strings-equal",
+  "acceptanceDate": "2025-05-27T09:13:47.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/",
+  "submissionId": 1645849122,
+  "lastUpdated": "2026-07-31T06:41:37.139Z"
+}

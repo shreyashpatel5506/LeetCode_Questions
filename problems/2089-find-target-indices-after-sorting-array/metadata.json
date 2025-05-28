@@ -1,0 +1,16 @@
+{
+  "id": "2089",
+  "title": "Find Target Indices After Sorting Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "find-target-indices-after-sorting-array",
+  "acceptanceDate": "2025-05-28T05:35:30.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+  "submissionId": 1646678197,
+  "lastUpdated": "2026-07-31T06:41:42.189Z"
+}

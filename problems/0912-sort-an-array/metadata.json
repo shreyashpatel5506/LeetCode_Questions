@@ -1,0 +1,21 @@
+{
+  "id": "0912",
+  "title": "Sort an Array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Bucket Sort",
+    "Radix Sort",
+    "Counting Sort"
+  ],
+  "language": "javascript",
+  "slug": "sort-an-array",
+  "acceptanceDate": "2025-06-30T13:39:18.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+  "submissionId": 1681495863,
+  "lastUpdated": "2026-07-31T06:41:45.164Z"
+}

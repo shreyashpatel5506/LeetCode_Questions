@@ -1,0 +1,15 @@
+{
+  "id": "3232",
+  "title": "Find if Digit Game Can Be Won",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "java",
+  "slug": "find-if-digit-game-can-be-won",
+  "acceptanceDate": "2025-07-05T10:08:23.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-if-digit-game-can-be-won/",
+  "submissionId": 1687079550,
+  "lastUpdated": "2026-07-31T06:41:51.486Z"
+}

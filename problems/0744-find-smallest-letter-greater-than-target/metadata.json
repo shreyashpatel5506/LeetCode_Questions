@@ -1,0 +1,15 @@
+{
+  "id": "0744",
+  "title": "Find Smallest Letter Greater Than Target",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "java",
+  "slug": "find-smallest-letter-greater-than-target",
+  "acceptanceDate": "2025-07-06T05:24:18.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+  "submissionId": 1688026123,
+  "lastUpdated": "2026-07-31T06:41:56.101Z"
+}

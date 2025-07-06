@@ -1,0 +1,15 @@
+{
+  "id": "0034",
+  "title": "Find First and Last Position of Element in Sorted Array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "java",
+  "slug": "find-first-and-last-position-of-element-in-sorted-array",
+  "acceptanceDate": "2025-07-06T06:13:28.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+  "submissionId": 1688069751,
+  "lastUpdated": "2026-07-31T06:41:58.614Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "0397",
+  "title": "Integer Replacement",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Greedy",
+    "Bit Manipulation",
+    "Memoization"
+  ],
+  "language": "java",
+  "slug": "integer-replacement",
+  "acceptanceDate": "2025-07-07T12:00:31.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/integer-replacement/",
+  "submissionId": 1689506616,
+  "lastUpdated": "2026-07-31T06:42:01.306Z"
+}

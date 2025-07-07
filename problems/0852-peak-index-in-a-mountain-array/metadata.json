@@ -1,0 +1,15 @@
+{
+  "id": "0852",
+  "title": "Peak Index in a Mountain Array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "java",
+  "slug": "peak-index-in-a-mountain-array",
+  "acceptanceDate": "2025-07-07T13:43:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+  "submissionId": 1689601326,
+  "lastUpdated": "2026-07-31T06:42:03.624Z"
+}

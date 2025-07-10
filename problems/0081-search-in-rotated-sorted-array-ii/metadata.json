@@ -1,0 +1,15 @@
+{
+  "id": "0081",
+  "title": "Search in Rotated Sorted Array II",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "java",
+  "slug": "search-in-rotated-sorted-array-ii",
+  "acceptanceDate": "2025-07-10T11:35:42.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+  "submissionId": 1693091048,
+  "lastUpdated": "2026-07-31T06:42:08.230Z"
+}

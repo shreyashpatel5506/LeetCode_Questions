@@ -1,0 +1,16 @@
+{
+  "id": "1037",
+  "title": "Valid Boomerang",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry"
+  ],
+  "language": "java",
+  "slug": "valid-boomerang",
+  "acceptanceDate": "2025-07-12T17:53:24.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-boomerang/",
+  "submissionId": 1695514047,
+  "lastUpdated": "2026-07-31T06:42:11.212Z"
+}

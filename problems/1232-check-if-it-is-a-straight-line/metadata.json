@@ -1,0 +1,16 @@
+{
+  "id": "1232",
+  "title": "Check If It Is a Straight Line",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry"
+  ],
+  "language": "java",
+  "slug": "check-if-it-is-a-straight-line",
+  "acceptanceDate": "2025-07-13T17:01:04.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+  "submissionId": 1696615404,
+  "lastUpdated": "2026-07-31T06:42:15.980Z"
+}

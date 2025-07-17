@@ -1,0 +1,16 @@
+{
+  "id": "0217",
+  "title": "Contains Duplicate",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "contains-duplicate",
+  "acceptanceDate": "2025-07-17T16:46:46.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+  "submissionId": 1701531326,
+  "lastUpdated": "2026-07-31T06:42:20.892Z"
+}

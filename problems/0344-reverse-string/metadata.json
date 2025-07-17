@@ -1,0 +1,15 @@
+{
+  "id": "0344",
+  "title": "Reverse String",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "java",
+  "slug": "reverse-string",
+  "acceptanceDate": "2025-07-17T15:16:56.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+  "submissionId": 1701427216,
+  "lastUpdated": "2026-07-31T06:42:18.492Z"
+}

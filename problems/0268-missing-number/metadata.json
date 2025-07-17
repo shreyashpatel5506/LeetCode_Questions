@@ -1,0 +1,19 @@
+{
+  "id": "0268",
+  "title": "Missing Number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "missing-number",
+  "acceptanceDate": "2025-07-17T16:56:35.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+  "submissionId": 1701543789,
+  "lastUpdated": "2026-07-31T06:42:23.179Z"
+}

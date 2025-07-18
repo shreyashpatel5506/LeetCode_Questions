@@ -1,0 +1,15 @@
+{
+  "id": "0283",
+  "title": "Move Zeroes",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "language": "java",
+  "slug": "move-zeroes",
+  "acceptanceDate": "2025-07-18T13:52:05.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+  "submissionId": 1702476163,
+  "lastUpdated": "2026-07-31T06:42:29.998Z"
+}

@@ -48,4 +48,3 @@ class Solution {
         return binarysearch(nums, target, pivotIndex + 1, nums.length - 1);
     }
 }
-

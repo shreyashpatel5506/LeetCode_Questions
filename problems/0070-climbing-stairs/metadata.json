@@ -1,0 +1,16 @@
+{
+  "id": "0070",
+  "title": "Climbing Stairs",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "language": "java",
+  "slug": "climbing-stairs",
+  "acceptanceDate": "2025-07-18T13:04:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+  "submissionId": 1702434832,
+  "lastUpdated": "2026-07-31T06:42:25.470Z"
+}

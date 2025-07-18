@@ -1,0 +1,16 @@
+{
+  "id": "0977",
+  "title": "Squares of a Sorted Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "squares-of-a-sorted-array",
+  "acceptanceDate": "2025-07-18T13:36:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+  "submissionId": 1702462099,
+  "lastUpdated": "2026-07-31T06:42:27.740Z"
+}

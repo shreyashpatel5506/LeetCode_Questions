@@ -1,0 +1,18 @@
+{
+  "id": "0410",
+  "title": "Split Array Largest Sum",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "split-array-largest-sum",
+  "acceptanceDate": "2025-07-22T12:27:30.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+  "submissionId": 1707196298,
+  "lastUpdated": "2026-07-31T06:42:35.014Z"
+}

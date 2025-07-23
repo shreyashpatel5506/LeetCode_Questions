@@ -1,0 +1,16 @@
+{
+  "id": "0074",
+  "title": "Search a 2D Matrix",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+  ],
+  "language": "java",
+  "slug": "search-a-2d-matrix",
+  "acceptanceDate": "2025-07-23T12:16:41.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+  "submissionId": 1708454452,
+  "lastUpdated": "2026-07-31T06:42:39.635Z"
+}

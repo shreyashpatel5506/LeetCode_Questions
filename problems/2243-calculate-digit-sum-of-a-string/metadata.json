@@ -1,0 +1,15 @@
+{
+  "id": "2243",
+  "title": "Calculate Digit Sum of a String",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "calculate-digit-sum-of-a-string",
+  "acceptanceDate": "2025-07-30T17:35:27.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+  "submissionId": 1717435599,
+  "lastUpdated": "2026-07-31T06:42:46.659Z"
+}

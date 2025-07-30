@@ -1,0 +1,15 @@
+{
+  "id": "0119",
+  "title": "Pascal's Triangle II",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "java",
+  "slug": "pascals-triangle-ii",
+  "acceptanceDate": "2025-07-30T14:14:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+  "submissionId": 1717180283,
+  "lastUpdated": "2026-07-31T06:42:41.966Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2221",
+  "title": "Find Triangular Sum of an Array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Simulation",
+    "Combinatorics",
+    "Number Theory"
+  ],
+  "language": "java",
+  "slug": "find-triangular-sum-of-an-array",
+  "acceptanceDate": "2025-07-30T17:19:12.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-triangular-sum-of-an-array/",
+  "submissionId": 1717412646,
+  "lastUpdated": "2026-07-31T06:42:44.263Z"
+}

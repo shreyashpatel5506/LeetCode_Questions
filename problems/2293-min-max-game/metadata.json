@@ -1,0 +1,15 @@
+{
+  "id": "2293",
+  "title": "Min Max Game",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "min-max-game",
+  "acceptanceDate": "2025-07-31T13:17:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/min-max-game/",
+  "submissionId": 1718347984,
+  "lastUpdated": "2026-07-31T06:42:49.266Z"
+}

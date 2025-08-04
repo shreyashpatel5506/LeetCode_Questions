@@ -1,0 +1,17 @@
+{
+  "id": "0100",
+  "title": "Same Tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "java",
+  "slug": "same-tree",
+  "acceptanceDate": "2025-08-04T11:43:19.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+  "submissionId": 1722986548,
+  "lastUpdated": "2026-07-31T06:42:51.587Z"
+}

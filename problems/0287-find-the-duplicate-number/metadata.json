@@ -1,0 +1,17 @@
+{
+  "id": "0287",
+  "title": "Find the Duplicate Number",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Bit Manipulation"
+  ],
+  "language": "java",
+  "slug": "find-the-duplicate-number",
+  "acceptanceDate": "2025-08-04T12:48:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+  "submissionId": 1723045015,
+  "lastUpdated": "2026-07-31T06:42:56.150Z"
+}

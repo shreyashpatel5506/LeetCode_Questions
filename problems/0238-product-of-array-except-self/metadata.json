@@ -1,0 +1,15 @@
+{
+  "id": "0238",
+  "title": "Product of Array Except Self",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "product-of-array-except-self",
+  "acceptanceDate": "2025-08-04T12:14:20.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+  "submissionId": 1723013100,
+  "lastUpdated": "2026-07-31T06:42:53.871Z"
+}

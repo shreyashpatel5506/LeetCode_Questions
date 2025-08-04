@@ -1,0 +1,16 @@
+{
+  "id": "0442",
+  "title": "Find All Duplicates in an Array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "find-all-duplicates-in-an-array",
+  "acceptanceDate": "2025-08-04T13:20:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+  "submissionId": 1723078417,
+  "lastUpdated": "2026-07-31T06:42:58.463Z"
+}

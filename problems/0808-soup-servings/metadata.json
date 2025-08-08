@@ -1,0 +1,16 @@
+{
+  "id": "0808",
+  "title": "Soup Servings",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Probability and Statistics"
+  ],
+  "language": "java",
+  "slug": "soup-servings",
+  "acceptanceDate": "2025-08-08T12:37:55.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/soup-servings/",
+  "submissionId": 1727935206,
+  "lastUpdated": "2026-07-31T06:43:05.891Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2787",
+  "title": "Ways to Express an Integer as Sum of Powers",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "language": "java",
+  "slug": "ways-to-express-an-integer-as-sum-of-powers",
+  "acceptanceDate": "2025-08-12T15:31:50.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/",
+  "submissionId": 1732615127,
+  "lastUpdated": "2026-07-31T06:43:10.030Z"
+}

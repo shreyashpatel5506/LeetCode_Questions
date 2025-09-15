@@ -1,0 +1,16 @@
+{
+  "id": "0929",
+  "title": "Unique Email Addresses",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "language": "java",
+  "slug": "unique-email-addresses",
+  "acceptanceDate": "2025-09-15T16:22:11.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/unique-email-addresses/",
+  "submissionId": 1771789891,
+  "lastUpdated": "2026-07-31T06:43:14.998Z"
+}

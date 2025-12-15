@@ -1,0 +1,14 @@
+{
+  "id": "0181",
+  "title": "Employees Earning More Than Their Managers",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "employees-earning-more-than-their-managers",
+  "acceptanceDate": "2025-12-15T18:20:43.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
+  "submissionId": 1856528000,
+  "lastUpdated": "2026-07-31T06:43:36.201Z"
+}

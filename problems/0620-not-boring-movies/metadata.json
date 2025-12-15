@@ -1,0 +1,14 @@
+{
+  "id": "0620",
+  "title": "Not Boring Movies",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "not-boring-movies",
+  "acceptanceDate": "2025-12-15T18:25:51.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/not-boring-movies/",
+  "submissionId": 1856532560,
+  "lastUpdated": "2026-07-31T06:43:38.515Z"
+}

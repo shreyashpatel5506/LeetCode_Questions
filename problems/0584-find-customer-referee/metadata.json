@@ -1,0 +1,14 @@
+{
+  "id": "0584",
+  "title": "Find Customer Referee",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "find-customer-referee",
+  "acceptanceDate": "2025-12-15T18:28:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-customer-referee/",
+  "submissionId": 1856534791,
+  "lastUpdated": "2026-07-31T06:43:40.917Z"
+}

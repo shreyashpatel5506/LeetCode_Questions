@@ -1,0 +1,15 @@
+{
+  "id": "1929",
+  "title": "Concatenation of Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "concatenation-of-array",
+  "acceptanceDate": "2025-12-15T13:38:57.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+  "submissionId": 1856264990,
+  "lastUpdated": "2026-07-31T06:43:19.909Z"
+}

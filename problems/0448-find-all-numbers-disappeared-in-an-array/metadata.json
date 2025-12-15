@@ -1,0 +1,15 @@
+{
+  "id": "0448",
+  "title": "Find All Numbers Disappeared in an Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "java",
+  "slug": "find-all-numbers-disappeared-in-an-array",
+  "acceptanceDate": "2025-12-15T17:02:22.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+  "submissionId": 1856451526,
+  "lastUpdated": "2026-07-31T06:43:31.416Z"
+}

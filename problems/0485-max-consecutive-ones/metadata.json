@@ -1,0 +1,14 @@
+{
+  "id": "0485",
+  "title": "Max Consecutive Ones",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "java",
+  "slug": "max-consecutive-ones",
+  "acceptanceDate": "2025-12-15T13:50:52.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+  "submissionId": 1856275298,
+  "lastUpdated": "2026-07-31T06:43:24.488Z"
+}

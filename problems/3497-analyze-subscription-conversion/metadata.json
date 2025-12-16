@@ -1,0 +1,14 @@
+{
+  "id": "3497",
+  "title": "Analyze Subscription Conversion ",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "analyze-subscription-conversion",
+  "acceptanceDate": "2025-12-16T07:32:46.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/analyze-subscription-conversion/",
+  "submissionId": 1856921469,
+  "lastUpdated": "2026-07-31T06:43:45.680Z"
+}

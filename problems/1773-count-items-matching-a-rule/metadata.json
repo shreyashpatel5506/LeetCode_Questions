@@ -1,0 +1,15 @@
+{
+  "id": "1773",
+  "title": "Count Items Matching a Rule",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String"
+  ],
+  "language": "java",
+  "slug": "count-items-matching-a-rule",
+  "acceptanceDate": "2025-12-16T05:13:02.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-items-matching-a-rule/",
+  "submissionId": 1856827045,
+  "lastUpdated": "2026-07-31T06:43:43.202Z"
+}

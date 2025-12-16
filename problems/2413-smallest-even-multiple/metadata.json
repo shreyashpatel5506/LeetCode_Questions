@@ -1,0 +1,15 @@
+{
+  "id": "2413",
+  "title": "Smallest Even Multiple",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Number Theory"
+  ],
+  "language": "java",
+  "slug": "smallest-even-multiple",
+  "acceptanceDate": "2025-12-16T09:35:00.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-even-multiple/",
+  "submissionId": 1857007507,
+  "lastUpdated": "2026-07-31T06:43:52.296Z"
+}

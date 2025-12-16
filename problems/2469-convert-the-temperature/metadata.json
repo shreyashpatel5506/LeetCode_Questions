@@ -1,0 +1,14 @@
+{
+  "id": "2469",
+  "title": "Convert the Temperature",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "convert-the-temperature",
+  "acceptanceDate": "2025-12-16T12:09:58.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/convert-the-temperature/",
+  "submissionId": 1857107888,
+  "lastUpdated": "2026-07-31T06:43:59.633Z"
+}

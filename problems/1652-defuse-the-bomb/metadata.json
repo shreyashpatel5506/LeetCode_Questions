@@ -1,0 +1,15 @@
+{
+  "id": "1652",
+  "title": "Defuse the Bomb",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sliding Window"
+  ],
+  "language": "java",
+  "slug": "defuse-the-bomb",
+  "acceptanceDate": "2026-01-12T17:46:53.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/defuse-the-bomb/",
+  "submissionId": 1883074883,
+  "lastUpdated": "2026-07-31T06:44:04.239Z"
+}

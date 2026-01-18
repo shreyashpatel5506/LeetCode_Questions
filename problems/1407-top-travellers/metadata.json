@@ -1,0 +1,14 @@
+{
+  "id": "1407",
+  "title": "Top Travellers",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "top-travellers",
+  "acceptanceDate": "2026-01-18T15:35:13.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/top-travellers/",
+  "submissionId": 1889008006,
+  "lastUpdated": "2026-07-31T06:44:06.519Z"
+}

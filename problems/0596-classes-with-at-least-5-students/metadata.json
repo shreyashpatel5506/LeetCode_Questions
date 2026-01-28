@@ -1,0 +1,14 @@
+{
+  "id": "0596",
+  "title": "Classes With at Least 5 Students",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "classes-with-at-least-5-students",
+  "acceptanceDate": "2026-01-28T16:52:18.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/classes-with-at-least-5-students/",
+  "submissionId": 1900025345,
+  "lastUpdated": "2026-07-31T06:44:32.215Z"
+}

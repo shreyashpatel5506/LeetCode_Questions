@@ -1,0 +1,14 @@
+{
+  "id": "0507",
+  "title": "Perfect Number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "perfect-number",
+  "acceptanceDate": "2026-01-28T13:06:28.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/perfect-number/",
+  "submissionId": 1899775871,
+  "lastUpdated": "2026-07-31T06:44:11.369Z"
+}

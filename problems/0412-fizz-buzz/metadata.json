@@ -1,0 +1,16 @@
+{
+  "id": "0412",
+  "title": "Fizz Buzz",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "fizz-buzz",
+  "acceptanceDate": "2026-01-28T14:00:40.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+  "submissionId": 1899830794,
+  "lastUpdated": "2026-07-31T06:44:16.070Z"
+}

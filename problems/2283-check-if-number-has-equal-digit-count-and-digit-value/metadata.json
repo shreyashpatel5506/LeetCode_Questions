@@ -1,0 +1,16 @@
+{
+  "id": "2283",
+  "title": "Check if Number Has Equal Digit Count and Digit Value",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "check-if-number-has-equal-digit-count-and-digit-value",
+  "acceptanceDate": "2026-01-28T13:46:41.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/",
+  "submissionId": 1899816143,
+  "lastUpdated": "2026-07-31T06:44:13.681Z"
+}

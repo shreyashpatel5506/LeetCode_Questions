@@ -1,0 +1,14 @@
+{
+  "id": "2520",
+  "title": "Count the Digits That Divide a Number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "count-the-digits-that-divide-a-number",
+  "acceptanceDate": "2026-01-28T14:47:54.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/",
+  "submissionId": 1899880291,
+  "lastUpdated": "2026-07-31T06:44:22.186Z"
+}

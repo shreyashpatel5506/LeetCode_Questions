@@ -1,0 +1,15 @@
+{
+  "id": "0027",
+  "title": "Remove Element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "language": "java",
+  "slug": "remove-element",
+  "acceptanceDate": "2026-01-28T16:06:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+  "submissionId": 1899965167,
+  "lastUpdated": "2026-07-31T06:44:26.742Z"
+}

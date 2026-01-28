@@ -1,0 +1,14 @@
+{
+  "id": "0586",
+  "title": "Customer Placing the Largest Number of Orders",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "customer-placing-the-largest-number-of-orders",
+  "acceptanceDate": "2026-01-28T16:47:08.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/",
+  "submissionId": 1900018192,
+  "lastUpdated": "2026-07-31T06:44:29.287Z"
+}

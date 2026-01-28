@@ -1,2 +1,8 @@
-# Write your MySQL query statement below
-select  distinct class from Courses group by class having count(student)>4
+SELECT
+    class
+FROM
+    Courses
+GROUP BY
+    class
+HAVING
+    COUNT(student) >= 5;

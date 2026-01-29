@@ -1,0 +1,16 @@
+{
+  "id": "1441",
+  "title": "Build an Array With Stack Operations",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "build-an-array-with-stack-operations",
+  "acceptanceDate": "2026-01-29T15:58:27.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/build-an-array-with-stack-operations/",
+  "submissionId": 1901092741,
+  "lastUpdated": "2026-07-31T06:44:35.266Z"
+}

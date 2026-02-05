@@ -1,0 +1,15 @@
+{
+  "id": "3379",
+  "title": "Transformed Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "transformed-array",
+  "acceptanceDate": "2026-02-05T14:04:49.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/transformed-array/",
+  "submissionId": 1909173316,
+  "lastUpdated": "2026-07-31T06:44:37.905Z"
+}

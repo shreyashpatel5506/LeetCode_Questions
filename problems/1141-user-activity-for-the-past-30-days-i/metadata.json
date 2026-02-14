@@ -1,0 +1,14 @@
+{
+  "id": "1141",
+  "title": "User Activity for the Past 30 Days I",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "user-activity-for-the-past-30-days-i",
+  "acceptanceDate": "2026-02-14T11:09:25.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/",
+  "submissionId": 1918838395,
+  "lastUpdated": "2026-07-31T06:44:42.868Z"
+}

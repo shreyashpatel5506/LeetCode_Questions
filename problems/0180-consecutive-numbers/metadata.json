@@ -1,0 +1,14 @@
+{
+  "id": "0180",
+  "title": "Consecutive Numbers",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "consecutive-numbers",
+  "acceptanceDate": "2026-02-14T11:33:50.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/consecutive-numbers/",
+  "submissionId": 1918854630,
+  "lastUpdated": "2026-07-31T06:44:52.010Z"
+}

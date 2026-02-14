@@ -1,0 +1,14 @@
+{
+  "id": "0608",
+  "title": "Tree Node",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "tree-node",
+  "acceptanceDate": "2026-02-14T11:10:53.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/tree-node/",
+  "submissionId": 1918839388,
+  "lastUpdated": "2026-07-31T06:44:49.738Z"
+}

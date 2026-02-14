@@ -1,0 +1,14 @@
+{
+  "id": "1280",
+  "title": "Students and Examinations",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "students-and-examinations",
+  "acceptanceDate": "2026-02-14T11:10:12.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/students-and-examinations/",
+  "submissionId": 1918838909,
+  "lastUpdated": "2026-07-31T06:44:45.210Z"
+}

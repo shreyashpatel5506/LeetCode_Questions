@@ -1,0 +1,14 @@
+{
+  "id": "1070",
+  "title": "Product Sales Analysis III",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "product-sales-analysis-iii",
+  "acceptanceDate": "2026-02-14T12:13:02.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/product-sales-analysis-iii/",
+  "submissionId": 1918879923,
+  "lastUpdated": "2026-07-31T06:44:58.988Z"
+}

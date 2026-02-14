@@ -1,0 +1,14 @@
+{
+  "id": "1193",
+  "title": "Monthly Transactions I",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "monthly-transactions-i",
+  "acceptanceDate": "2026-02-14T10:53:17.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/monthly-transactions-i/",
+  "submissionId": 1918827707,
+  "lastUpdated": "2026-07-31T06:44:40.506Z"
+}

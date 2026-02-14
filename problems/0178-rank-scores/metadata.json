@@ -1,0 +1,14 @@
+{
+  "id": "0178",
+  "title": "Rank Scores",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "rank-scores",
+  "acceptanceDate": "2026-02-14T11:50:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rank-scores/",
+  "submissionId": 1918865512,
+  "lastUpdated": "2026-07-31T06:44:54.335Z"
+}

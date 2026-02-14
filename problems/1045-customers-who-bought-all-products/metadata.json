@@ -1,0 +1,14 @@
+{
+  "id": "1045",
+  "title": "Customers Who Bought All Products",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "customers-who-bought-all-products",
+  "acceptanceDate": "2026-02-14T11:10:32.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/customers-who-bought-all-products/",
+  "submissionId": 1918839141,
+  "lastUpdated": "2026-07-31T06:44:47.469Z"
+}

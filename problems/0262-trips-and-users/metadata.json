@@ -1,0 +1,14 @@
+{
+  "id": "0262",
+  "title": "Trips and Users",
+  "difficulty": "Hard",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "trips-and-users",
+  "acceptanceDate": "2026-02-14T12:05:45.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/trips-and-users/",
+  "submissionId": 1918875372,
+  "lastUpdated": "2026-07-31T06:44:56.686Z"
+}

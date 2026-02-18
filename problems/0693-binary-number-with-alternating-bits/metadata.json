@@ -1,0 +1,14 @@
+{
+  "id": "0693",
+  "title": "Binary Number with Alternating Bits",
+  "difficulty": "Easy",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "language": "java",
+  "slug": "binary-number-with-alternating-bits",
+  "acceptanceDate": "2026-02-18T16:13:30.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+  "submissionId": 1923459344,
+  "lastUpdated": "2026-07-31T06:45:01.985Z"
+}

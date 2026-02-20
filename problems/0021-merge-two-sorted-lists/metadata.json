@@ -1,0 +1,15 @@
+{
+  "id": "0021",
+  "title": "Merge Two Sorted Lists",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Recursion"
+  ],
+  "language": "java",
+  "slug": "merge-two-sorted-lists",
+  "acceptanceDate": "2026-02-20T14:45:35.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "submissionId": 1925456237,
+  "lastUpdated": "2026-07-31T06:45:04.226Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0601",
+  "title": "Human Traffic of Stadium",
+  "difficulty": "Hard",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "human-traffic-of-stadium",
+  "acceptanceDate": "2026-02-24T14:47:49.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/human-traffic-of-stadium/",
+  "submissionId": 1929752184,
+  "lastUpdated": "2026-07-31T06:45:10.974Z"
+}

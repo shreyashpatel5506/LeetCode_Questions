@@ -1,0 +1,15 @@
+{
+  "id": "2485",
+  "title": "Find the Pivot Integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "find-the-pivot-integer",
+  "acceptanceDate": "2026-02-24T18:27:04.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-pivot-integer/",
+  "submissionId": 1930011147,
+  "lastUpdated": "2026-07-31T06:45:14.639Z"
+}

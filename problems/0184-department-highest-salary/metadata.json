@@ -1,0 +1,14 @@
+{
+  "id": "0184",
+  "title": "Department Highest Salary",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "department-highest-salary",
+  "acceptanceDate": "2026-02-24T14:46:21.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/department-highest-salary/",
+  "submissionId": 1929750712,
+  "lastUpdated": "2026-07-31T06:45:07.832Z"
+}

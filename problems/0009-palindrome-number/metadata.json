@@ -1,0 +1,14 @@
+{
+  "id": "0009",
+  "title": "Palindrome Number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "palindrome-number",
+  "acceptanceDate": "2026-02-24T18:36:09.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+  "submissionId": 1930020731,
+  "lastUpdated": "2026-07-31T06:45:16.991Z"
+}

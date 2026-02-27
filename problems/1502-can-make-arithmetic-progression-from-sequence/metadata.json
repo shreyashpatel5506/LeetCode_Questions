@@ -1,0 +1,15 @@
+{
+  "id": "1502",
+  "title": "Can Make Arithmetic Progression From Sequence",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "can-make-arithmetic-progression-from-sequence",
+  "acceptanceDate": "2026-02-27T16:20:24.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/",
+  "submissionId": 1932933794,
+  "lastUpdated": "2026-07-31T06:45:21.995Z"
+}

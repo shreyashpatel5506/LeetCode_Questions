@@ -1,0 +1,14 @@
+{
+  "id": "0263",
+  "title": "Ugly Number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "ugly-number",
+  "acceptanceDate": "2026-02-28T11:29:22.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+  "submissionId": 1933573596,
+  "lastUpdated": "2026-07-31T06:45:24.280Z"
+}

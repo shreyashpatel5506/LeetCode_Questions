@@ -1,0 +1,14 @@
+{
+  "id": "0728",
+  "title": "Self Dividing Numbers",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "self-dividing-numbers",
+  "acceptanceDate": "2026-03-01T16:56:24.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/self-dividing-numbers/",
+  "submissionId": 1934927038,
+  "lastUpdated": "2026-07-31T06:45:26.565Z"
+}

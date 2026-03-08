@@ -1,0 +1,16 @@
+{
+  "id": "2578",
+  "title": "Split With Minimum Sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "split-with-minimum-sum",
+  "acceptanceDate": "2026-03-08T14:13:08.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/split-with-minimum-sum/",
+  "submissionId": 1942008306,
+  "lastUpdated": "2026-07-31T06:45:33.940Z"
+}

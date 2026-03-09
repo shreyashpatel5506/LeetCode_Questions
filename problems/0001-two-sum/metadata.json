@@ -6,10 +6,10 @@
     "Array",
     "Hash Table"
   ],
-  "language": "javascript",
+  "language": "java",
   "slug": "two-sum",
-  "acceptanceDate": "2026-07-30T10:00:00Z",
+  "acceptanceDate": "2026-03-09T15:48:48.000Z",
   "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
-  "submissionId": 100000001,
-  "lastUpdated": "2026-07-30T10:00:00Z"
+  "submissionId": 1943020048,
+  "lastUpdated": "2026-07-31T06:45:38.584Z"
 }

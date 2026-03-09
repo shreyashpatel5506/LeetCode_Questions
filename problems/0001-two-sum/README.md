@@ -4,11 +4,12 @@
 - **Problem ID:** 0001
 - **Difficulty:** Easy
 - **Topics:** Array, Hash Table
-- **Language:** javascript
-- **LeetCode Link:** [LeetCode Link](https://leetcode.com/problems/two-sum/)
+- **Language:** java
+- **LeetCode Link:** [LeetCode - Two Sum](https://leetcode.com/problems/two-sum/)
+- **Last Updated:** 2026-03-09
 
-## Solution Link
-- [solution.js](./solution.js)
+## Folder Contents
+- [Solution File](./solution.java)
 
 <!-- AI_EXPLANATION_START -->
 *No explanation added yet. AI explanations can be generated here in the future.*

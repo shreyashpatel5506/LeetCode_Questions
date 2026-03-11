@@ -1,0 +1,14 @@
+{
+  "id": "1009",
+  "title": "Complement of Base 10 Integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "language": "java",
+  "slug": "complement-of-base-10-integer",
+  "acceptanceDate": "2026-03-11T16:27:09.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/complement-of-base-10-integer/",
+  "submissionId": 1945200042,
+  "lastUpdated": "2026-07-31T06:45:41.381Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1486",
+  "title": "XOR Operation in an Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "language": "javascript",
+  "slug": "xor-operation-in-an-array",
+  "acceptanceDate": "2026-03-30T17:44:59.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+  "submissionId": 1964115347,
+  "lastUpdated": "2026-07-31T06:45:48.777Z"
+}

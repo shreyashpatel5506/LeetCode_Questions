@@ -1,0 +1,14 @@
+{
+  "id": "3436",
+  "title": "Find Valid Emails",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "find-valid-emails",
+  "acceptanceDate": "2026-04-04T14:17:45.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-valid-emails/",
+  "submissionId": 1968662851,
+  "lastUpdated": "2026-07-31T06:45:53.551Z"
+}

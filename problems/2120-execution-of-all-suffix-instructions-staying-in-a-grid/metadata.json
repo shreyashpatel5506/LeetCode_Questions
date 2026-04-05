@@ -1,0 +1,15 @@
+{
+  "id": "2120",
+  "title": "Execution of All Suffix Instructions Staying in a Grid",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "execution-of-all-suffix-instructions-staying-in-a-grid",
+  "acceptanceDate": "2026-04-05T06:14:28.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/",
+  "submissionId": 1969331983,
+  "lastUpdated": "2026-07-31T06:45:58.572Z"
+}

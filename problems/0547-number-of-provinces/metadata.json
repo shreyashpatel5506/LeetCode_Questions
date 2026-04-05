@@ -1,0 +1,17 @@
+{
+  "id": "0547",
+  "title": "Number of Provinces",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "java",
+  "slug": "number-of-provinces",
+  "acceptanceDate": "2026-04-05T07:31:11.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+  "submissionId": 1969398337,
+  "lastUpdated": "2026-07-31T06:46:00.910Z"
+}

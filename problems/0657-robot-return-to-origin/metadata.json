@@ -1,0 +1,15 @@
+{
+  "id": "0657",
+  "title": "Robot Return to Origin",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "robot-return-to-origin",
+  "acceptanceDate": "2026-04-05T05:18:06.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+  "submissionId": 1969284830,
+  "lastUpdated": "2026-07-31T06:45:55.874Z"
+}

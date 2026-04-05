@@ -1,0 +1,16 @@
+{
+  "id": "2150",
+  "title": "Find All Lonely Numbers in the Array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "find-all-lonely-numbers-in-the-array",
+  "acceptanceDate": "2026-04-05T10:09:57.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/",
+  "submissionId": 1969512445,
+  "lastUpdated": "2026-07-31T06:46:03.177Z"
+}

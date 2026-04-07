@@ -1,0 +1,15 @@
+{
+  "id": "1390",
+  "title": "Four Divisors",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "java",
+  "slug": "four-divisors",
+  "acceptanceDate": "2026-04-07T17:34:16.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/four-divisors/",
+  "submissionId": 1971843150,
+  "lastUpdated": "2026-07-31T06:46:05.472Z"
+}

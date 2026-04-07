@@ -1,0 +1,15 @@
+{
+  "id": "2643",
+  "title": "Row With Maximum Ones",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "language": "java",
+  "slug": "row-with-maximum-ones",
+  "acceptanceDate": "2026-04-07T17:47:57.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/row-with-maximum-ones/",
+  "submissionId": 1971858941,
+  "lastUpdated": "2026-07-31T06:46:07.854Z"
+}

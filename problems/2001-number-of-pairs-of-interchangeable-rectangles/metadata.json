@@ -1,0 +1,18 @@
+{
+  "id": "2001",
+  "title": "Number of Pairs of Interchangeable Rectangles",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting",
+    "Number Theory"
+  ],
+  "language": "java",
+  "slug": "number-of-pairs-of-interchangeable-rectangles",
+  "acceptanceDate": "2026-04-08T13:28:22.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/",
+  "submissionId": 1972597639,
+  "lastUpdated": "2026-07-31T06:46:12.425Z"
+}

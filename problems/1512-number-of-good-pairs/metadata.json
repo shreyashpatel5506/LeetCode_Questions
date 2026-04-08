@@ -1,0 +1,17 @@
+{
+  "id": "1512",
+  "title": "Number of Good Pairs",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "number-of-good-pairs",
+  "acceptanceDate": "2026-04-08T13:17:28.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+  "submissionId": 1972587905,
+  "lastUpdated": "2026-07-31T06:46:10.153Z"
+}

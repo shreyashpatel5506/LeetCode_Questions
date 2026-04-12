@@ -1,0 +1,15 @@
+{
+  "id": "3740",
+  "title": "Minimum Distance Between Three Equal Elements I",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "java",
+  "slug": "minimum-distance-between-three-equal-elements-i",
+  "acceptanceDate": "2026-04-12T12:52:18.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/",
+  "submissionId": 1976400479,
+  "lastUpdated": "2026-07-31T06:46:19.463Z"
+}

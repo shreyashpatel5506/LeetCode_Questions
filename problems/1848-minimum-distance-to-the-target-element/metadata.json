@@ -1,0 +1,14 @@
+{
+  "id": "1848",
+  "title": "Minimum Distance to the Target Element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "java",
+  "slug": "minimum-distance-to-the-target-element",
+  "acceptanceDate": "2026-04-13T12:36:46.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-to-the-target-element/",
+  "submissionId": 1977304401,
+  "lastUpdated": "2026-07-31T06:46:21.761Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2515",
+  "title": "Shortest Distance to Target String in a Circular Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String"
+  ],
+  "language": "java",
+  "slug": "shortest-distance-to-target-string-in-a-circular-array",
+  "acceptanceDate": "2026-04-15T17:14:45.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/",
+  "submissionId": 1979396134,
+  "lastUpdated": "2026-07-31T06:46:24.749Z"
+}

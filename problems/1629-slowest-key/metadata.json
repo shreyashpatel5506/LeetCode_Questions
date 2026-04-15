@@ -1,0 +1,15 @@
+{
+  "id": "1629",
+  "title": "Slowest Key",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String"
+  ],
+  "language": "java",
+  "slug": "slowest-key",
+  "acceptanceDate": "2026-04-15T18:17:17.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/slowest-key/",
+  "submissionId": 1979461314,
+  "lastUpdated": "2026-07-31T06:46:27.504Z"
+}

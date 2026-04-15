@@ -1,0 +1,16 @@
+{
+  "id": "1854",
+  "title": "Maximum Population Year",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Counting",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "maximum-population-year",
+  "acceptanceDate": "2026-04-15T18:49:27.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-population-year/",
+  "submissionId": 1979491032,
+  "lastUpdated": "2026-07-31T06:46:29.765Z"
+}

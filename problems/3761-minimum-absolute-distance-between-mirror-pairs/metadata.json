@@ -1,0 +1,16 @@
+{
+  "id": "3761",
+  "title": "Minimum Absolute Distance Between Mirror Pairs",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math"
+  ],
+  "language": "java",
+  "slug": "minimum-absolute-distance-between-mirror-pairs",
+  "acceptanceDate": "2026-04-17T14:45:21.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/",
+  "submissionId": 1981010486,
+  "lastUpdated": "2026-07-31T06:46:34.429Z"
+}

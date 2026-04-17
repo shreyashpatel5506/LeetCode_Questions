@@ -1,0 +1,15 @@
+{
+  "id": "0056",
+  "title": "Merge Intervals",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "merge-intervals",
+  "acceptanceDate": "2026-04-17T16:55:20.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+  "submissionId": 1981114439,
+  "lastUpdated": "2026-07-31T06:46:37.387Z"
+}

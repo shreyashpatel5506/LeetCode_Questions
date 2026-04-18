@@ -1,0 +1,15 @@
+{
+  "id": "3697",
+  "title": "Compute Decimal Representation",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "java",
+  "slug": "compute-decimal-representation",
+  "acceptanceDate": "2026-04-18T08:31:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/compute-decimal-representation/",
+  "submissionId": 1981574784,
+  "lastUpdated": "2026-07-31T06:46:44.528Z"
+}

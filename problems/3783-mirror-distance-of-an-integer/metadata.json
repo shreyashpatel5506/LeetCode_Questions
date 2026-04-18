@@ -1,0 +1,14 @@
+{
+  "id": "3783",
+  "title": "Mirror Distance of an Integer",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "mirror-distance-of-an-integer",
+  "acceptanceDate": "2026-04-18T06:29:55.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/mirror-distance-of-an-integer/",
+  "submissionId": 1981494750,
+  "lastUpdated": "2026-07-31T06:46:39.725Z"
+}

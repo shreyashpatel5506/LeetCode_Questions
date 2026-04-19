@@ -1,0 +1,14 @@
+{
+  "id": "1299",
+  "title": "Replace Elements with Greatest Element on Right Side",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "java",
+  "slug": "replace-elements-with-greatest-element-on-right-side",
+  "acceptanceDate": "2026-04-19T15:42:48.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/",
+  "submissionId": 1982788522,
+  "lastUpdated": "2026-07-31T06:46:52.240Z"
+}

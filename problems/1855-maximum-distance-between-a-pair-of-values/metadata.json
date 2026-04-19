@@ -1,0 +1,16 @@
+{
+  "id": "1855",
+  "title": "Maximum Distance Between a Pair of Values",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "language": "java",
+  "slug": "maximum-distance-between-a-pair-of-values",
+  "acceptanceDate": "2026-04-19T15:08:52.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/",
+  "submissionId": 1982763324,
+  "lastUpdated": "2026-07-31T06:46:49.336Z"
+}

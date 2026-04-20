@@ -1,0 +1,15 @@
+{
+  "id": "2078",
+  "title": "Two Furthest Houses With Different Colors",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "java",
+  "slug": "two-furthest-houses-with-different-colors",
+  "acceptanceDate": "2026-04-20T11:21:48.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/",
+  "submissionId": 1983506192,
+  "lastUpdated": "2026-07-31T06:46:54.712Z"
+}

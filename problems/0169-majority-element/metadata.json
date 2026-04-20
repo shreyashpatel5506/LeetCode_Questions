@@ -1,0 +1,18 @@
+{
+  "id": "0169",
+  "title": "Majority Element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "majority-element",
+  "acceptanceDate": "2026-04-20T18:12:57.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+  "submissionId": 1983852304,
+  "lastUpdated": "2026-07-31T06:46:59.745Z"
+}

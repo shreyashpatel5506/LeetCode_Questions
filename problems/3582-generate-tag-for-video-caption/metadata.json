@@ -1,0 +1,15 @@
+{
+  "id": "3582",
+  "title": "Generate Tag for Video Caption",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "generate-tag-for-video-caption",
+  "acceptanceDate": "2026-04-20T12:45:44.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/generate-tag-for-video-caption/",
+  "submissionId": 1983559764,
+  "lastUpdated": "2026-07-31T06:46:56.944Z"
+}

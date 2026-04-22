@@ -1,0 +1,15 @@
+{
+  "id": "3903",
+  "title": "Smallest Stable Index I",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "smallest-stable-index-i",
+  "acceptanceDate": "2026-04-22T15:49:55.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+  "submissionId": 1985452567,
+  "lastUpdated": "2026-07-31T06:47:04.280Z"
+}

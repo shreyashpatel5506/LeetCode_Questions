@@ -1,0 +1,16 @@
+{
+  "id": "0242",
+  "title": "Valid Anagram",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "valid-anagram",
+  "acceptanceDate": "2026-04-23T15:20:47.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+  "submissionId": 1986262886,
+  "lastUpdated": "2026-07-31T06:47:06.587Z"
+}

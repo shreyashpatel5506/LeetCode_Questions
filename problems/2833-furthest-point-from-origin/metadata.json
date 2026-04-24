@@ -1,0 +1,15 @@
+{
+  "id": "2833",
+  "title": "Furthest Point From Origin",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "furthest-point-from-origin",
+  "acceptanceDate": "2026-04-24T15:47:52.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/furthest-point-from-origin/",
+  "submissionId": 1987107132,
+  "lastUpdated": "2026-07-31T06:47:09.557Z"
+}

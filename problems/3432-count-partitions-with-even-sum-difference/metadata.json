@@ -1,0 +1,16 @@
+{
+  "id": "3432",
+  "title": "Count Partitions with Even Sum Difference",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "count-partitions-with-even-sum-difference",
+  "acceptanceDate": "2026-04-25T09:00:20.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-even-sum-difference/",
+  "submissionId": 1987587900,
+  "lastUpdated": "2026-07-31T06:47:11.817Z"
+}

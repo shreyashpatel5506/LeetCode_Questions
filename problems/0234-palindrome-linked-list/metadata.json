@@ -1,0 +1,17 @@
+{
+  "id": "0234",
+  "title": "Palindrome Linked List",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+  ],
+  "language": "java",
+  "slug": "palindrome-linked-list",
+  "acceptanceDate": "2026-04-25T12:40:32.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+  "submissionId": 1987714422,
+  "lastUpdated": "2026-07-31T06:47:20.921Z"
+}

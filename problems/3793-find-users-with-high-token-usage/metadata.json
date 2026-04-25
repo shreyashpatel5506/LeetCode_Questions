@@ -1,0 +1,12 @@
+{
+  "id": "3793",
+  "title": "Find Users with High Token Usage",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "mysql",
+  "slug": "find-users-with-high-token-usage",
+  "acceptanceDate": "2026-04-25T09:48:48.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-users-with-high-token-usage/",
+  "submissionId": 1987617089,
+  "lastUpdated": "2026-07-31T06:47:14.151Z"
+}

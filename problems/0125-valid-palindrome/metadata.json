@@ -1,0 +1,15 @@
+{
+  "id": "0125",
+  "title": "Valid Palindrome",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "java",
+  "slug": "valid-palindrome",
+  "acceptanceDate": "2026-04-25T12:34:06.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+  "submissionId": 1987710928,
+  "lastUpdated": "2026-07-31T06:47:18.641Z"
+}

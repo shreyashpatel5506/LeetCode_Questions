@@ -6,12 +6,9 @@ class Solution {
                 cleaned.append(c);
             }
         }
-
-        // Get the cleaned string and reverse it
         String filtered = cleaned.toString();
         String reversed = cleaned.reverse().toString();
 
-        // Compare filtered and reversed
         return filtered.equals(reversed);
     }
 }

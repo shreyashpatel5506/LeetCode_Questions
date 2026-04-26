@@ -1,0 +1,14 @@
+{
+  "id": "1837",
+  "title": "Sum of Digits in Base K",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "sum-of-digits-in-base-k",
+  "acceptanceDate": "2026-04-26T09:18:58.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-digits-in-base-k/",
+  "submissionId": 1988502673,
+  "lastUpdated": "2026-07-31T06:47:23.209Z"
+}

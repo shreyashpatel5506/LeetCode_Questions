@@ -1,0 +1,16 @@
+{
+  "id": "0004",
+  "title": "Median of Two Sorted Arrays",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "language": "java",
+  "slug": "median-of-two-sorted-arrays",
+  "acceptanceDate": "2026-04-26T12:54:43.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "submissionId": 1988629160,
+  "lastUpdated": "2026-07-31T06:47:28.168Z"
+}

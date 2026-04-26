@@ -1,0 +1,15 @@
+{
+  "id": "0643",
+  "title": "Maximum Average Subarray I",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sliding Window"
+  ],
+  "language": "java",
+  "slug": "maximum-average-subarray-i",
+  "acceptanceDate": "2026-04-26T13:07:22.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+  "submissionId": 1988637257,
+  "lastUpdated": "2026-07-31T06:47:30.435Z"
+}

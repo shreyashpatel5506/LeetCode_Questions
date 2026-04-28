@@ -1,0 +1,16 @@
+{
+  "id": "3174",
+  "title": "Clear Digits",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "clear-digits",
+  "acceptanceDate": "2026-04-28T11:07:32.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/clear-digits/",
+  "submissionId": 1990155835,
+  "lastUpdated": "2026-07-31T06:47:32.711Z"
+}

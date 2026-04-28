@@ -1,0 +1,16 @@
+{
+  "id": "0258",
+  "title": "Add Digits",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Simulation",
+    "Number Theory"
+  ],
+  "language": "java",
+  "slug": "add-digits",
+  "acceptanceDate": "2026-04-28T15:45:03.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+  "submissionId": 1990342165,
+  "lastUpdated": "2026-07-31T06:47:37.412Z"
+}

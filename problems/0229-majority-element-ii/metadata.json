@@ -1,0 +1,17 @@
+{
+  "id": "0229",
+  "title": "Majority Element II",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "majority-element-ii",
+  "acceptanceDate": "2026-04-30T12:16:35.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+  "submissionId": 1991798867,
+  "lastUpdated": "2026-07-31T06:47:48.216Z"
+}

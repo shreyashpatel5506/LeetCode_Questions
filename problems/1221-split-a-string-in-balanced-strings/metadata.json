@@ -1,0 +1,16 @@
+{
+  "id": "1221",
+  "title": "Split a String in Balanced Strings",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Greedy",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "split-a-string-in-balanced-strings",
+  "acceptanceDate": "2026-04-30T14:38:19.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/split-a-string-in-balanced-strings/",
+  "submissionId": 1991880529,
+  "lastUpdated": "2026-07-31T06:48:01.989Z"
+}

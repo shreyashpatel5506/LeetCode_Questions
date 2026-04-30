@@ -1,0 +1,17 @@
+{
+  "id": "2351",
+  "title": "First Letter to Appear Twice",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "first-letter-to-appear-twice",
+  "acceptanceDate": "2026-04-30T14:25:03.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/first-letter-to-appear-twice/",
+  "submissionId": 1991872318,
+  "lastUpdated": "2026-07-31T06:47:59.693Z"
+}

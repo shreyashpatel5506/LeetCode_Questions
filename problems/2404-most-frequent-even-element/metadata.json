@@ -1,0 +1,16 @@
+{
+  "id": "2404",
+  "title": "Most Frequent Even Element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "most-frequent-even-element",
+  "acceptanceDate": "2026-04-30T12:03:08.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/most-frequent-even-element/",
+  "submissionId": 1991792312,
+  "lastUpdated": "2026-07-31T06:47:45.802Z"
+}

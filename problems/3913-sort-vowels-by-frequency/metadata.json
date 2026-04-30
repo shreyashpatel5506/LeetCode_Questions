@@ -1,0 +1,16 @@
+{
+  "id": "3913",
+  "title": "Sort Vowels by Frequency",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "sort-vowels-by-frequency",
+  "acceptanceDate": "2026-04-30T13:31:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-vowels-by-frequency/",
+  "submissionId": 1991838785,
+  "lastUpdated": "2026-07-31T06:47:52.744Z"
+}

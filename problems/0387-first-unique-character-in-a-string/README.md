@@ -1,0 +1,16 @@
+# First Unique Character in a String
+
+## Details
+- **Problem ID:** 0387
+- **Difficulty:** Easy
+- **Topics:** Hash Table, String, Queue, Counting
+- **Language:** java
+- **LeetCode Link:** [LeetCode - First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- **Last Updated:** 2026-04-30
+
+## Folder Contents
+- [Solution File](./solution.java)
+
+<!-- AI_EXPLANATION_START -->
+*No explanation added yet. AI explanations can be generated here in the future.*
+<!-- AI_EXPLANATION_END -->

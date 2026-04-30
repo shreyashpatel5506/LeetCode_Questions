@@ -1,0 +1,21 @@
+{
+  "id": "0347",
+  "title": "Top K Frequent Elements",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect"
+  ],
+  "language": "java",
+  "slug": "top-k-frequent-elements",
+  "acceptanceDate": "2026-04-30T13:31:48.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+  "submissionId": 1991839138,
+  "lastUpdated": "2026-07-31T06:47:55.158Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0172",
+  "title": "Factorial Trailing Zeroes",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "factorial-trailing-zeroes",
+  "acceptanceDate": "2026-05-01T12:15:00.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+  "submissionId": 1992550636,
+  "lastUpdated": "2026-07-31T06:48:18.615Z"
+}

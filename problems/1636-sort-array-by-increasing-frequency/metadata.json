@@ -1,0 +1,16 @@
+{
+  "id": "1636",
+  "title": "Sort Array by Increasing Frequency",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "sort-array-by-increasing-frequency",
+  "acceptanceDate": "2026-05-01T14:01:12.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+  "submissionId": 1992613975,
+  "lastUpdated": "2026-07-31T06:48:28.198Z"
+}

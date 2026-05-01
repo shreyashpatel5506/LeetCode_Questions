@@ -1,0 +1,15 @@
+{
+  "id": "0020",
+  "title": "Valid Parentheses",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "language": "java",
+  "slug": "valid-parentheses",
+  "acceptanceDate": "2026-05-01T11:04:13.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+  "submissionId": 1992510729,
+  "lastUpdated": "2026-07-31T06:48:10.454Z"
+}

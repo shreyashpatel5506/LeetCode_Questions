@@ -1,0 +1,16 @@
+{
+  "id": "2341",
+  "title": "Maximum Number of Pairs in Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "maximum-number-of-pairs-in-array",
+  "acceptanceDate": "2026-05-01T13:52:40.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-pairs-in-array/",
+  "submissionId": 1992608301,
+  "lastUpdated": "2026-07-31T06:48:25.868Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2523",
+  "title": "Closest Prime Numbers in Range",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Number Theory"
+  ],
+  "language": "java",
+  "slug": "closest-prime-numbers-in-range",
+  "acceptanceDate": "2026-05-01T12:41:59.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/closest-prime-numbers-in-range/",
+  "submissionId": 1992565096,
+  "lastUpdated": "2026-07-31T06:48:20.977Z"
+}

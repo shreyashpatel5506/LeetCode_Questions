@@ -1,0 +1,15 @@
+{
+  "id": "0026",
+  "title": "Remove Duplicates from Sorted Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "language": "java",
+  "slug": "remove-duplicates-from-sorted-array",
+  "acceptanceDate": "2026-05-01T14:14:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+  "submissionId": 1992622871,
+  "lastUpdated": "2026-07-31T06:48:30.643Z"
+}

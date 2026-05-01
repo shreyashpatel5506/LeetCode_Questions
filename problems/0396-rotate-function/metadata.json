@@ -1,0 +1,16 @@
+{
+  "id": "0396",
+  "title": "Rotate Function",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming"
+  ],
+  "language": "java",
+  "slug": "rotate-function",
+  "acceptanceDate": "2026-05-01T09:46:14.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rotate-function/",
+  "submissionId": 1992461048,
+  "lastUpdated": "2026-07-31T06:48:04.263Z"
+}

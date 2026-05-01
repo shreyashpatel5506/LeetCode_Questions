@@ -1,0 +1,17 @@
+{
+  "id": "0204",
+  "title": "Count Primes",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "language": "java",
+  "slug": "count-primes",
+  "acceptanceDate": "2026-05-01T11:55:30.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+  "submissionId": 1992539621,
+  "lastUpdated": "2026-07-31T06:48:16.353Z"
+}

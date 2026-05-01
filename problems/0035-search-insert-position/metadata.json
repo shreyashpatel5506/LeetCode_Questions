@@ -1,0 +1,15 @@
+{
+  "id": "0035",
+  "title": "Search Insert Position",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "java",
+  "slug": "search-insert-position",
+  "acceptanceDate": "2026-05-01T10:50:01.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+  "submissionId": 1992502143,
+  "lastUpdated": "2026-07-31T06:48:07.705Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0692",
+  "title": "Top K Frequent Words",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "top-k-frequent-words",
+  "acceptanceDate": "2026-05-01T13:10:13.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+  "submissionId": 1992581639,
+  "lastUpdated": "2026-07-31T06:48:23.601Z"
+}

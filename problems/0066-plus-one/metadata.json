@@ -1,0 +1,15 @@
+{
+  "id": "0066",
+  "title": "Plus One",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "java",
+  "slug": "plus-one",
+  "acceptanceDate": "2026-05-01T14:30:14.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+  "submissionId": 1992633515,
+  "lastUpdated": "2026-07-31T06:48:32.929Z"
+}

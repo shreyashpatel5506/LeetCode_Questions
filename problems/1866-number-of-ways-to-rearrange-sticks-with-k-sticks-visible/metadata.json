@@ -1,0 +1,16 @@
+{
+  "id": "1866",
+  "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics"
+  ],
+  "language": "java",
+  "slug": "number-of-ways-to-rearrange-sticks-with-k-sticks-visible",
+  "acceptanceDate": "2026-05-01T11:37:40.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/",
+  "submissionId": 1992529662,
+  "lastUpdated": "2026-07-31T06:48:13.299Z"
+}

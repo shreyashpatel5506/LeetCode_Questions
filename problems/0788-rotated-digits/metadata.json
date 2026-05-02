@@ -1,0 +1,15 @@
+{
+  "id": "0788",
+  "title": "Rotated Digits",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "language": "java",
+  "slug": "rotated-digits",
+  "acceptanceDate": "2026-05-02T11:51:04.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rotated-digits/",
+  "submissionId": 1993296127,
+  "lastUpdated": "2026-07-31T06:48:35.188Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "1742",
+  "title": "Maximum Number of Balls in a Box",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "maximum-number-of-balls-in-a-box",
+  "acceptanceDate": "2026-05-02T16:05:23.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/",
+  "submissionId": 1993456222,
+  "lastUpdated": "2026-07-31T06:48:42.155Z"
+}

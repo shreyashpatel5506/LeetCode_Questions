@@ -1,0 +1,14 @@
+{
+  "id": "0177",
+  "title": "Nth Highest Salary",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "nth-highest-salary",
+  "acceptanceDate": "2026-05-02T12:34:51.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/nth-highest-salary/",
+  "submissionId": 1993320737,
+  "lastUpdated": "2026-07-31T06:48:37.445Z"
+}

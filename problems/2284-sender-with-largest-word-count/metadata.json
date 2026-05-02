@@ -1,0 +1,17 @@
+{
+  "id": "2284",
+  "title": "Sender With Largest Word Count",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "sender-with-largest-word-count",
+  "acceptanceDate": "2026-05-02T13:49:39.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sender-with-largest-word-count/",
+  "submissionId": 1993366284,
+  "lastUpdated": "2026-07-31T06:48:39.846Z"
+}

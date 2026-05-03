@@ -1,0 +1,14 @@
+{
+  "id": "2119",
+  "title": "A Number After a Double Reversal",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "a-number-after-a-double-reversal",
+  "acceptanceDate": "2026-05-03T16:51:50.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/a-number-after-a-double-reversal/",
+  "submissionId": 1994342803,
+  "lastUpdated": "2026-07-31T06:49:03.103Z"
+}

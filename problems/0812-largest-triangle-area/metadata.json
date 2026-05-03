@@ -1,0 +1,16 @@
+{
+  "id": "0812",
+  "title": "Largest Triangle Area",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry"
+  ],
+  "language": "java",
+  "slug": "largest-triangle-area",
+  "acceptanceDate": "2026-05-03T10:53:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-triangle-area/",
+  "submissionId": 1994102770,
+  "lastUpdated": "2026-07-31T06:48:55.981Z"
+}

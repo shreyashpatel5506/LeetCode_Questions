@@ -1,0 +1,17 @@
+{
+  "id": "0883",
+  "title": "Projection Area of 3D Shapes",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry",
+    "Matrix"
+  ],
+  "language": "java",
+  "slug": "projection-area-of-3d-shapes",
+  "acceptanceDate": "2026-05-03T10:59:21.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/projection-area-of-3d-shapes/",
+  "submissionId": 1994106730,
+  "lastUpdated": "2026-07-31T06:48:58.392Z"
+}

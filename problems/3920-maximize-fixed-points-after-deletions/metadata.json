@@ -1,0 +1,16 @@
+{
+  "id": "3920",
+  "title": "Maximize Fixed Points After Deletions",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "maximize-fixed-points-after-deletions",
+  "acceptanceDate": "2026-05-03T03:15:41.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-fixed-points-after-deletions/",
+  "submissionId": 1993795073,
+  "lastUpdated": "2026-07-31T06:48:51.395Z"
+}

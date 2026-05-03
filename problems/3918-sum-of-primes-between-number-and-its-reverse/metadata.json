@@ -1,0 +1,15 @@
+{
+  "id": "3918",
+  "title": "Sum of Primes Between Number and Its Reverse",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Number Theory"
+  ],
+  "language": "java",
+  "slug": "sum-of-primes-between-number-and-its-reverse",
+  "acceptanceDate": "2026-05-03T03:01:24.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/",
+  "submissionId": 1993778018,
+  "lastUpdated": "2026-07-31T06:48:46.775Z"
+}

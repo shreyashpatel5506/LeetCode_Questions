@@ -1,0 +1,16 @@
+{
+  "id": "3919",
+  "title": "Minimum Cost to Move Between Indices",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "minimum-cost-to-move-between-indices",
+  "acceptanceDate": "2026-05-03T03:13:31.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-move-between-indices/",
+  "submissionId": 1993792599,
+  "lastUpdated": "2026-07-31T06:48:49.067Z"
+}

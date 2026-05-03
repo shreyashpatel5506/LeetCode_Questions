@@ -1,0 +1,14 @@
+{
+  "id": "3917",
+  "title": "Count Indices With Opposite Parity",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "java",
+  "slug": "count-indices-with-opposite-parity",
+  "acceptanceDate": "2026-05-03T02:52:25.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-indices-with-opposite-parity/",
+  "submissionId": 1993766442,
+  "lastUpdated": "2026-07-31T06:48:44.501Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3083",
+  "title": "Existence of a Substring in a String and Its Reverse",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "java",
+  "slug": "existence-of-a-substring-in-a-string-and-its-reverse",
+  "acceptanceDate": "2026-05-04T09:30:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/",
+  "submissionId": 1994839063,
+  "lastUpdated": "2026-07-31T06:49:14.705Z"
+}

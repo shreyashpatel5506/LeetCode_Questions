@@ -1,0 +1,15 @@
+{
+  "id": "1812",
+  "title": "Determine Color of a Chessboard Square",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "language": "java",
+  "slug": "determine-color-of-a-chessboard-square",
+  "acceptanceDate": "2026-05-04T09:15:53.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/determine-color-of-a-chessboard-square/",
+  "submissionId": 1994829699,
+  "lastUpdated": "2026-07-31T06:49:10.179Z"
+}

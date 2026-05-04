@@ -1,0 +1,15 @@
+{
+  "id": "3274",
+  "title": "Check if Two Chessboard Squares Have the Same Color",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "language": "java",
+  "slug": "check-if-two-chessboard-squares-have-the-same-color",
+  "acceptanceDate": "2026-05-04T09:13:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/",
+  "submissionId": 1994827913,
+  "lastUpdated": "2026-07-31T06:49:07.623Z"
+}

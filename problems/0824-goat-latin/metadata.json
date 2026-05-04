@@ -1,0 +1,14 @@
+{
+  "id": "0824",
+  "title": "Goat Latin",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "java",
+  "slug": "goat-latin",
+  "acceptanceDate": "2026-05-04T10:04:57.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/goat-latin/",
+  "submissionId": 1994862035,
+  "lastUpdated": "2026-07-31T06:49:16.948Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2352",
+  "title": "Equal Row and Column Pairs",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "equal-row-and-column-pairs",
+  "acceptanceDate": "2026-05-04T11:12:40.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/equal-row-and-column-pairs/",
+  "submissionId": 1994902360,
+  "lastUpdated": "2026-07-31T06:49:19.250Z"
+}

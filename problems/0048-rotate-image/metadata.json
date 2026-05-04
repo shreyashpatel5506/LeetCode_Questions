@@ -1,0 +1,16 @@
+{
+  "id": "0048",
+  "title": "Rotate Image",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Matrix"
+  ],
+  "language": "java",
+  "slug": "rotate-image",
+  "acceptanceDate": "2026-05-04T08:00:38.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+  "submissionId": 1994783948,
+  "lastUpdated": "2026-07-31T06:49:05.360Z"
+}

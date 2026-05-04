@@ -1,0 +1,15 @@
+{
+  "id": "0771",
+  "title": "Jewels and Stones",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "java",
+  "slug": "jewels-and-stones",
+  "acceptanceDate": "2026-05-04T09:25:10.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+  "submissionId": 1994835616,
+  "lastUpdated": "2026-07-31T06:49:12.461Z"
+}

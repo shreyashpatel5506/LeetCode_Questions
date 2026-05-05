@@ -1,0 +1,15 @@
+{
+  "id": "0061",
+  "title": "Rotate List",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "language": "java",
+  "slug": "rotate-list",
+  "acceptanceDate": "2026-05-05T03:53:33.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+  "submissionId": 1995432133,
+  "lastUpdated": "2026-07-31T06:49:21.563Z"
+}

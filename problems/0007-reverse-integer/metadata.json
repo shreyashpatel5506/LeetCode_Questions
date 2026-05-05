@@ -1,0 +1,14 @@
+{
+  "id": "0007",
+  "title": "Reverse Integer",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "reverse-integer",
+  "acceptanceDate": "2026-05-05T14:35:27.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+  "submissionId": 1995883311,
+  "lastUpdated": "2026-07-31T06:49:24.558Z"
+}

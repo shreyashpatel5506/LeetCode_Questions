@@ -1,0 +1,16 @@
+{
+  "id": "1861",
+  "title": "Rotating the Box",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Matrix"
+  ],
+  "language": "java",
+  "slug": "rotating-the-box",
+  "acceptanceDate": "2026-05-06T04:11:42.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box/",
+  "submissionId": 1996309310,
+  "lastUpdated": "2026-07-31T06:49:28.358Z"
+}

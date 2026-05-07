@@ -1,0 +1,12 @@
+{
+  "id": "2721",
+  "title": "Execute Asynchronous Functions in Parallel",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "javascript",
+  "slug": "execute-asynchronous-functions-in-parallel",
+  "acceptanceDate": "2026-05-07T07:38:09.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/",
+  "submissionId": 1997188489,
+  "lastUpdated": "2026-07-31T06:50:03.915Z"
+}

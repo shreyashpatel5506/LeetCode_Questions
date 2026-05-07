@@ -1,0 +1,14 @@
+{
+  "id": "0602",
+  "title": "Friend Requests II: Who Has the Most Friends",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "friend-requests-ii-who-has-the-most-friends",
+  "acceptanceDate": "2026-05-07T07:43:19.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/",
+  "submissionId": 1997191245,
+  "lastUpdated": "2026-07-31T06:50:15.798Z"
+}

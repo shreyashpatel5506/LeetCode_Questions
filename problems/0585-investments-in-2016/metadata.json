@@ -1,0 +1,14 @@
+{
+  "id": "0585",
+  "title": "Investments in 2016",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "investments-in-2016",
+  "acceptanceDate": "2026-05-07T07:40:12.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/investments-in-2016/",
+  "submissionId": 1997189614,
+  "lastUpdated": "2026-07-31T06:50:11.261Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0185",
+  "title": "Department Top Three Salaries",
+  "difficulty": "Hard",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "department-top-three-salaries",
+  "acceptanceDate": "2026-05-07T07:40:25.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/department-top-three-salaries/",
+  "submissionId": 1997189750,
+  "lastUpdated": "2026-07-31T06:50:13.514Z"
+}

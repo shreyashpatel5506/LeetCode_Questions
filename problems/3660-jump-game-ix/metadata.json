@@ -1,0 +1,15 @@
+{
+  "id": "3660",
+  "title": "Jump Game IX",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "java",
+  "slug": "jump-game-ix",
+  "acceptanceDate": "2026-05-07T03:29:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/jump-game-ix/",
+  "submissionId": 1997035709,
+  "lastUpdated": "2026-07-31T06:49:31.227Z"
+}

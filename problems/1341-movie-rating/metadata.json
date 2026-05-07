@@ -1,0 +1,14 @@
+{
+  "id": "1341",
+  "title": "Movie Rating",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "movie-rating",
+  "acceptanceDate": "2026-05-07T07:40:01.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/movie-rating/",
+  "submissionId": 1997189503,
+  "lastUpdated": "2026-07-31T06:50:08.909Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0626",
+  "title": "Exchange Seats",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "exchange-seats",
+  "acceptanceDate": "2026-05-07T07:39:46.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/exchange-seats/",
+  "submissionId": 1997189371,
+  "lastUpdated": "2026-07-31T06:50:06.523Z"
+}

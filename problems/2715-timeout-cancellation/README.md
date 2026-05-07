@@ -1,0 +1,16 @@
+# Timeout Cancellation
+
+## Details
+- **Problem ID:** 2715
+- **Difficulty:** Easy
+- **Topics:** None
+- **Language:** javascript
+- **LeetCode Link:** [LeetCode - Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/)
+- **Last Updated:** 2026-05-07
+
+## Folder Contents
+- [Solution File](./solution.js)
+
+<!-- AI_EXPLANATION_START -->
+*No explanation added yet. AI explanations can be generated here in the future.*
+<!-- AI_EXPLANATION_END -->

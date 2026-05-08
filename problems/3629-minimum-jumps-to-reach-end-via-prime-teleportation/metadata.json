@@ -1,0 +1,18 @@
+{
+  "id": "3629",
+  "title": "Minimum Jumps to Reach End via Prime Teleportation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Breadth-First Search",
+    "Number Theory"
+  ],
+  "language": "java",
+  "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+  "acceptanceDate": "2026-05-08T03:53:32.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/",
+  "submissionId": 1997825694,
+  "lastUpdated": "2026-07-31T06:50:18.045Z"
+}

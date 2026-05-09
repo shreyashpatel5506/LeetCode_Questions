@@ -1,0 +1,16 @@
+{
+  "id": "3921",
+  "title": "Score Validator",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "score-validator",
+  "acceptanceDate": "2026-05-09T14:49:02.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/score-validator/",
+  "submissionId": 1998914315,
+  "lastUpdated": "2026-07-31T06:50:25.375Z"
+}

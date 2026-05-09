@@ -1,0 +1,16 @@
+{
+  "id": "1914",
+  "title": "Cyclically Rotating a Grid",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "cyclically-rotating-a-grid",
+  "acceptanceDate": "2026-05-09T03:59:52.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/cyclically-rotating-a-grid/",
+  "submissionId": 1998527353,
+  "lastUpdated": "2026-07-31T06:50:20.330Z"
+}

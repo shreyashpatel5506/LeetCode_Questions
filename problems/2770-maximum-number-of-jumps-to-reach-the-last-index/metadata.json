@@ -1,0 +1,15 @@
+{
+  "id": "2770",
+  "title": "Maximum Number of Jumps to Reach the Last Index",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "java",
+  "slug": "maximum-number-of-jumps-to-reach-the-last-index",
+  "acceptanceDate": "2026-05-10T04:26:12.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/",
+  "submissionId": 1999440094,
+  "lastUpdated": "2026-07-31T06:50:27.629Z"
+}

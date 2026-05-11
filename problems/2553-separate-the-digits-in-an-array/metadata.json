@@ -1,0 +1,15 @@
+{
+  "id": "2553",
+  "title": "Separate the Digits in an Array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "separate-the-digits-in-an-array",
+  "acceptanceDate": "2026-05-11T03:59:41.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/separate-the-digits-in-an-array/",
+  "submissionId": 2000160391,
+  "lastUpdated": "2026-07-31T06:50:29.930Z"
+}

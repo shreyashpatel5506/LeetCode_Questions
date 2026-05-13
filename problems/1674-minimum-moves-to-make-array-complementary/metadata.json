@@ -1,0 +1,16 @@
+{
+  "id": "1674",
+  "title": "Minimum Moves to Make Array Complementary",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "minimum-moves-to-make-array-complementary",
+  "acceptanceDate": "2026-05-13T04:21:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary/",
+  "submissionId": 2001828328,
+  "lastUpdated": "2026-07-31T06:50:34.889Z"
+}

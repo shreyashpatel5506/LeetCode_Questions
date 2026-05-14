@@ -1,0 +1,16 @@
+{
+  "id": "2784",
+  "title": "Check if Array is Good",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "check-if-array-is-good",
+  "acceptanceDate": "2026-05-14T03:50:44.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-good/",
+  "submissionId": 2002605322,
+  "lastUpdated": "2026-07-31T06:50:37.225Z"
+}

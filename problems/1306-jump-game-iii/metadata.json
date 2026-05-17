@@ -1,0 +1,16 @@
+{
+  "id": "1306",
+  "title": "Jump Game III",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ],
+  "language": "java",
+  "slug": "jump-game-iii",
+  "acceptanceDate": "2026-05-17T04:03:11.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii/",
+  "submissionId": 2005187735,
+  "lastUpdated": "2026-07-31T06:50:45.283Z"
+}

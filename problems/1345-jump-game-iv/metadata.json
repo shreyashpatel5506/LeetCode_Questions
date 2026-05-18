@@ -1,0 +1,16 @@
+{
+  "id": "1345",
+  "title": "Jump Game IV",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
+  "language": "java",
+  "slug": "jump-game-iv",
+  "acceptanceDate": "2026-05-18T03:41:59.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+  "submissionId": 2006008008,
+  "lastUpdated": "2026-07-31T06:50:47.596Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2540",
+  "title": "Minimum Common Value",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "language": "java",
+  "slug": "minimum-common-value",
+  "acceptanceDate": "2026-05-19T04:23:43.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+  "submissionId": 2006907708,
+  "lastUpdated": "2026-07-31T06:50:50.195Z"
+}

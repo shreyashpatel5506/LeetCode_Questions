@@ -1,0 +1,17 @@
+{
+  "id": "3043",
+  "title": "Find the Length of the Longest Common Prefix",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie"
+  ],
+  "language": "java",
+  "slug": "find-the-length-of-the-longest-common-prefix",
+  "acceptanceDate": "2026-05-21T04:13:35.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+  "submissionId": 2008667626,
+  "lastUpdated": "2026-07-31T06:50:54.690Z"
+}

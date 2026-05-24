@@ -1,0 +1,16 @@
+{
+  "id": "1340",
+  "title": "Jump Game V",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "jump-game-v",
+  "acceptanceDate": "2026-05-24T03:56:44.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/jump-game-v/",
+  "submissionId": 2011372347,
+  "lastUpdated": "2026-07-31T06:51:01.602Z"
+}

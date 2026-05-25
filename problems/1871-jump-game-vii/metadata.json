@@ -1,0 +1,17 @@
+{
+  "id": "1871",
+  "title": "Jump Game VII",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "jump-game-vii",
+  "acceptanceDate": "2026-05-25T03:53:13.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/jump-game-vii/",
+  "submissionId": 2012195211,
+  "lastUpdated": "2026-07-31T06:51:03.980Z"
+}

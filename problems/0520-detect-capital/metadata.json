@@ -1,0 +1,14 @@
+{
+  "id": "0520",
+  "title": "Detect Capital",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "java",
+  "slug": "detect-capital",
+  "acceptanceDate": "2026-05-26T09:35:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/detect-capital/",
+  "submissionId": 2013466747,
+  "lastUpdated": "2026-07-31T06:51:09.035Z"
+}

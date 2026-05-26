@@ -1,0 +1,15 @@
+{
+  "id": "3120",
+  "title": "Count the Number of Special Characters I",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "java",
+  "slug": "count-the-number-of-special-characters-i",
+  "acceptanceDate": "2026-05-26T09:19:33.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+  "submissionId": 2013453333,
+  "lastUpdated": "2026-07-31T06:51:06.262Z"
+}

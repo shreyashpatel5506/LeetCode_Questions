@@ -1,0 +1,14 @@
+{
+  "id": "0201",
+  "title": "Bitwise AND of Numbers Range",
+  "difficulty": "Medium",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "language": "java",
+  "slug": "bitwise-and-of-numbers-range",
+  "acceptanceDate": "2026-05-26T17:00:38.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+  "submissionId": 2013819784,
+  "lastUpdated": "2026-07-31T06:51:11.355Z"
+}

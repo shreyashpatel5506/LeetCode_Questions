@@ -1,0 +1,16 @@
+{
+  "id": "3093",
+  "title": "Longest Common Suffix Queries",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "language": "java",
+  "slug": "longest-common-suffix-queries",
+  "acceptanceDate": "2026-05-28T03:52:14.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
+  "submissionId": 2015079991,
+  "lastUpdated": "2026-07-31T06:51:18.337Z"
+}

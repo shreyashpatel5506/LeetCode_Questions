@@ -1,0 +1,17 @@
+{
+  "id": "0389",
+  "title": "Find the Difference",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "find-the-difference",
+  "acceptanceDate": "2026-05-28T05:46:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+  "submissionId": 2015158581,
+  "lastUpdated": "2026-07-31T06:51:20.581Z"
+}

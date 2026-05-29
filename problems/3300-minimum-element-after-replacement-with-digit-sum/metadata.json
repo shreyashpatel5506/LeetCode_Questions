@@ -1,0 +1,15 @@
+{
+  "id": "3300",
+  "title": "Minimum Element After Replacement With Digit Sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "java",
+  "slug": "minimum-element-after-replacement-with-digit-sum",
+  "acceptanceDate": "2026-05-29T03:21:10.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+  "submissionId": 2015996863,
+  "lastUpdated": "2026-07-31T06:51:22.854Z"
+}

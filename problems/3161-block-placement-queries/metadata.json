@@ -1,0 +1,18 @@
+{
+  "id": "3161",
+  "title": "Block Placement Queries",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Ordered Set"
+  ],
+  "language": "java",
+  "slug": "block-placement-queries",
+  "acceptanceDate": "2026-05-30T04:29:54.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/block-placement-queries/",
+  "submissionId": 2016902754,
+  "lastUpdated": "2026-07-31T06:51:25.118Z"
+}

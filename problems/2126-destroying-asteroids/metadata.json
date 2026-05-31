@@ -1,0 +1,16 @@
+{
+  "id": "2126",
+  "title": "Destroying Asteroids",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "destroying-asteroids",
+  "acceptanceDate": "2026-05-31T04:23:08.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/destroying-asteroids/",
+  "submissionId": 2017795478,
+  "lastUpdated": "2026-07-31T06:51:27.353Z"
+}

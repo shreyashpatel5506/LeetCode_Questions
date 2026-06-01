@@ -1,0 +1,17 @@
+{
+  "id": "0149",
+  "title": "Max Points on a Line",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Geometry"
+  ],
+  "language": "java",
+  "slug": "max-points-on-a-line",
+  "acceptanceDate": "2026-06-01T11:42:27.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/max-points-on-a-line/",
+  "submissionId": 2019063110,
+  "lastUpdated": "2026-07-31T06:51:34.074Z"
+}

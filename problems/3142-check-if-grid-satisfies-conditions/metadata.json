@@ -1,0 +1,15 @@
+{
+  "id": "3142",
+  "title": "Check if Grid Satisfies Conditions",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "language": "java",
+  "slug": "check-if-grid-satisfies-conditions",
+  "acceptanceDate": "2026-06-01T10:30:34.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-grid-satisfies-conditions/",
+  "submissionId": 2019006005,
+  "lastUpdated": "2026-07-31T06:51:31.829Z"
+}

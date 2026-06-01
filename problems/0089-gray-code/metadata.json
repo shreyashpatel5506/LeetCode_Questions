@@ -1,0 +1,16 @@
+{
+  "id": "0089",
+  "title": "Gray Code",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "language": "java",
+  "slug": "gray-code",
+  "acceptanceDate": "2026-06-01T12:49:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/gray-code/",
+  "submissionId": 2019114330,
+  "lastUpdated": "2026-07-31T06:51:47.628Z"
+}

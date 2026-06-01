@@ -1,0 +1,16 @@
+{
+  "id": "2144",
+  "title": "Minimum Cost of Buying Candies With Discount",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "minimum-cost-of-buying-candies-with-discount",
+  "acceptanceDate": "2026-06-01T09:42:45.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+  "submissionId": 2018963498,
+  "lastUpdated": "2026-07-31T06:51:29.584Z"
+}

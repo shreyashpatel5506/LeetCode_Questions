@@ -1,0 +1,15 @@
+{
+  "id": "0191",
+  "title": "Number of 1 Bits",
+  "difficulty": "Easy",
+  "topics": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "language": "java",
+  "slug": "number-of-1-bits",
+  "acceptanceDate": "2026-06-01T12:42:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+  "submissionId": 2019108946,
+  "lastUpdated": "2026-07-31T06:51:38.646Z"
+}

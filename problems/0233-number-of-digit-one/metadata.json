@@ -1,0 +1,16 @@
+{
+  "id": "0233",
+  "title": "Number of Digit One",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Recursion"
+  ],
+  "language": "java",
+  "slug": "number-of-digit-one",
+  "acceptanceDate": "2026-06-01T12:52:15.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-digit-one/",
+  "submissionId": 2019116575,
+  "lastUpdated": "2026-07-31T06:51:49.876Z"
+}

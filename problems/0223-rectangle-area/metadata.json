@@ -1,0 +1,15 @@
+{
+  "id": "0223",
+  "title": "Rectangle Area",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Geometry"
+  ],
+  "language": "java",
+  "slug": "rectangle-area",
+  "acceptanceDate": "2026-06-01T11:53:11.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rectangle-area/",
+  "submissionId": 2019071192,
+  "lastUpdated": "2026-07-31T06:51:36.409Z"
+}

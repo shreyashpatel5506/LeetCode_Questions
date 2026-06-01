@@ -1,0 +1,15 @@
+{
+  "id": "0136",
+  "title": "Single Number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "language": "java",
+  "slug": "single-number",
+  "acceptanceDate": "2026-06-01T12:43:49.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+  "submissionId": 2019109917,
+  "lastUpdated": "2026-07-31T06:51:40.889Z"
+}

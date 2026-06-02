@@ -1,0 +1,18 @@
+{
+  "id": "3633",
+  "title": "Earliest Finish Time for Land and Water Rides I",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "earliest-finish-time-for-land-and-water-rides-i",
+  "acceptanceDate": "2026-06-02T03:15:03.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/",
+  "submissionId": 2019672368,
+  "lastUpdated": "2026-07-31T06:51:52.136Z"
+}

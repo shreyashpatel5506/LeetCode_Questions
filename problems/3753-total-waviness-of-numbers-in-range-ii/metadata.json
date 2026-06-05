@@ -1,0 +1,15 @@
+{
+  "id": "3753",
+  "title": "Total Waviness of Numbers in Range II",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "language": "java",
+  "slug": "total-waviness-of-numbers-in-range-ii",
+  "acceptanceDate": "2026-06-05T08:36:22.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
+  "submissionId": 2023080987,
+  "lastUpdated": "2026-07-31T06:52:00.268Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2196",
+  "title": "Create Binary Tree From Descriptions",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Tree",
+    "Binary Tree"
+  ],
+  "language": "java",
+  "slug": "create-binary-tree-from-descriptions",
+  "acceptanceDate": "2026-06-07T04:15:43.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+  "submissionId": 2024970827,
+  "lastUpdated": "2026-07-31T06:52:05.298Z"
+}

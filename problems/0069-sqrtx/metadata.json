@@ -1,0 +1,15 @@
+{
+  "id": "0069",
+  "title": "Sqrt(x)",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Binary Search"
+  ],
+  "language": "java",
+  "slug": "sqrtx",
+  "acceptanceDate": "2026-06-08T14:40:29.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+  "submissionId": 2026476105,
+  "lastUpdated": "2026-07-31T06:52:10.062Z"
+}

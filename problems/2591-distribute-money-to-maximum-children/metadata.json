@@ -1,0 +1,15 @@
+{
+  "id": "2591",
+  "title": "Distribute Money to Maximum Children",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "language": "java",
+  "slug": "distribute-money-to-maximum-children",
+  "acceptanceDate": "2026-06-11T16:08:20.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/distribute-money-to-maximum-children/",
+  "submissionId": 2029929898,
+  "lastUpdated": "2026-07-31T06:52:14.605Z"
+}

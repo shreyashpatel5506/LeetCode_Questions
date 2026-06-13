@@ -1,0 +1,16 @@
+{
+  "id": "3838",
+  "title": "Weighted Word Mapping",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "weighted-word-mapping",
+  "acceptanceDate": "2026-06-13T08:56:54.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+  "submissionId": 2031584347,
+  "lastUpdated": "2026-07-31T06:52:16.849Z"
+}

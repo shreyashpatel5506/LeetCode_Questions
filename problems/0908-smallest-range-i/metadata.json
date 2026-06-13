@@ -1,0 +1,15 @@
+{
+  "id": "0908",
+  "title": "Smallest Range I",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "java",
+  "slug": "smallest-range-i",
+  "acceptanceDate": "2026-06-13T17:25:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-range-i/",
+  "submissionId": 2032018079,
+  "lastUpdated": "2026-07-31T06:52:19.112Z"
+}

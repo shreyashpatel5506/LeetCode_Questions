@@ -1,0 +1,15 @@
+{
+  "id": "3612",
+  "title": "Process String with Special Operations I",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "process-string-with-special-operations-i",
+  "acceptanceDate": "2026-06-16T10:34:04.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/process-string-with-special-operations-i/",
+  "submissionId": 2035038793,
+  "lastUpdated": "2026-07-31T06:52:24.157Z"
+}

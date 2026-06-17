@@ -1,0 +1,15 @@
+{
+  "id": "3360",
+  "title": "Stone Removal Game",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "stone-removal-game",
+  "acceptanceDate": "2026-06-17T12:33:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/stone-removal-game/",
+  "submissionId": 2036363869,
+  "lastUpdated": "2026-07-31T06:52:28.703Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1833",
+  "title": "Maximum Ice Cream Bars",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "language": "java",
+  "slug": "maximum-ice-cream-bars",
+  "acceptanceDate": "2026-06-22T04:52:12.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+  "submissionId": 2041630115,
+  "lastUpdated": "2026-07-31T06:52:45.529Z"
+}

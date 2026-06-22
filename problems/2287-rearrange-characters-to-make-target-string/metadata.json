@@ -1,0 +1,16 @@
+{
+  "id": "2287",
+  "title": "Rearrange Characters to Make Target String",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "rearrange-characters-to-make-target-string",
+  "acceptanceDate": "2026-06-22T07:08:41.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rearrange-characters-to-make-target-string/",
+  "submissionId": 2041805910,
+  "lastUpdated": "2026-07-31T06:52:50.261Z"
+}

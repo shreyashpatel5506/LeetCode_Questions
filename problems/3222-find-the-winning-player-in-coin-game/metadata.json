@@ -1,0 +1,16 @@
+{
+  "id": "3222",
+  "title": "Find the Winning Player in Coin Game",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Simulation",
+    "Game Theory"
+  ],
+  "language": "java",
+  "slug": "find-the-winning-player-in-coin-game",
+  "acceptanceDate": "2026-06-28T10:56:17.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-winning-player-in-coin-game/",
+  "submissionId": 2048853951,
+  "lastUpdated": "2026-07-31T06:52:52.530Z"
+}

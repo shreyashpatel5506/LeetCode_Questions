@@ -17,6 +17,5 @@ jobs:
           leetcode-csrf-token: ${{ secrets.CSRFTOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: 'solutions'
-          limit: 50
           verbose: true        # <--- Ensures problem details and stats are pulled
           commit-header: 'Sync LeetCode:' # <--- Clean prefix for your commit title

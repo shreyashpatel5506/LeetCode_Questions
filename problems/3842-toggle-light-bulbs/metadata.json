@@ -1,0 +1,17 @@
+{
+  "id": "3842",
+  "title": "Toggle Light Bulbs",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "toggle-light-bulbs",
+  "acceptanceDate": "2026-06-29T14:34:55.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/toggle-light-bulbs/",
+  "submissionId": 2050164812,
+  "lastUpdated": "2026-07-31T06:53:03.820Z"
+}

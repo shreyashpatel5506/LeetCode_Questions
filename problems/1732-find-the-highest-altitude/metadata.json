@@ -1,0 +1,15 @@
+{
+  "id": "1732",
+  "title": "Find the Highest Altitude",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "find-the-highest-altitude",
+  "acceptanceDate": "2026-06-29T04:43:07.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+  "submissionId": 2049553741,
+  "lastUpdated": "2026-07-31T06:52:57.063Z"
+}

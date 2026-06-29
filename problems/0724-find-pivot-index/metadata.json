@@ -1,0 +1,15 @@
+{
+  "id": "0724",
+  "title": "Find Pivot Index",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "java",
+  "slug": "find-pivot-index",
+  "acceptanceDate": "2026-06-29T08:10:09.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+  "submissionId": 2049784921,
+  "lastUpdated": "2026-07-31T06:53:01.556Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0867",
+  "title": "Transpose Matrix",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "transpose-matrix",
+  "acceptanceDate": "2026-06-30T04:44:50.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+  "submissionId": 2050715562,
+  "lastUpdated": "2026-07-31T06:53:06.110Z"
+}

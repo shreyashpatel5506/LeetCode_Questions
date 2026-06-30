@@ -1,0 +1,15 @@
+{
+  "id": "3178",
+  "title": "Find the Child Who Has the Ball After K Seconds",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "find-the-child-who-has-the-ball-after-k-seconds",
+  "acceptanceDate": "2026-06-30T04:57:16.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/",
+  "submissionId": 2050729971,
+  "lastUpdated": "2026-07-31T06:53:08.577Z"
+}

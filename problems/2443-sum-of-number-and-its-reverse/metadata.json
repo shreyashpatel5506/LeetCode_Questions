@@ -1,0 +1,15 @@
+{
+  "id": "2443",
+  "title": "Sum of Number and Its Reverse",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Enumeration"
+  ],
+  "language": "java",
+  "slug": "sum-of-number-and-its-reverse",
+  "acceptanceDate": "2026-07-02T07:47:57.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-number-and-its-reverse/",
+  "submissionId": 2053219625,
+  "lastUpdated": "2026-07-31T06:53:11.358Z"
+}

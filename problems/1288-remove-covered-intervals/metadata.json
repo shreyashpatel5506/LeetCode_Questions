@@ -1,0 +1,15 @@
+{
+  "id": "1288",
+  "title": "Remove Covered Intervals",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "remove-covered-intervals",
+  "acceptanceDate": "2026-07-06T08:35:50.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+  "submissionId": 2057788013,
+  "lastUpdated": "2026-07-31T06:53:19.802Z"
+}

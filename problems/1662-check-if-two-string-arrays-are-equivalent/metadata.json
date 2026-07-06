@@ -1,0 +1,15 @@
+{
+  "id": "1662",
+  "title": "Check If Two String Arrays are Equivalent",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String"
+  ],
+  "language": "java",
+  "slug": "check-if-two-string-arrays-are-equivalent",
+  "acceptanceDate": "2026-07-06T12:07:10.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+  "submissionId": 2058001487,
+  "lastUpdated": "2026-07-31T06:53:26.766Z"
+}

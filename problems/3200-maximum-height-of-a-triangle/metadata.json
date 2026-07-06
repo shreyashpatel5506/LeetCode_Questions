@@ -1,0 +1,15 @@
+{
+  "id": "3200",
+  "title": "Maximum Height of a Triangle",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Enumeration"
+  ],
+  "language": "java",
+  "slug": "maximum-height-of-a-triangle",
+  "acceptanceDate": "2026-07-06T11:27:36.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-height-of-a-triangle/",
+  "submissionId": 2057966565,
+  "lastUpdated": "2026-07-31T06:53:24.474Z"
+}

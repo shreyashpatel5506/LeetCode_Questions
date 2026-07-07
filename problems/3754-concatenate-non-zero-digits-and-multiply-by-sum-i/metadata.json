@@ -1,0 +1,14 @@
+{
+  "id": "3754",
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+  "acceptanceDate": "2026-07-07T04:49:22.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/",
+  "submissionId": 2058759990,
+  "lastUpdated": "2026-07-31T06:53:29.034Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "0011",
+  "title": "Container With Most Water",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "language": "java",
+  "slug": "container-with-most-water",
+  "acceptanceDate": "2026-07-13T10:15:06.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+  "submissionId": 2065991787,
+  "lastUpdated": "2026-07-31T06:53:38.431Z"
+}

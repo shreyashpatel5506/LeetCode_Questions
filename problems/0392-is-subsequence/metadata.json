@@ -1,0 +1,16 @@
+{
+  "id": "0392",
+  "title": "Is Subsequence",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "language": "java",
+  "slug": "is-subsequence",
+  "acceptanceDate": "2026-07-13T09:55:30.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+  "submissionId": 2065970563,
+  "lastUpdated": "2026-07-31T06:53:36.000Z"
+}

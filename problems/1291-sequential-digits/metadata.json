@@ -1,0 +1,14 @@
+{
+  "id": "1291",
+  "title": "Sequential Digits",
+  "difficulty": "Medium",
+  "topics": [
+    "Enumeration"
+  ],
+  "language": "java",
+  "slug": "sequential-digits",
+  "acceptanceDate": "2026-07-13T08:42:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sequential-digits/",
+  "submissionId": 2065891693,
+  "lastUpdated": "2026-07-31T06:53:33.752Z"
+}

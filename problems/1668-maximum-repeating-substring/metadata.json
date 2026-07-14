@@ -1,0 +1,16 @@
+{
+  "id": "1668",
+  "title": "Maximum Repeating Substring",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "String Matching"
+  ],
+  "language": "java",
+  "slug": "maximum-repeating-substring",
+  "acceptanceDate": "2026-07-14T08:28:03.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-repeating-substring/",
+  "submissionId": 2067112629,
+  "lastUpdated": "2026-07-31T06:53:43.300Z"
+}

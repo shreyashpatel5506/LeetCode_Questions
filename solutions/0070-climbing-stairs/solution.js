@@ -1,3 +1,4 @@
+// ClarityCode fix note: Array element access at index 0 without visible length guard may fail on empty arrays.
 
 var climbStairs = function(n) {
     const fib= new Array(n+1).fill(0);

@@ -1,0 +1,15 @@
+{
+  "id": "3658",
+  "title": "GCD of Odd and Even Sums",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Number Theory"
+  ],
+  "language": "java",
+  "slug": "gcd-of-odd-and-even-sums",
+  "acceptanceDate": "2026-07-15T08:34:27.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+  "submissionId": 2068351273,
+  "lastUpdated": "2026-07-31T06:53:47.962Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1624",
+  "title": "Largest Substring Between Two Equal Characters",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "java",
+  "slug": "largest-substring-between-two-equal-characters",
+  "acceptanceDate": "2026-07-16T10:26:14.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-substring-between-two-equal-characters/",
+  "submissionId": 2069731830,
+  "lastUpdated": "2026-07-31T06:53:54.839Z"
+}

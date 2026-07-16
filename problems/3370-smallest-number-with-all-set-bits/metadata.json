@@ -1,0 +1,15 @@
+{
+  "id": "3370",
+  "title": "Smallest Number With All Set Bits",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "language": "java",
+  "slug": "smallest-number-with-all-set-bits",
+  "acceptanceDate": "2026-07-16T09:47:09.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-number-with-all-set-bits/",
+  "submissionId": 2069686505,
+  "lastUpdated": "2026-07-31T06:53:52.529Z"
+}

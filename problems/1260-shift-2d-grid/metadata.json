@@ -1,0 +1,16 @@
+{
+  "id": "1260",
+  "title": "Shift 2D Grid",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "shift-2d-grid",
+  "acceptanceDate": "2026-07-20T14:28:43.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/shift-2d-grid/",
+  "submissionId": 2074670606,
+  "lastUpdated": "2026-07-31T06:53:57.118Z"
+}

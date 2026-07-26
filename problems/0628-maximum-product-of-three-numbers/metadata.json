@@ -1,0 +1,16 @@
+{
+  "id": "0628",
+  "title": "Maximum Product of Three Numbers",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "maximum-product-of-three-numbers",
+  "acceptanceDate": "2026-07-26T05:37:09.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+  "submissionId": 2081583275,
+  "lastUpdated": "2026-07-31T06:54:01.775Z"
+}

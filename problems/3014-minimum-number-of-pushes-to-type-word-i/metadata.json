@@ -1,0 +1,16 @@
+{
+  "id": "3014",
+  "title": "Minimum Number of Pushes to Type Word I",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Greedy"
+  ],
+  "language": "java",
+  "slug": "minimum-number-of-pushes-to-type-word-i",
+  "acceptanceDate": "2026-07-30T09:15:40.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+  "submissionId": 2087264248,
+  "lastUpdated": "2026-07-31T06:54:13.868Z"
+}

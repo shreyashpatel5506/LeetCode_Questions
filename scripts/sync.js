@@ -84,7 +84,7 @@ async function fetchAcceptedSubmissions(session, csrfToken) {
       offset += limit;
       
       // Delay to avoid hitting rate limits
-      await delay(500);
+      await delay(1500);
       console.log(`Fetched ${submissions.length} accepted submissions so far (offset: ${offset})...`);
     } catch (e) {
       console.error(`Error fetching submissions list at offset ${offset}:`, e.message);
@@ -108,18 +108,8 @@ async function fetchSubmissionDetails(submissionId, session, csrfToken) {
         runtimePercentile
         memoryPercentile
         code
-        lang
-        timestamp
         question {
           questionId
-          questionFrontendId
-          title
-          titleSlug
-          difficulty
-          topicTags {
-            name
-            slug
-          }
         }
       }
     }

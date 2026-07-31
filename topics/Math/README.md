@@ -2,12 +2,13 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (87)
+## Solved Problems (95)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **  Count Symmetric Integers** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-symmetric-integers/) | [Local Solution](../../problems/2843-count-symmetric-integers/) |
 | **A Number After a Double Reversal** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Local Solution](../../problems/2119-a-number-after-a-double-reversal/) |
+| **Add Binary** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/add-binary/) | [Local Solution](../../problems/0067-add-binary/) |
 | **Add Digits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/add-digits/) | [Local Solution](../../problems/0258-add-digits/) |
 | **Add Two Numbers** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | [Local Solution](../../problems/0002-add-two-numbers/) |
 | **Alternating Digit Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/alternating-digit-sum/) | [Local Solution](../../problems/2544-alternating-digit-sum/) |
@@ -22,6 +23,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Closest Prime Numbers in Range** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [Local Solution](../../problems/2523-closest-prime-numbers-in-range/) |
 | **Compute Decimal Representation** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/compute-decimal-representation/) | [Local Solution](../../problems/3697-compute-decimal-representation/) |
 | **Concatenate Non-Zero Digits and Multiply by Sum I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Local Solution](../../problems/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) |
+| **Convert a Number to Hexadecimal** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Local Solution](../../problems/0405-convert-a-number-to-hexadecimal/) |
 | **Convert the Temperature** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/convert-the-temperature/) | [Local Solution](../../problems/2469-convert-the-temperature/) |
 | **Count Partitions with Even Sum Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Local Solution](../../problems/3432-count-partitions-with-even-sum-difference/) |
 | **Count Primes** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-primes/) | [Local Solution](../../problems/0204-count-primes/) |
@@ -29,8 +31,10 @@ This page contains all problems categorized under the **Math** topic.
 | **Determine Color of a Chessboard Square** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Local Solution](../../problems/1812-determine-color-of-a-chessboard-square/) |
 | **Difference Between Element Sum and Digit Sum of an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Local Solution](../../problems/2535-difference-between-element-sum-and-digit-sum-of-an-array/) |
 | **Distribute Money to Maximum Children** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [Local Solution](../../problems/2591-distribute-money-to-maximum-children/) |
+| **Divide Two Integers** | `Medium` | `python3` | [LeetCode](https://leetcode.com/problems/divide-two-integers/) | [Local Solution](../../problems/0029-divide-two-integers/) |
 | **Divisible and Non-divisible Sums Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Local Solution](../../problems/2894-divisible-and-non-divisible-sums-difference/) |
 | **Factorial Trailing Zeroes** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Local Solution](../../problems/0172-factorial-trailing-zeroes/) |
+| **Fibonacci Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | [Local Solution](../../problems/0509-fibonacci-number/) |
 | **Find Greatest Common Divisor of Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Local Solution](../../problems/1979-find-greatest-common-divisor-of-array/) |
 | **Find if Digit Game Can Be Won** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Local Solution](../../problems/3232-find-if-digit-game-can-be-won/) |
 | **Find Missing and Repeated Values** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Local Solution](../../problems/2965-find-missing-and-repeated-values/) |
@@ -56,6 +60,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Minimum Number of Pushes to Type Word I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Local Solution](../../problems/3014-minimum-number-of-pushes-to-type-word-i/) |
 | **Mirror Distance of an Integer** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Local Solution](../../problems/3783-mirror-distance-of-an-integer/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
+| **N-th Tribonacci Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/) | [Local Solution](../../problems/1137-n-th-tribonacci-number/) |
 | **Number of Digit One** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-digit-one/) | [Local Solution](../../problems/0233-number-of-digit-one/) |
 | **Number of Good Pairs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | [Local Solution](../../problems/1512-number-of-good-pairs/) |
 | **Number of Pairs of Interchangeable Rectangles** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Local Solution](../../problems/2001-number-of-pairs-of-interchangeable-rectangles/) |
@@ -65,6 +70,9 @@ This page contains all problems categorized under the **Math** topic.
 | **Permutation Sequence** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/permutation-sequence/) | [Local Solution](../../problems/0060-permutation-sequence/) |
 | **Plus One** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/plus-one/) | [Local Solution](../../problems/0066-plus-one/) |
 | **Pow(x, n)** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/powx-n/) | [Local Solution](../../problems/0050-powx-n/) |
+| **Power of Four** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-four/) | [Local Solution](../../problems/0342-power-of-four/) |
+| **Power of Three** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-three/) | [Local Solution](../../problems/0326-power-of-three/) |
+| **Power of Two** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-two/) | [Local Solution](../../problems/0231-power-of-two/) |
 | **Prime Palindrome** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/prime-palindrome/) | [Local Solution](../../problems/0866-prime-palindrome/) |
 | **Projection Area of 3D Shapes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Local Solution](../../problems/0883-projection-area-of-3d-shapes/) |
 | **Rectangle Area** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rectangle-area/) | [Local Solution](../../problems/0223-rectangle-area/) |

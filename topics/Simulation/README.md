@@ -2,10 +2,11 @@
 
 This page contains all problems categorized under the **Simulation** topic.
 
-## Solved Problems (33)
+## Solved Problems (35)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Add Binary** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/add-binary/) | [Local Solution](../../problems/0067-add-binary/) |
 | **Add Digits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/add-digits/) | [Local Solution](../../problems/0258-add-digits/) |
 | **Bitwise OR of Even Numbers in an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [Local Solution](../../problems/3688-bitwise-or-of-even-numbers-in-an-array/) |
 | **Build an Array With Stack Operations** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [Local Solution](../../problems/1441-build-an-array-with-stack-operations/) |
@@ -32,6 +33,7 @@ This page contains all problems categorized under the **Simulation** topic.
 | **Score Validator** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/score-validator/) | [Local Solution](../../problems/3921-score-validator/) |
 | **Separate the Digits in an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Local Solution](../../problems/2553-separate-the-digits-in-an-array/) |
 | **Shift 2D Grid** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) | [Local Solution](../../problems/1260-shift-2d-grid/) |
+| **Snake in Matrix** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/snake-in-matrix/) | [Local Solution](../../problems/3248-snake-in-matrix/) |
 | **Stone Removal Game** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | [Local Solution](../../problems/3360-stone-removal-game/) |
 | **Sum of Digits of String After Convert** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Local Solution](../../problems/1945-sum-of-digits-of-string-after-convert/) |
 | **Sum of GCD of Formed Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Local Solution](../../problems/3867-sum-of-gcd-of-formed-pairs/) |

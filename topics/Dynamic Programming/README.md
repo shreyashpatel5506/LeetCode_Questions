@@ -2,13 +2,14 @@
 
 This page contains all problems categorized under the **Dynamic Programming** topic.
 
-## Solved Problems (23)
+## Solved Problems (25)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Best Time to Buy and Sell Stock** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Local Solution](../../problems/0121-best-time-to-buy-and-sell-stock/) |
 | **Climbing Stairs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | [Local Solution](../../problems/0070-climbing-stairs/) |
 | **Counting Bits** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/counting-bits/) | [Local Solution](../../problems/0338-counting-bits/) |
+| **Fibonacci Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | [Local Solution](../../problems/0509-fibonacci-number/) |
 | **Integer Replacement** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/integer-replacement/) | [Local Solution](../../problems/0397-integer-replacement/) |
 | **Is Subsequence** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/is-subsequence/) | [Local Solution](../../problems/0392-is-subsequence/) |
 | **Jump Game IX** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-ix/) | [Local Solution](../../problems/3660-jump-game-ix/) |
@@ -18,6 +19,7 @@ This page contains all problems categorized under the **Dynamic Programming** to
 | **Maximum Number of Jumps to Reach the Last Index** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Local Solution](../../problems/2770-maximum-number-of-jumps-to-reach-the-last-index/) |
 | **Maximum Repeating Substring** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-repeating-substring/) | [Local Solution](../../problems/1668-maximum-repeating-substring/) |
 | **Minimum Distance to Type a Word Using Two Fingers** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Local Solution](../../problems/1320-minimum-distance-to-type-a-word-using-two-fingers/) |
+| **N-th Tribonacci Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/) | [Local Solution](../../problems/1137-n-th-tribonacci-number/) |
 | **Number of Digit One** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-digit-one/) | [Local Solution](../../problems/0233-number-of-digit-one/) |
 | **Number of Ways to Rearrange Sticks With K Sticks Visible** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [Local Solution](../../problems/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) |
 | **Pascal's Triangle** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | [Local Solution](../../problems/0118-pascals-triangle/) |

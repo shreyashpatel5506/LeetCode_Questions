@@ -2,13 +2,14 @@
 
 This page contains all problems categorized under the **Counting** topic.
 
-## Solved Problems (26)
+## Solved Problems (27)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Check If Array Pairs Are Divisible by k** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Local Solution](../../problems/1497-check-if-array-pairs-are-divisible-by-k/) |
 | **Check if Number Has Equal Digit Count and Digit Value** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [Local Solution](../../problems/2283-check-if-number-has-equal-digit-count-and-digit-value/) |
 | **Check if One String Swap Can Make Strings Equal** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Local Solution](../../problems/1790-check-if-one-string-swap-can-make-strings-equal/) |
+| **Count the Number of Consistent Strings** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Local Solution](../../problems/1684-count-the-number-of-consistent-strings/) |
 | **Count the Number of Vowel Strings in Range** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Local Solution](../../problems/2586-count-the-number-of-vowel-strings-in-range/) |
 | **Find All Lonely Numbers in the Array** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [Local Solution](../../problems/2150-find-all-lonely-numbers-in-the-array/) |
 | **First Letter to Appear Twice** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Local Solution](../../problems/2351-first-letter-to-appear-twice/) |

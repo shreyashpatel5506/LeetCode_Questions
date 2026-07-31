@@ -2,10 +2,11 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (61)
+## Solved Problems (70)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Add Binary** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/add-binary/) | [Local Solution](../../problems/0067-add-binary/) |
 | **Calculate Digit Sum of a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Local Solution](../../problems/2243-calculate-digit-sum-of-a-string/) |
 | **Check If Digits Are Equal in String After Operations I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | [Local Solution](../../problems/3461-check-if-digits-are-equal-in-string-after-operations-i/) |
 | **Check if Number Has Equal Digit Count and Digit Value** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [Local Solution](../../problems/2283-check-if-number-has-equal-digit-count-and-digit-value/) |
@@ -14,7 +15,10 @@ This page contains all problems categorized under the **String** topic.
 | **Check if Two Chessboard Squares Have the Same Color** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [Local Solution](../../problems/3274-check-if-two-chessboard-squares-have-the-same-color/) |
 | **Check If Two String Arrays are Equivalent** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Local Solution](../../problems/1662-check-if-two-string-arrays-are-equivalent/) |
 | **Clear Digits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/clear-digits/) | [Local Solution](../../problems/3174-clear-digits/) |
+| **Compare Version Numbers** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/compare-version-numbers/) | [Local Solution](../../problems/0165-compare-version-numbers/) |
+| **Convert a Number to Hexadecimal** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Local Solution](../../problems/0405-convert-a-number-to-hexadecimal/) |
 | **Count Items Matching a Rule** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-items-matching-a-rule/) | [Local Solution](../../problems/1773-count-items-matching-a-rule/) |
+| **Count the Number of Consistent Strings** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Local Solution](../../problems/1684-count-the-number-of-consistent-strings/) |
 | **Count the Number of Special Characters I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Local Solution](../../problems/3120-count-the-number-of-special-characters-i/) |
 | **Count the Number of Special Characters II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Local Solution](../../problems/3121-count-the-number-of-special-characters-ii/) |
 | **Count the Number of Vowel Strings in Range** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Local Solution](../../problems/2586-count-the-number-of-vowel-strings-in-range/) |
@@ -24,6 +28,7 @@ This page contains all problems categorized under the **String** topic.
 | **Execution of All Suffix Instructions Staying in a Grid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | [Local Solution](../../problems/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) |
 | **Existence of a Substring in a String and Its Reverse** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | [Local Solution](../../problems/3083-existence-of-a-substring-in-a-string-and-its-reverse/) |
 | **Find the Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-difference/) | [Local Solution](../../problems/0389-find-the-difference/) |
+| **Find the Index of the First Occurrence in a String** | `Easy` | `php` | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Local Solution](../../problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
 | **Find the Length of the Longest Common Prefix** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Local Solution](../../problems/3043-find-the-length-of-the-longest-common-prefix/) |
 | **Find Words Containing Character** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/find-words-containing-character/) | [Local Solution](../../problems/2942-find-words-containing-character/) |
 | **First Letter to Appear Twice** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Local Solution](../../problems/2351-first-letter-to-appear-twice/) |
@@ -36,6 +41,7 @@ This page contains all problems categorized under the **String** topic.
 | **Jewels and Stones** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/jewels-and-stones/) | [Local Solution](../../problems/0771-jewels-and-stones/) |
 | **Jump Game VII** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-vii/) | [Local Solution](../../problems/1871-jump-game-vii/) |
 | **Largest Substring Between Two Equal Characters** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Local Solution](../../problems/1624-largest-substring-between-two-equal-characters/) |
+| **Length of Last Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | [Local Solution](../../problems/0058-length-of-last-word/) |
 | **Longest Common Suffix Queries** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/longest-common-suffix-queries/) | [Local Solution](../../problems/3093-longest-common-suffix-queries/) |
 | **Longest Valid Parentheses** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | [Local Solution](../../problems/0032-longest-valid-parentheses/) |
 | **Maximum Number of Balloons** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | [Local Solution](../../problems/1189-maximum-number-of-balloons/) |
@@ -44,10 +50,12 @@ This page contains all problems categorized under the **String** topic.
 | **Minimum Distance to Type a Word Using Two Fingers** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Local Solution](../../problems/1320-minimum-distance-to-type-a-word-using-two-fingers/) |
 | **Minimum Number of Pushes to Type Word I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Local Solution](../../problems/3014-minimum-number-of-pushes-to-type-word-i/) |
 | **Minimum Number of Pushes to Type Word II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Local Solution](../../problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
+| **Number of Senior Citizens** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/number-of-senior-citizens/) | [Local Solution](../../problems/2678-number-of-senior-citizens/) |
 | **Number of Strings That Appear as Substrings in Word** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Local Solution](../../problems/1967-number-of-strings-that-appear-as-substrings-in-word/) |
 | **Process String with Special Operations I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Local Solution](../../problems/3612-process-string-with-special-operations-i/) |
 | **Process String with Special Operations II** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Local Solution](../../problems/3614-process-string-with-special-operations-ii/) |
 | **Rearrange Characters to Make Target String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [Local Solution](../../problems/2287-rearrange-characters-to-make-target-string/) |
+| **Reverse Prefix of Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/reverse-prefix-of-word/) | [Local Solution](../../problems/2000-reverse-prefix-of-word/) |
 | **Reverse String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-string/) | [Local Solution](../../problems/0344-reverse-string/) |
 | **Robot Return to Origin** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | [Local Solution](../../problems/0657-robot-return-to-origin/) |
 | **Roman to Integer** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | [Local Solution](../../problems/0013-roman-to-integer/) |
@@ -57,6 +65,7 @@ This page contains all problems categorized under the **String** topic.
 | **Sentence Similarity III** | `Medium` | `python3` | [LeetCode](https://leetcode.com/problems/sentence-similarity-iii/) | [Local Solution](../../problems/1813-sentence-similarity-iii/) |
 | **Shortest Distance to Target String in a Circular Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Local Solution](../../problems/2515-shortest-distance-to-target-string-in-a-circular-array/) |
 | **Slowest Key** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/slowest-key/) | [Local Solution](../../problems/1629-slowest-key/) |
+| **Snake in Matrix** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/snake-in-matrix/) | [Local Solution](../../problems/3248-snake-in-matrix/) |
 | **Sort Characters By Frequency** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | [Local Solution](../../problems/0451-sort-characters-by-frequency/) |
 | **Sort Vowels by Frequency** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sort-vowels-by-frequency/) | [Local Solution](../../problems/3913-sort-vowels-by-frequency/) |
 | **Split a String in Balanced Strings** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Local Solution](../../problems/1221-split-a-string-in-balanced-strings/) |

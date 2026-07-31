@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Hash Table** topic.
 
-## Solved Problems (58)
+## Solved Problems (60)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -11,6 +11,7 @@ This page contains all problems categorized under the **Hash Table** topic.
 | **Check if Number Has Equal Digit Count and Digit Value** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [Local Solution](../../problems/2283-check-if-number-has-equal-digit-count-and-digit-value/) |
 | **Check if One String Swap Can Make Strings Equal** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Local Solution](../../problems/1790-check-if-one-string-swap-can-make-strings-equal/) |
 | **Contains Duplicate** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [Local Solution](../../problems/0217-contains-duplicate/) |
+| **Count the Number of Consistent Strings** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Local Solution](../../problems/1684-count-the-number-of-consistent-strings/) |
 | **Count the Number of Special Characters I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Local Solution](../../problems/3120-count-the-number-of-special-characters-i/) |
 | **Count the Number of Special Characters II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Local Solution](../../problems/3121-count-the-number-of-special-characters-ii/) |
 | **Create Binary Tree From Descriptions** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Local Solution](../../problems/2196-create-binary-tree-from-descriptions/) |
@@ -30,6 +31,7 @@ This page contains all problems categorized under the **Hash Table** topic.
 | **How Many Numbers Are Smaller Than the Current Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Local Solution](../../problems/1365-how-many-numbers-are-smaller-than-the-current-number/) |
 | **Jewels and Stones** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/jewels-and-stones/) | [Local Solution](../../problems/0771-jewels-and-stones/) |
 | **Jump Game IV** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-iv/) | [Local Solution](../../problems/1345-jump-game-iv/) |
+| **Largest Positive Integer That Exists With Its Negative** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Local Solution](../../problems/2441-largest-positive-integer-that-exists-with-its-negative/) |
 | **Largest Substring Between Two Equal Characters** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Local Solution](../../problems/1624-largest-substring-between-two-equal-characters/) |
 | **Majority Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/majority-element/) | [Local Solution](../../problems/0169-majority-element/) |
 | **Majority Element II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | [Local Solution](../../problems/0229-majority-element-ii/) |

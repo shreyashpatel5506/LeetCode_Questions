@@ -2,16 +2,19 @@
 
 This page contains all problems categorized under the **Two Pointers** topic.
 
-## Solved Problems (22)
+## Solved Problems (26)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Compare Version Numbers** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/compare-version-numbers/) | [Local Solution](../../problems/0165-compare-version-numbers/) |
 | **Container With Most Water** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [Local Solution](../../problems/0011-container-with-most-water/) |
 | **Earliest Finish Time for Land and Water Rides I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Local Solution](../../problems/3633-earliest-finish-time-for-land-and-water-rides-i/) |
 | **Earliest Finish Time for Land and Water Rides II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Local Solution](../../problems/3635-earliest-finish-time-for-land-and-water-rides-ii/) |
 | **Find the Duplicate Number** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | [Local Solution](../../problems/0287-find-the-duplicate-number/) |
+| **Find the Index of the First Occurrence in a String** | `Easy` | `php` | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Local Solution](../../problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
 | **Happy Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/happy-number/) | [Local Solution](../../problems/0202-happy-number/) |
 | **Is Subsequence** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/is-subsequence/) | [Local Solution](../../problems/0392-is-subsequence/) |
+| **Largest Positive Integer That Exists With Its Negative** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Local Solution](../../problems/2441-largest-positive-integer-that-exists-with-its-negative/) |
 | **Maximum Distance Between a Pair of Values** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Local Solution](../../problems/1855-maximum-distance-between-a-pair-of-values/) |
 | **Merge Sorted Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | [Local Solution](../../problems/0088-merge-sorted-array/) |
 | **Minimum Common Value** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-common-value/) | [Local Solution](../../problems/2540-minimum-common-value/) |
@@ -20,6 +23,7 @@ This page contains all problems categorized under the **Two Pointers** topic.
 | **Partition Array According to Given Pivot** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Local Solution](../../problems/2161-partition-array-according-to-given-pivot/) |
 | **Remove Duplicates from Sorted Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Local Solution](../../problems/0026-remove-duplicates-from-sorted-array/) |
 | **Remove Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/remove-element/) | [Local Solution](../../problems/0027-remove-element/) |
+| **Reverse Prefix of Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/reverse-prefix-of-word/) | [Local Solution](../../problems/2000-reverse-prefix-of-word/) |
 | **Reverse String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-string/) | [Local Solution](../../problems/0344-reverse-string/) |
 | **Rotate List** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rotate-list/) | [Local Solution](../../problems/0061-rotate-list/) |
 | **Rotating the Box** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rotating-the-box/) | [Local Solution](../../problems/1861-rotating-the-box/) |

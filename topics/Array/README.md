@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (160)
+## Solved Problems (166)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -30,6 +30,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Count Negative Numbers in a Sorted Matrix** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Local Solution](../../problems/1351-count-negative-numbers-in-a-sorted-matrix/) |
 | **Count Partitions with Even Sum Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Local Solution](../../problems/3432-count-partitions-with-even-sum-difference/) |
 | **Count Primes** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-primes/) | [Local Solution](../../problems/0204-count-primes/) |
+| **Count the Number of Consistent Strings** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Local Solution](../../problems/1684-count-the-number-of-consistent-strings/) |
 | **Count the Number of Vowel Strings in Range** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Local Solution](../../problems/2586-count-the-number-of-vowel-strings-in-range/) |
 | **Create Binary Tree From Descriptions** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Local Solution](../../problems/2196-create-binary-tree-from-descriptions/) |
 | **Cyclically Rotating a Grid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Local Solution](../../problems/1914-cyclically-rotating-a-grid/) |
@@ -68,8 +69,10 @@ This page contains all problems categorized under the **Array** topic.
 | **Jump Game IV** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-iv/) | [Local Solution](../../problems/1345-jump-game-iv/) |
 | **Jump Game IX** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-ix/) | [Local Solution](../../problems/3660-jump-game-ix/) |
 | **Jump Game V** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-v/) | [Local Solution](../../problems/1340-jump-game-v/) |
+| **Largest Positive Integer That Exists With Its Negative** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Local Solution](../../problems/2441-largest-positive-integer-that-exists-with-its-negative/) |
 | **Largest Triangle Area** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/largest-triangle-area/) | [Local Solution](../../problems/0812-largest-triangle-area/) |
 | **Left and Right Sum Differences** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/left-and-right-sum-differences/) | [Local Solution](../../problems/2574-left-and-right-sum-differences/) |
+| **Lemonade Change** | `Easy` | `python` | [LeetCode](https://leetcode.com/problems/lemonade-change/) | [Local Solution](../../problems/0860-lemonade-change/) |
 | **Longest Common Suffix Queries** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/longest-common-suffix-queries/) | [Local Solution](../../problems/3093-longest-common-suffix-queries/) |
 | **Majority Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/majority-element/) | [Local Solution](../../problems/0169-majority-element/) |
 | **Majority Element II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | [Local Solution](../../problems/0229-majority-element-ii/) |
@@ -80,6 +83,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Maximum Average Subarray I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | [Local Solution](../../problems/0643-maximum-average-subarray-i/) |
 | **Maximum Difference Between Increasing Elements** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Local Solution](../../problems/2016-maximum-difference-between-increasing-elements/) |
 | **Maximum Distance Between a Pair of Values** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Local Solution](../../problems/1855-maximum-distance-between-a-pair-of-values/) |
+| **Maximum Distance in Arrays** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Local Solution](../../problems/0624-maximum-distance-in-arrays/) |
 | **Maximum Height of a Triangle** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-height-of-a-triangle/) | [Local Solution](../../problems/3200-maximum-height-of-a-triangle/) |
 | **Maximum Ice Cream Bars** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Local Solution](../../problems/1833-maximum-ice-cream-bars/) |
 | **Maximum Number of Jumps to Reach the Last Index** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Local Solution](../../problems/2770-maximum-number-of-jumps-to-reach-the-last-index/) |
@@ -112,6 +116,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Number of Employees Who Met the Target** | `Easy` | `php` | [LeetCode](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Local Solution](../../problems/2798-number-of-employees-who-met-the-target/) |
 | **Number of Good Pairs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | [Local Solution](../../problems/1512-number-of-good-pairs/) |
 | **Number of Pairs of Interchangeable Rectangles** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Local Solution](../../problems/2001-number-of-pairs-of-interchangeable-rectangles/) |
+| **Number of Senior Citizens** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/number-of-senior-citizens/) | [Local Solution](../../problems/2678-number-of-senior-citizens/) |
 | **Number of Strings That Appear as Substrings in Word** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Local Solution](../../problems/1967-number-of-strings-that-appear-as-substrings-in-word/) |
 | **Partition Array According to Given Pivot** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Local Solution](../../problems/2161-partition-array-according-to-given-pivot/) |
 | **Pascal's Triangle** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | [Local Solution](../../problems/0118-pascals-triangle/) |
@@ -149,6 +154,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Slowest Key** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/slowest-key/) | [Local Solution](../../problems/1629-slowest-key/) |
 | **Smallest Range I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-range-i/) | [Local Solution](../../problems/0908-smallest-range-i/) |
 | **Smallest Stable Index I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | [Local Solution](../../problems/3903-smallest-stable-index-i/) |
+| **Snake in Matrix** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/snake-in-matrix/) | [Local Solution](../../problems/3248-snake-in-matrix/) |
 | **Sort an Array** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/sort-an-array/) | [Local Solution](../../problems/0912-sort-an-array/) |
 | **Sort Array by Increasing Frequency** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Local Solution](../../problems/1636-sort-array-by-increasing-frequency/) |
 | **Sort Colors** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/sort-colors/) | [Local Solution](../../problems/0075-sort-colors/) |

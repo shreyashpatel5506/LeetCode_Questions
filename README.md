@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Jul 31, 2026, 10:01 AM (UTC)` |
+| **Latest Synchronization** | `Jul 31, 2026, 10:40 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,20 +25,22 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **205** | 59.6% | `██████` |
-| 🟡 **Medium** | **117** | 34.0% | `███` |
-| 🔴 **Hard** | **22** | 6.4% | `█` |
-| **Total Solved** | **344** | **100%** | |
+| 🟢 **Easy** | **262** | 64.4% | `██████` |
+| 🟡 **Medium** | **123** | 30.2% | `███` |
+| 🔴 **Hard** | **22** | 5.4% | `█` |
+| **Total Solved** | **407** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 261 | 75.9% |
-| `mysql` | 42 | 12.2% |
-| `javascript` | 29 | 8.4% |
-| `python3` | 9 | 2.6% |
-| `pythondata` | 2 | 0.6% |
-| `php` | 1 | 0.3% |
+| `java` | 261 | 64.1% |
+| `mysql` | 70 | 17.2% |
+| `javascript` | 50 | 12.3% |
+| `python3` | 19 | 4.7% |
+| `php` | 2 | 0.5% |
+| `c` | 2 | 0.5% |
+| `pythondata` | 2 | 0.5% |
+| `python` | 1 | 0.2% |
 
 ---
 
@@ -48,18 +50,18 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`160`) | 📁 [**Math**](topics/Math/) (`87`) | 📁 [**String**](topics/String/) (`61`) |
-| 📁 [**Hash Table**](topics/Hash%20Table/) (`58`) | 📁 [**Sorting**](topics/Sorting/) (`43`) | 📁 [**Database**](topics/Database/) (`40`) |
-| 📁 [**Simulation**](topics/Simulation/) (`33`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) | 📁 [**Counting**](topics/Counting/) (`26`) |
-| 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`23`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`22`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`21`) |
-| 📁 [**Greedy**](topics/Greedy/) (`20`) | 📁 [**Matrix**](topics/Matrix/) (`14`) | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) |
-| 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`14`) | 📁 [**Enumeration**](topics/Enumeration/) (`7`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`7`) |
-| 📁 [**Recursion**](topics/Recursion/) (`6`) | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`6`) | 📁 [**Geometry**](topics/Geometry/) (`6`) |
-| 📁 [**Linked List**](topics/Linked%20List/) (`5`) | 📁 [**Stack**](topics/Stack/) (`5`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`5`) |
-| 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**Tree**](topics/Tree/) (`3`) | 📁 [**Depth-First Search**](topics/Depth-First%20Search/) (`3`) |
-| 📁 [**Binary Tree**](topics/Binary%20Tree/) (`3`) | 📁 [**Sliding Window**](topics/Sliding%20Window/) (`3`) | 📁 [**Trie**](topics/Trie/) (`3`) |
-| 📁 [**Counting Sort**](topics/Counting%20Sort/) (`3`) | 📁 [**Combinatorics**](topics/Combinatorics/) (`3`) | 📁 [**Memoization**](topics/Memoization/) (`2`) |
-| 📁 [**Interactive**](topics/Interactive/) (`2`) | 📁 [**String Matching**](topics/String%20Matching/) (`2`) | 📁 [**Backtracking**](topics/Backtracking/) (`1`) |
+| 📁 [**Array**](topics/Array/) (`166`) | 📁 [**Math**](topics/Math/) (`95`) | 📁 [**String**](topics/String/) (`70`) |
+| 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`60`) | 📁 [**Sorting**](topics/Sorting/) (`44`) |
+| 📁 [**Simulation**](topics/Simulation/) (`35`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`29`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) |
+| 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`26`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`25`) |
+| 📁 [**Greedy**](topics/Greedy/) (`22`) | 📁 [**Matrix**](topics/Matrix/) (`14`) | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) |
+| 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`14`) | 📁 [**Recursion**](topics/Recursion/) (`10`) | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`7`) |
+| 📁 [**Enumeration**](topics/Enumeration/) (`7`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`7`) | 📁 [**Stack**](topics/Stack/) (`6`) |
+| 📁 [**Geometry**](topics/Geometry/) (`6`) | 📁 [**Linked List**](topics/Linked%20List/) (`5`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`5`) |
+| 📁 [**Memoization**](topics/Memoization/) (`4`) | 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**String Matching**](topics/String%20Matching/) (`3`) |
+| 📁 [**Tree**](topics/Tree/) (`3`) | 📁 [**Depth-First Search**](topics/Depth-First%20Search/) (`3`) | 📁 [**Binary Tree**](topics/Binary%20Tree/) (`3`) |
+| 📁 [**Sliding Window**](topics/Sliding%20Window/) (`3`) | 📁 [**Trie**](topics/Trie/) (`3`) | 📁 [**Counting Sort**](topics/Counting%20Sort/) (`3`) |
+| 📁 [**Combinatorics**](topics/Combinatorics/) (`3`) | 📁 [**Interactive**](topics/Interactive/) (`2`) | 📁 [**Backtracking**](topics/Backtracking/) (`1`) |
 | 📁 [**BFS**](topics/BFS/) (`1`) | 📁 [**Design**](topics/Design/) (`1`) | 📁 [**Quickselect**](topics/Quickselect/) (`1`) |
 | 📁 [**Queue**](topics/Queue/) (`1`) | 📁 [**Union-Find**](topics/Union-Find/) (`1`) | 📁 [**Graph Theory**](topics/Graph%20Theory/) (`1`) |
 | 📁 [**Probability and Statistics**](topics/Probability%20and%20Statistics/) (`1`) | 📁 [**Merge Sort**](topics/Merge%20Sort/) (`1`) | 📁 [**Radix Sort**](topics/Radix%20Sort/) (`1`) |

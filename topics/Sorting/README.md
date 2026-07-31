@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Sorting** topic.
 
-## Solved Problems (43)
+## Solved Problems (44)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -18,6 +18,7 @@ This page contains all problems categorized under the **Sorting** topic.
 | **Find the Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-difference/) | [Local Solution](../../problems/0389-find-the-difference/) |
 | **How Many Numbers Are Smaller Than the Current Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Local Solution](../../problems/1365-how-many-numbers-are-smaller-than-the-current-number/) |
 | **Jump Game V** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-v/) | [Local Solution](../../problems/1340-jump-game-v/) |
+| **Largest Positive Integer That Exists With Its Negative** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Local Solution](../../problems/2441-largest-positive-integer-that-exists-with-its-negative/) |
 | **Majority Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/majority-element/) | [Local Solution](../../problems/0169-majority-element/) |
 | **Majority Element II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | [Local Solution](../../problems/0229-majority-element-ii/) |
 | **Make Array Zero by Subtracting Equal Amounts** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Local Solution](../../problems/2357-make-array-zero-by-subtracting-equal-amounts/) |

@@ -1,8 +1,10 @@
 {
   "java": 261,
-  "javascript": 29,
-  "mysql": 42,
-  "python3": 9,
-  "php": 1,
+  "php": 2,
+  "python3": 19,
+  "javascript": 50,
+  "mysql": 70,
+  "python": 1,
+  "c": 2,
   "pythondata": 2
 }

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Greedy** topic.
 
-## Solved Problems (20)
+## Solved Problems (22)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -12,8 +12,10 @@ This page contains all problems categorized under the **Greedy** topic.
 | **Earliest Finish Time for Land and Water Rides I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Local Solution](../../problems/3633-earliest-finish-time-for-land-and-water-rides-i/) |
 | **Earliest Finish Time for Land and Water Rides II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Local Solution](../../problems/3635-earliest-finish-time-for-land-and-water-rides-ii/) |
 | **Integer Replacement** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/integer-replacement/) | [Local Solution](../../problems/0397-integer-replacement/) |
+| **Lemonade Change** | `Easy` | `python` | [LeetCode](https://leetcode.com/problems/lemonade-change/) | [Local Solution](../../problems/0860-lemonade-change/) |
 | **Make Array Zero by Subtracting Equal Amounts** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Local Solution](../../problems/2357-make-array-zero-by-subtracting-equal-amounts/) |
 | **Maximum 69 Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-69-number/) | [Local Solution](../../problems/1323-maximum-69-number/) |
+| **Maximum Distance in Arrays** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Local Solution](../../problems/0624-maximum-distance-in-arrays/) |
 | **Maximum Ice Cream Bars** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Local Solution](../../problems/1833-maximum-ice-cream-bars/) |
 | **Maximum Total Subarray Value I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Local Solution](../../problems/3689-maximum-total-subarray-value-i/) |
 | **Minimum Cost of Buying Candies With Discount** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Local Solution](../../problems/2144-minimum-cost-of-buying-candies-with-discount/) |

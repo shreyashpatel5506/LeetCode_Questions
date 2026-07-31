@@ -1,0 +1,14 @@
+{
+  "id": "1934",
+  "title": "Confirmation Rate",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "confirmation-rate",
+  "acceptanceDate": "2026-07-31T07:43:54.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/confirmation-rate/",
+  "submissionId": 2088485848,
+  "lastUpdated": "2026-07-31T10:01:01.292Z"
+}

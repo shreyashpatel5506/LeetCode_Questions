@@ -1,0 +1,14 @@
+{
+  "id": "1907",
+  "title": "Count Salary Categories",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "count-salary-categories",
+  "acceptanceDate": "2026-07-31T07:49:53.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-salary-categories/",
+  "submissionId": 2088490892,
+  "lastUpdated": "2026-07-31T10:01:18.042Z"
+}

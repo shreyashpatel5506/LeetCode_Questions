@@ -1,0 +1,14 @@
+{
+  "id": "0550",
+  "title": "Game Play Analysis IV",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "game-play-analysis-iv",
+  "acceptanceDate": "2026-07-31T07:48:43.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/game-play-analysis-iv/",
+  "submissionId": 2088489918,
+  "lastUpdated": "2026-07-31T10:01:08.497Z"
+}

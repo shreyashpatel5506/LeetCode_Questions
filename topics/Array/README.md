@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (158)
+## Solved Problems (160)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -120,6 +120,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Plus One** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/plus-one/) | [Local Solution](../../problems/0066-plus-one/) |
 | **Product of Array Except Self** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | [Local Solution](../../problems/0238-product-of-array-except-self/) |
 | **Projection Area of 3D Shapes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Local Solution](../../problems/0883-projection-area-of-3d-shapes/) |
+| **Range Sum Query - Immutable** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | [Local Solution](../../problems/0303-range-sum-query-immutable/) |
 | **Rank Transform of an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | [Local Solution](../../problems/1331-rank-transform-of-an-array/) |
 | **Remove Covered Intervals** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) | [Local Solution](../../problems/1288-remove-covered-intervals/) |
 | **Remove Duplicates from Sorted Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Local Solution](../../problems/0026-remove-duplicates-from-sorted-array/) |
@@ -150,6 +151,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Smallest Stable Index I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | [Local Solution](../../problems/3903-smallest-stable-index-i/) |
 | **Sort an Array** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/sort-an-array/) | [Local Solution](../../problems/0912-sort-an-array/) |
 | **Sort Array by Increasing Frequency** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Local Solution](../../problems/1636-sort-array-by-increasing-frequency/) |
+| **Sort Colors** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/sort-colors/) | [Local Solution](../../problems/0075-sort-colors/) |
 | **Sort Integers by The Number of 1 Bits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Local Solution](../../problems/1356-sort-integers-by-the-number-of-1-bits/) |
 | **Split Array Largest Sum** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | [Local Solution](../../problems/0410-split-array-largest-sum/) |
 | **Squares of a Sorted Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Local Solution](../../problems/0977-squares-of-a-sorted-array/) |

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Prefix Sum** topic.
 
-## Solved Problems (13)
+## Solved Problems (14)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -17,5 +17,6 @@ This page contains all problems categorized under the **Prefix Sum** topic.
 | **Minimum Cost to Move Between Indices** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | [Local Solution](../../problems/3919-minimum-cost-to-move-between-indices/) |
 | **Minimum Moves to Make Array Complementary** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Local Solution](../../problems/1674-minimum-moves-to-make-array-complementary/) |
 | **Product of Array Except Self** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | [Local Solution](../../problems/0238-product-of-array-except-self/) |
+| **Range Sum Query - Immutable** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | [Local Solution](../../problems/0303-range-sum-query-immutable/) |
 | **Smallest Stable Index I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | [Local Solution](../../problems/3903-smallest-stable-index-i/) |
 | **Split Array Largest Sum** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | [Local Solution](../../problems/0410-split-array-largest-sum/) |

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (86)
+## Solved Problems (87)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -43,6 +43,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Four Divisors** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/four-divisors/) | [Local Solution](../../problems/1390-four-divisors/) |
 | **GCD of Odd and Even Sums** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Local Solution](../../problems/3658-gcd-of-odd-and-even-sums/) |
 | **Gray Code** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/gray-code/) | [Local Solution](../../problems/0089-gray-code/) |
+| **Happy Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/happy-number/) | [Local Solution](../../problems/0202-happy-number/) |
 | **Largest Triangle Area** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/largest-triangle-area/) | [Local Solution](../../problems/0812-largest-triangle-area/) |
 | **Max Points on a Line** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/max-points-on-a-line/) | [Local Solution](../../problems/0149-max-points-on-a-line/) |
 | **Maximum 69 Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-69-number/) | [Local Solution](../../problems/1323-maximum-69-number/) |

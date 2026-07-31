@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Hash Table** topic.
 
-## Solved Problems (57)
+## Solved Problems (58)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -26,6 +26,7 @@ This page contains all problems categorized under the **Hash Table** topic.
 | **Find the Prefix Common Array of Two Arrays** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Local Solution](../../problems/2657-find-the-prefix-common-array-of-two-arrays/) |
 | **First Letter to Appear Twice** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Local Solution](../../problems/2351-first-letter-to-appear-twice/) |
 | **First Unique Character in a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Local Solution](../../problems/0387-first-unique-character-in-a-string/) |
+| **Happy Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/happy-number/) | [Local Solution](../../problems/0202-happy-number/) |
 | **How Many Numbers Are Smaller Than the Current Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Local Solution](../../problems/1365-how-many-numbers-are-smaller-than-the-current-number/) |
 | **Jewels and Stones** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/jewels-and-stones/) | [Local Solution](../../problems/0771-jewels-and-stones/) |
 | **Jump Game IV** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-iv/) | [Local Solution](../../problems/1345-jump-game-iv/) |

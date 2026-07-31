@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Sorting** topic.
 
-## Solved Problems (42)
+## Solved Problems (43)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -39,6 +39,7 @@ This page contains all problems categorized under the **Sorting** topic.
 | **Sort an Array** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/sort-an-array/) | [Local Solution](../../problems/0912-sort-an-array/) |
 | **Sort Array by Increasing Frequency** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Local Solution](../../problems/1636-sort-array-by-increasing-frequency/) |
 | **Sort Characters By Frequency** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | [Local Solution](../../problems/0451-sort-characters-by-frequency/) |
+| **Sort Colors** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/sort-colors/) | [Local Solution](../../problems/0075-sort-colors/) |
 | **Sort Integers by The Number of 1 Bits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Local Solution](../../problems/1356-sort-integers-by-the-number-of-1-bits/) |
 | **Sort Vowels by Frequency** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sort-vowels-by-frequency/) | [Local Solution](../../problems/3913-sort-vowels-by-frequency/) |
 | **Split With Minimum Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/split-with-minimum-sum/) | [Local Solution](../../problems/2578-split-with-minimum-sum/) |

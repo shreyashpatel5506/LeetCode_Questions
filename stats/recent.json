@@ -8,75 +8,75 @@
     "slug": "binary-tree-level-order-traversal"
   },
   {
-    "id": "3016",
-    "title": "Minimum Number of Pushes to Type Word II",
+    "id": "1321",
+    "title": "Restaurant Growth",
     "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-07-31T05:15:52.000Z",
-    "slug": "minimum-number-of-pushes-to-type-word-ii"
+    "language": "mysql",
+    "acceptanceDate": "2026-07-31T07:50:12.000Z",
+    "slug": "restaurant-growth"
   },
   {
-    "id": "3014",
-    "title": "Minimum Number of Pushes to Type Word I",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-07-30T09:15:40.000Z",
-    "slug": "minimum-number-of-pushes-to-type-word-i"
+    "id": "1907",
+    "title": "Count Salary Categories",
+    "difficulty": "Medium",
+    "language": "mysql",
+    "acceptanceDate": "2026-07-31T07:49:53.000Z",
+    "slug": "count-salary-categories"
   },
   {
-    "id": "3925",
-    "title": "Concatenate Array With Reverse",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-07-29T11:54:09.000Z",
-    "slug": "concatenate-array-with-reverse"
+    "id": "1204",
+    "title": "Last Person to Fit in the Bus",
+    "difficulty": "Medium",
+    "language": "mysql",
+    "acceptanceDate": "2026-07-31T07:49:39.000Z",
+    "slug": "last-person-to-fit-in-the-bus"
   },
   {
-    "id": "3731",
-    "title": "Find Missing Elements",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-07-29T11:44:01.000Z",
-    "slug": "find-missing-elements"
+    "id": "1164",
+    "title": "Product Price at a Given Date",
+    "difficulty": "Medium",
+    "language": "mysql",
+    "acceptanceDate": "2026-07-31T07:49:23.000Z",
+    "slug": "product-price-at-a-given-date"
   },
   {
-    "id": "2884",
-    "title": "Modify Columns",
+    "id": "1789",
+    "title": "Primary Department for Each Employee",
     "difficulty": "Easy",
-    "language": "pythondata",
-    "acceptanceDate": "2026-07-28T17:34:36.000Z",
-    "slug": "modify-columns"
+    "language": "mysql",
+    "acceptanceDate": "2026-07-31T07:49:05.000Z",
+    "slug": "primary-department-for-each-employee"
   },
   {
-    "id": "1464",
-    "title": "Maximum Product of Two Elements in an Array",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-07-27T10:00:55.000Z",
-    "slug": "maximum-product-of-two-elements-in-an-array"
+    "id": "0550",
+    "title": "Game Play Analysis IV",
+    "difficulty": "Medium",
+    "language": "mysql",
+    "acceptanceDate": "2026-07-31T07:48:43.000Z",
+    "slug": "game-play-analysis-iv"
   },
   {
-    "id": "0628",
-    "title": "Maximum Product of Three Numbers",
+    "id": "1633",
+    "title": "Percentage of Users Attended a Contest",
     "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-07-26T05:37:09.000Z",
-    "slug": "maximum-product-of-three-numbers"
+    "language": "mysql",
+    "acceptanceDate": "2026-07-31T07:48:13.000Z",
+    "slug": "percentage-of-users-attended-a-contest"
   },
   {
-    "id": "3536",
-    "title": "Maximum Product of Two Digits",
+    "id": "1251",
+    "title": "Average Selling Price",
     "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-07-25T05:22:02.000Z",
-    "slug": "maximum-product-of-two-digits"
+    "language": "mysql",
+    "acceptanceDate": "2026-07-31T07:47:32.000Z",
+    "slug": "average-selling-price"
   },
   {
-    "id": "1260",
-    "title": "Shift 2D Grid",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-07-20T14:28:43.000Z",
-    "slug": "shift-2d-grid"
+    "id": "1934",
+    "title": "Confirmation Rate",
+    "difficulty": "Medium",
+    "language": "mysql",
+    "acceptanceDate": "2026-07-31T07:43:54.000Z",
+    "slug": "confirmation-rate"
   }
 ]

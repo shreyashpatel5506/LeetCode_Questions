@@ -1,0 +1,14 @@
+{
+  "id": "1789",
+  "title": "Primary Department for Each Employee",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "primary-department-for-each-employee",
+  "acceptanceDate": "2026-07-31T07:49:05.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/primary-department-for-each-employee/",
+  "submissionId": 2088490209,
+  "lastUpdated": "2026-07-31T10:01:11.078Z"
+}

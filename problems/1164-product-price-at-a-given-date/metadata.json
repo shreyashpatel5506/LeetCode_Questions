@@ -1,0 +1,14 @@
+{
+  "id": "1164",
+  "title": "Product Price at a Given Date",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "product-price-at-a-given-date",
+  "acceptanceDate": "2026-07-31T07:49:23.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/product-price-at-a-given-date/",
+  "submissionId": 2088490496,
+  "lastUpdated": "2026-07-31T10:01:13.467Z"
+}

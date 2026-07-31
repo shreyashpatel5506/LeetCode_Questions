@@ -1,0 +1,14 @@
+{
+  "id": "1633",
+  "title": "Percentage of Users Attended a Contest",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "percentage-of-users-attended-a-contest",
+  "acceptanceDate": "2026-07-31T07:48:13.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/percentage-of-users-attended-a-contest/",
+  "submissionId": 2088489485,
+  "lastUpdated": "2026-07-31T10:01:06.009Z"
+}

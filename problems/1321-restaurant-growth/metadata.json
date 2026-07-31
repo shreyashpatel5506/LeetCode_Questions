@@ -1,0 +1,14 @@
+{
+  "id": "1321",
+  "title": "Restaurant Growth",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "restaurant-growth",
+  "acceptanceDate": "2026-07-31T07:50:12.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/restaurant-growth/",
+  "submissionId": 2088491176,
+  "lastUpdated": "2026-07-31T10:01:20.414Z"
+}

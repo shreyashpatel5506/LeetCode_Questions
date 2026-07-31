@@ -1,0 +1,18 @@
+{
+  "id": "3016",
+  "title": "Minimum Number of Pushes to Type Word II",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "java",
+  "slug": "minimum-number-of-pushes-to-type-word-ii",
+  "acceptanceDate": "2026-07-31T05:15:52.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+  "submissionId": 2088303648,
+  "lastUpdated": "2026-07-31T06:54:16.166Z"
+}

@@ -1,12 +1,17 @@
 {
-  "totalSolved": 2,
-  "lastSync": "2026-07-31T06:38:42.978Z",
+  "totalSolved": 329,
+  "lastSync": "2026-07-31T06:54:16.282Z",
   "difficultyDistribution": {
-    "Easy": 1,
-    "Medium": 1,
-    "Hard": 0
+    "Easy": 197,
+    "Medium": 110,
+    "Hard": 22
   },
   "topLanguages": {
-    "javascript": 2
+    "java": 261,
+    "mysql": 32,
+    "javascript": 25,
+    "python3": 8,
+    "pythondata": 2,
+    "php": 1
   }
 }

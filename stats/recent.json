@@ -8,11 +8,75 @@
     "slug": "binary-tree-level-order-traversal"
   },
   {
-    "id": "0001",
-    "title": "Two Sum",
+    "id": "3016",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-07-31T05:15:52.000Z",
+    "slug": "minimum-number-of-pushes-to-type-word-ii"
+  },
+  {
+    "id": "3014",
+    "title": "Minimum Number of Pushes to Type Word I",
     "difficulty": "Easy",
-    "language": "javascript",
-    "acceptanceDate": "2026-07-30T10:00:00Z",
-    "slug": "two-sum"
+    "language": "java",
+    "acceptanceDate": "2026-07-30T09:15:40.000Z",
+    "slug": "minimum-number-of-pushes-to-type-word-i"
+  },
+  {
+    "id": "3925",
+    "title": "Concatenate Array With Reverse",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-07-29T11:54:09.000Z",
+    "slug": "concatenate-array-with-reverse"
+  },
+  {
+    "id": "3731",
+    "title": "Find Missing Elements",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-07-29T11:44:01.000Z",
+    "slug": "find-missing-elements"
+  },
+  {
+    "id": "2884",
+    "title": "Modify Columns",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "acceptanceDate": "2026-07-28T17:34:36.000Z",
+    "slug": "modify-columns"
+  },
+  {
+    "id": "1464",
+    "title": "Maximum Product of Two Elements in an Array",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-07-27T10:00:55.000Z",
+    "slug": "maximum-product-of-two-elements-in-an-array"
+  },
+  {
+    "id": "0628",
+    "title": "Maximum Product of Three Numbers",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-07-26T05:37:09.000Z",
+    "slug": "maximum-product-of-three-numbers"
+  },
+  {
+    "id": "3536",
+    "title": "Maximum Product of Two Digits",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-07-25T05:22:02.000Z",
+    "slug": "maximum-product-of-two-digits"
+  },
+  {
+    "id": "1260",
+    "title": "Shift 2D Grid",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-07-20T14:28:43.000Z",
+    "slug": "shift-2d-grid"
   }
 ]

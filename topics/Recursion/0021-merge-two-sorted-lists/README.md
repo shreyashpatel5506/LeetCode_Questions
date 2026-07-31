@@ -1,0 +1,7 @@
+# Merge Two Sorted Lists
+
+This problem belongs to the topic **Recursion**.
+
+To view the problem description, solution files, and metadata, please check the main folder:
+- [Problem Folder](../../../problems/0021-merge-two-sorted-lists/)
+- [Solution File](../../../problems/0021-merge-two-sorted-lists/solution.java)

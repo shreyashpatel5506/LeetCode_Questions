@@ -1,0 +1,7 @@
+# Equal Row and Column Pairs
+
+This problem belongs to the topic **Array**.
+
+To view the problem description, solution files, and metadata, please check the main folder:
+- [Problem Folder](../../../problems/2352-equal-row-and-column-pairs/)
+- [Solution File](../../../problems/2352-equal-row-and-column-pairs/solution.java)

@@ -13,8 +13,8 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Jul 31, 2026, 6:38 AM (UTC)` |
-| **Workflow Status** | [![Sync](https://github.com/username/repo/actions/workflows/sync.yml/badge.svg)](https://github.com/username/repo/actions/workflows/sync.yml) |
+| **Latest Synchronization** | `Jul 31, 2026, 6:54 AM (UTC)` |
+| **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
 
@@ -25,15 +25,20 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **1** | 50.0% | `█████` |
-| 🟡 **Medium** | **1** | 50.0% | `█████` |
-| 🔴 **Hard** | **0** | 0.0% | `-` |
-| **Total Solved** | **2** | **100%** | |
+| 🟢 **Easy** | **197** | 59.9% | `██████` |
+| 🟡 **Medium** | **110** | 33.4% | `███` |
+| 🔴 **Hard** | **22** | 6.7% | `█` |
+| **Total Solved** | **329** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `javascript` | 2 | 100.0% |
+| `java` | 261 | 79.3% |
+| `mysql` | 32 | 9.7% |
+| `javascript` | 25 | 7.6% |
+| `python3` | 8 | 2.4% |
+| `pythondata` | 2 | 0.6% |
+| `php` | 1 | 0.3% |
 
 ---
 
@@ -43,8 +48,22 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`1`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`1`) | 📁 [**Tree**](topics/Tree/) (`1`) |
-| 📁 [**BFS**](topics/BFS/) (`1`) | 📁 [**Binary Tree**](topics/Binary%20Tree/) (`1`) |  |
+| 📁 [**Array**](topics/Array/) (`158`) | 📁 [**Math**](topics/Math/) (`86`) | 📁 [**String**](topics/String/) (`61`) |
+| 📁 [**Hash Table**](topics/Hash%20Table/) (`57`) | 📁 [**Sorting**](topics/Sorting/) (`42`) | 📁 [**Simulation**](topics/Simulation/) (`33`) |
+| 📁 [**Database**](topics/Database/) (`30`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) | 📁 [**Counting**](topics/Counting/) (`26`) |
+| 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`23`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`21`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`20`) |
+| 📁 [**Greedy**](topics/Greedy/) (`20`) | 📁 [**Matrix**](topics/Matrix/) (`14`) | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) |
+| 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`13`) | 📁 [**Enumeration**](topics/Enumeration/) (`7`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`7`) |
+| 📁 [**Recursion**](topics/Recursion/) (`6`) | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`6`) | 📁 [**Geometry**](topics/Geometry/) (`6`) |
+| 📁 [**Stack**](topics/Stack/) (`5`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`5`) | 📁 [**Linked List**](topics/Linked%20List/) (`4`) |
+| 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**Tree**](topics/Tree/) (`3`) | 📁 [**Depth-First Search**](topics/Depth-First%20Search/) (`3`) |
+| 📁 [**Binary Tree**](topics/Binary%20Tree/) (`3`) | 📁 [**Sliding Window**](topics/Sliding%20Window/) (`3`) | 📁 [**Trie**](topics/Trie/) (`3`) |
+| 📁 [**Counting Sort**](topics/Counting%20Sort/) (`3`) | 📁 [**Combinatorics**](topics/Combinatorics/) (`3`) | 📁 [**Memoization**](topics/Memoization/) (`2`) |
+| 📁 [**Interactive**](topics/Interactive/) (`2`) | 📁 [**String Matching**](topics/String%20Matching/) (`2`) | 📁 [**Backtracking**](topics/Backtracking/) (`1`) |
+| 📁 [**BFS**](topics/BFS/) (`1`) | 📁 [**Quickselect**](topics/Quickselect/) (`1`) | 📁 [**Queue**](topics/Queue/) (`1`) |
+| 📁 [**Union-Find**](topics/Union-Find/) (`1`) | 📁 [**Graph Theory**](topics/Graph%20Theory/) (`1`) | 📁 [**Probability and Statistics**](topics/Probability%20and%20Statistics/) (`1`) |
+| 📁 [**Merge Sort**](topics/Merge%20Sort/) (`1`) | 📁 [**Radix Sort**](topics/Radix%20Sort/) (`1`) | 📁 [**Binary Indexed Tree**](topics/Binary%20Indexed%20Tree/) (`1`) |
+| 📁 [**Segment Tree**](topics/Segment%20Tree/) (`1`) | 📁 [**Ordered Set**](topics/Ordered%20Set/) (`1`) | 📁 [**Game Theory**](topics/Game%20Theory/) (`1`) |
 
 ---
 
@@ -55,7 +74,15 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 0102 | [Binary Tree Level Order Traversal](#) | `Medium` | `javascript` | 2026-07-31 | [Local Code](problems/0102-binary-tree-level-order-traversal/) |
-| 0001 | [Two Sum](#) | `Easy` | `javascript` | 2026-07-30 | [Local Code](problems/0001-two-sum/) |
+| 3016 | [Minimum Number of Pushes to Type Word II](#) | `Medium` | `java` | 2026-07-31 | [Local Code](problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
+| 3014 | [Minimum Number of Pushes to Type Word I](#) | `Easy` | `java` | 2026-07-30 | [Local Code](problems/3014-minimum-number-of-pushes-to-type-word-i/) |
+| 3925 | [Concatenate Array With Reverse](#) | `Easy` | `java` | 2026-07-29 | [Local Code](problems/3925-concatenate-array-with-reverse/) |
+| 3731 | [Find Missing Elements](#) | `Easy` | `java` | 2026-07-29 | [Local Code](problems/3731-find-missing-elements/) |
+| 2884 | [Modify Columns](#) | `Easy` | `pythondata` | 2026-07-28 | [Local Code](problems/2884-modify-columns/) |
+| 1464 | [Maximum Product of Two Elements in an Array](#) | `Easy` | `java` | 2026-07-27 | [Local Code](problems/1464-maximum-product-of-two-elements-in-an-array/) |
+| 0628 | [Maximum Product of Three Numbers](#) | `Easy` | `java` | 2026-07-26 | [Local Code](problems/0628-maximum-product-of-three-numbers/) |
+| 3536 | [Maximum Product of Two Digits](#) | `Easy` | `java` | 2026-07-25 | [Local Code](problems/3536-maximum-product-of-two-digits/) |
+| 1260 | [Shift 2D Grid](#) | `Easy` | `java` | 2026-07-20 | [Local Code](problems/1260-shift-2d-grid/) |
 
 ---
 

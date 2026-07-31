@@ -1,0 +1,14 @@
+{
+  "id": "1251",
+  "title": "Average Selling Price",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "average-selling-price",
+  "acceptanceDate": "2026-07-31T07:47:32.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/average-selling-price/",
+  "submissionId": 2088488912,
+  "lastUpdated": "2026-07-31T10:01:03.623Z"
+}

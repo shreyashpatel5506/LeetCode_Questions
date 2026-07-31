@@ -1,0 +1,14 @@
+{
+  "id": "1661",
+  "title": "Average Time of Process per Machine",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "average-time-of-process-per-machine",
+  "acceptanceDate": "2026-07-31T07:43:18.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/average-time-of-process-per-machine/",
+  "submissionId": 2088485333,
+  "lastUpdated": "2026-07-31T10:00:58.532Z"
+}

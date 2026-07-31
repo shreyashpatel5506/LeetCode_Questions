@@ -1,0 +1,14 @@
+{
+  "id": "1204",
+  "title": "Last Person to Fit in the Bus",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "slug": "last-person-to-fit-in-the-bus",
+  "acceptanceDate": "2026-07-31T07:49:39.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/last-person-to-fit-in-the-bus/",
+  "submissionId": 2088490715,
+  "lastUpdated": "2026-07-31T10:01:15.751Z"
+}

@@ -24,7 +24,7 @@ async function getLocalProblems() {
             problems.set(meta.slug, meta);
           }
         } catch (e) {
-          // Metadata missing or invalid, ignore or handle in validator/cleanup
+          // Metadata missing or invalid, ignore
         }
       }
     }
@@ -35,68 +35,157 @@ async function getLocalProblems() {
 }
 
 /**
- * Fetch accepted submissions from LeetCode REST API
+ * Fetch all solved problems metadata from LeetCode GraphQL API
  * @param {string} session 
  * @param {string} csrfToken 
- * @returns {Promise<Array<object>>}
+ * @returns {Promise<Array<object>>} List of solved questions
  */
-async function fetchAcceptedSubmissions(session, csrfToken) {
-  let offset = 0;
-  const limit = 20;
+async function fetchSolvedProblems(session, csrfToken) {
+  let skip = 0;
+  const limit = 100;
   let hasNext = true;
-  const submissions = [];
-  const headers = {
-    'cookie': `csrftoken=${csrfToken}; LEETCODE_SESSION=${session};`,
-    'x-csrftoken': csrfToken,
-    'referer': 'https://leetcode.com/submissions/',
-  };
+  const solvedProblems = [];
+  const url = 'https://leetcode.com/graphql/';
+  const headers = graphqlHeaders(session, csrfToken);
 
-  console.log('Fetching submission list from LeetCode API...');
+  console.log('Fetching list of solved problems from LeetCode GraphQL API...');
 
   while (hasNext) {
-    const url = `https://leetcode.com/api/submissions/?offset=${offset}&limit=${limit}`;
-    try {
-      const res = await makeRequest(url, { headers });
-      if (res.statusCode !== 200) {
-        throw new Error(`Failed to fetch submissions list, status: ${res.statusCode}`);
+    const query = `
+      query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) {
+        problemsetQuestionList: questionList(
+          categorySlug: $categorySlug
+          limit: $limit
+          skip: $skip
+          filters: $filters
+        ) {
+          totalNum
+          data {
+            questionFrontendId
+            title
+            titleSlug
+            difficulty
+            topicTags {
+              name
+              slug
+            }
+          }
+        }
       }
-      
-      const data = res.data;
-      if (!data || !data.submissions_dump) {
+    `;
+
+    const variables = {
+      categorySlug: "",
+      skip,
+      limit,
+      filters: { status: "AC" }
+    };
+
+    try {
+      const res = await makeRequest(url, {
+        method: 'POST',
+        headers,
+      }, JSON.stringify({ query, variables }));
+
+      if (res.statusCode !== 200 || !res.data || !res.data.data || !res.data.data.problemsetQuestionList) {
+        throw new Error(`Failed to fetch solved problems list, status: ${res.statusCode}`);
+      }
+
+      const list = res.data.data.problemsetQuestionList;
+      const questions = list.data;
+      if (!questions || questions.length === 0) {
         break;
       }
 
-      const dump = data.submissions_dump;
-      for (const sub of dump) {
-        if (sub.status_display === 'Accepted') {
-          submissions.push({
-            id: sub.id,
-            title: sub.title,
-            slug: sub.title_slug,
-            lang: sub.lang,
-            timestamp: parseInt(sub.timestamp, 10),
-            url: `https://leetcode.com${sub.url}`
-          });
-        }
+      for (const q of questions) {
+        solvedProblems.push({
+          id: q.questionFrontendId,
+          title: q.title,
+          slug: q.titleSlug,
+          difficulty: q.difficulty,
+          topicTags: q.topicTags
+        });
       }
 
-      hasNext = data.has_next;
-      offset += limit;
+      skip += limit;
+      hasNext = solvedProblems.length < list.totalNum;
       
-      // Delay to avoid hitting rate limits
       await delay(1500);
-      console.log(`Fetched ${submissions.length} accepted submissions so far (offset: ${offset})...`);
+      console.log(`Fetched ${solvedProblems.length} solved problems so far (total: ${list.totalNum})...`);
     } catch (e) {
-      console.error(`Error fetching submissions list at offset ${offset}:`, e.message);
+      console.error(`Error fetching solved problems at skip ${skip}:`, e.message);
       break;
     }
   }
 
-  return submissions;
+  return solvedProblems;
 }
 
 /**
- * Fetch detailed submission code and question frontend details from GraphQL
+ * Fetch the latest accepted submission for a specific problem
+ * @param {string} questionSlug 
+ * @param {string} session 
+ * @param {string} csrfToken 
+ * @returns {Promise<object|null>} The latest accepted submission info
+ */
+async function fetchLatestAcceptedSubmission(questionSlug, session, csrfToken) {
+  const url = 'https://leetcode.com/graphql/';
+  const headers = graphqlHeaders(session, csrfToken);
+
+  const query = `
+    query submissionList($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String!) {
+      submissionList(offset: $offset, limit: $limit, lastKey: $lastKey, questionSlug: $questionSlug) {
+        lastKey
+        hasNext
+        submissions {
+          id
+          statusDisplay
+          lang
+          timestamp
+          url
+        }
+      }
+    }
+  `;
+
+  const variables = {
+    offset: 0,
+    limit: 20,
+    lastKey: null,
+    questionSlug
+  };
+
+  try {
+    const res = await makeRequest(url, {
+      method: 'POST',
+      headers,
+    }, JSON.stringify({ query, variables }));
+
+    if (res.statusCode !== 200 || !res.data || !res.data.data || !res.data.data.submissionList) {
+      throw new Error(`Failed to fetch submission list for ${questionSlug}, status: ${res.statusCode}`);
+    }
+
+    const submissions = res.data.data.submissionList.submissions;
+    if (!submissions) return null;
+
+    for (const sub of submissions) {
+      if (sub.statusDisplay === 'Accepted') {
+        return {
+          id: parseInt(sub.id, 10) || sub.id,
+          lang: sub.lang,
+          timestamp: parseInt(sub.timestamp, 10),
+          url: sub.url
+        };
+      }
+    }
+  } catch (e) {
+    console.error(`Error fetching submission list for ${questionSlug}:`, e.message);
+  }
+  return null;
+}
+
+/**
+ * Fetch detailed submission code from GraphQL
  */
 async function fetchSubmissionDetails(submissionId, session, csrfToken) {
   const url = 'https://leetcode.com/graphql/';
@@ -130,46 +219,6 @@ async function fetchSubmissionDetails(submissionId, session, csrfToken) {
     return res.data.data.submissionDetails;
   } catch (e) {
     console.error(`Error fetching submission ${submissionId} details:`, e.message);
-    return null;
-  }
-}
-
-/**
- * Fallback to query question metadata by titleSlug
- */
-async function fetchQuestionMetadata(titleSlug, session, csrfToken) {
-  const url = 'https://leetcode.com/graphql/';
-  const headers = graphqlHeaders(session, csrfToken);
-  
-  const query = `
-    query questionData($titleSlug: String!) {
-      question(titleSlug: $titleSlug) {
-        questionFrontendId
-        title
-        difficulty
-        topicTags {
-          name
-          slug
-        }
-      }
-    }
-  `;
-
-  const variables = { titleSlug };
-  
-  try {
-    const res = await makeRequest(url, {
-      method: 'POST',
-      headers,
-    }, JSON.stringify({ query, variables }));
-
-    if (res.statusCode !== 200 || !res.data || !res.data.data) {
-      throw new Error(`GraphQL questionData failed with status ${res.statusCode}`);
-    }
-
-    return res.data.data.question;
-  } catch (e) {
-    console.error(`Error fetching question metadata for ${titleSlug}:`, e.message);
     return null;
   }
 }
@@ -210,74 +259,60 @@ async function main() {
   const localProblems = await getLocalProblems();
   console.log(`Found ${localProblems.size} problems locally.`);
 
-  // Fetch accepted submissions from LeetCode
-  const submissions = await fetchAcceptedSubmissions(session, csrfToken);
-  console.log(`Fetched ${submissions.length} accepted submissions from LeetCode.`);
+  // Fetch all solved problems from LeetCode
+  const solvedProblems = await fetchSolvedProblems(session, csrfToken);
+  console.log(`Found ${solvedProblems.length} solved problems on LeetCode.`);
 
-  // Group submissions by title slug, keeping the latest accepted one
-  const latestSubmissions = new Map();
-  for (const sub of submissions) {
-    if (!latestSubmissions.has(sub.slug)) {
-      latestSubmissions.set(sub.slug, sub);
-    } else {
-      const existing = latestSubmissions.get(sub.slug);
-      if (sub.timestamp > existing.timestamp) {
-        latestSubmissions.set(sub.slug, sub);
-      }
+  // Filter for new/missing solved problems
+  const missingProblems = [];
+  for (const prob of solvedProblems) {
+    if (!localProblems.has(prob.slug)) {
+      missingProblems.push(prob);
     }
   }
-  console.log(`Identified ${latestSubmissions.size} unique solved problems.`);
+  console.log(`Found ${missingProblems.length} missing problems to sync.`);
 
-  // Filter for new/outdated submissions
-  const pendingUpdates = [];
-  for (const [slug, sub] of latestSubmissions.entries()) {
-    const local = localProblems.get(slug);
-    if (!local || sub.id > local.submissionId) {
-      pendingUpdates.push(sub);
+  const toSync = [];
+  for (const prob of missingProblems) {
+    console.log(`Retrieving submission details for missing problem: ${prob.title}...`);
+    await delay(1500); // Respect rate limits
+    const sub = await fetchLatestAcceptedSubmission(prob.slug, session, csrfToken);
+    if (sub) {
+      toSync.push({
+        ...prob,
+        submission: sub
+      });
+    } else {
+      console.warn(`Could not find any accepted submission for: ${prob.title}`);
     }
   }
 
   // Sort chronologically (oldest first) to build the correct contribution graph
-  pendingUpdates.sort((a, b) => a.timestamp - b.timestamp);
-  console.log(`Found ${pendingUpdates.length} submissions to sync.`);
+  toSync.sort((a, b) => a.submission.timestamp - b.submission.timestamp);
+  console.log(`Starting synchronization of ${toSync.length} problems...`);
 
   let syncedCount = 0;
 
-  for (const sub of pendingUpdates) {
-    console.log(`\nSyncing: ${sub.title} (ID: ${sub.id})...`);
+  for (const item of toSync) {
+    console.log(`\nSyncing: ${item.title} (ID: ${item.submission.id})...`);
     
-    // Fetch details
-    await delay(1000); // Wait between requests to prevent rate limiting
-    const details = await fetchSubmissionDetails(sub.id, session, csrfToken);
+    // Fetch details (code)
+    await delay(1500);
+    const details = await fetchSubmissionDetails(item.submission.id, session, csrfToken);
     
     if (!details || !details.code) {
-      console.error(`Skipping ${sub.title}: Could not fetch submission details.`);
+      console.error(`Skipping ${item.title}: Could not fetch submission code.`);
       continue;
     }
 
-    let questionInfo = details.question;
-    // Fallback to fetch question details if topicTags or frontend ID is missing
-    if (!questionInfo || !questionInfo.questionFrontendId || !questionInfo.topicTags) {
-      await delay(1000);
-      const fallback = await fetchQuestionMetadata(sub.slug, session, csrfToken);
-      if (fallback) {
-        questionInfo = { ...(questionInfo || {}), ...fallback };
-      }
-    }
-
-    if (!questionInfo || !questionInfo.questionFrontendId) {
-      console.error(`Skipping ${sub.title}: Could not retrieve question metadata.`);
-      continue;
-    }
-
-    const qid = padId(questionInfo.questionFrontendId);
-    const folderName = `${qid}-${sub.slug}`;
+    const qid = padId(item.id);
+    const folderName = `${qid}-${item.slug}`;
     const problemFolder = path.join(PROBLEMS_DIR, folderName);
     
     await fs.mkdir(problemFolder, { recursive: true });
 
     // Extension mapping
-    const ext = getLanguageExtension(sub.lang);
+    const ext = getLanguageExtension(item.submission.lang);
     const solutionFile = `solution.${ext}`;
     const solutionPath = path.join(problemFolder, solutionFile);
 
@@ -285,26 +320,26 @@ async function main() {
     await fs.writeFile(solutionPath, details.code, 'utf8');
 
     // Setup metadata
-    const isoDate = new Date(sub.timestamp * 1000).toISOString();
-    const formattedTopics = questionInfo.topicTags ? questionInfo.topicTags.map(t => t.name) : [];
+    const isoDate = new Date(item.submission.timestamp * 1000).toISOString();
+    const formattedTopics = item.topicTags ? item.topicTags.map(t => t.name) : [];
     
     const metadata = {
       id: qid,
-      title: questionInfo.title || sub.title,
-      difficulty: questionInfo.difficulty || 'Unknown',
+      title: item.title,
+      difficulty: item.difficulty || 'Unknown',
       topics: formattedTopics,
-      language: sub.lang,
-      slug: sub.slug,
+      language: item.submission.lang,
+      slug: item.slug,
       acceptanceDate: isoDate,
-      leetcodeUrl: `https://leetcode.com/problems/${sub.slug}/`,
-      submissionId: sub.id,
+      leetcodeUrl: `https://leetcode.com/problems/${item.slug}/`,
+      submissionId: item.submission.id,
       lastUpdated: new Date().toISOString()
     };
 
     const metadataPath = path.join(problemFolder, 'metadata.json');
     await fs.writeFile(metadataPath, JSON.stringify(metadata, null, 2), 'utf8');
 
-    // Preserve AI Expanation if exists
+    // Preserve AI Explanation if exists
     const readmePath = path.join(problemFolder, 'README.md');
     let customAiContent = '';
     try {

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0102",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "language": "javascript",
+    "acceptanceDate": "2026-07-31T11:00:00Z",
+    "slug": "binary-tree-level-order-traversal"
+  },
+  {
+    "id": "0001",
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "language": "javascript",
+    "acceptanceDate": "2026-07-30T10:00:00Z",
+    "slug": "two-sum"
+  }
+]

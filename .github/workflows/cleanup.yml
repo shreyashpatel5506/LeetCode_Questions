@@ -1,0 +1,38 @@
+name: Codebase Pruning & Normalization
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Configure Git Credentials
+        run: |
+          git config --global user.name "shreyashpatel"
+          git config --global user.email "shreyashpatel5506@gmail.com"
+
+      - name: Run Cleanup & Normalization
+        run: node scripts/cleanup.js
+
+      - name: Commit & Push Cleaned Layout
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "chore(cleanup): prune layout and normalize naming schemas"
+            git push
+          else
+            echo "No cleanup changes to commit."
+          fi

@@ -1,0 +1,16 @@
+{
+  "id": "0102",
+  "title": "Binary Tree Level Order Traversal",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "BFS",
+    "Binary Tree"
+  ],
+  "language": "javascript",
+  "slug": "binary-tree-level-order-traversal",
+  "acceptanceDate": "2026-07-31T11:00:00Z",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+  "submissionId": 100000002,
+  "lastUpdated": "2026-07-31T11:00:00Z"
+}

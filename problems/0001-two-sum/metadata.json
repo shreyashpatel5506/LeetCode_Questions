@@ -1,0 +1,15 @@
+{
+  "id": "0001",
+  "title": "Two Sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "javascript",
+  "slug": "two-sum",
+  "acceptanceDate": "2026-07-30T10:00:00Z",
+  "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+  "submissionId": 100000001,
+  "lastUpdated": "2026-07-30T10:00:00Z"
+}

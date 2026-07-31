@@ -1,0 +1,66 @@
+name: LeetCode Portfolio Automator (Master Orchestrator)
+
+on:
+  schedule:
+    - cron: '30 2,17 * * *' # Runs at 8:00 AM IST and 11:00 PM IST (02:30 and 17:30 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for proper git dates
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Configure Git Credentials
+        run: |
+          git config --global user.name "shreyashpatel"
+          git config --global user.email "shreyashpatel5506@gmail.com"
+
+      - name: 1. Synchronize Solutions
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+        run: node scripts/sync.js
+
+      - name: 2. Compile Statistics
+        run: node scripts/stats.js
+
+      - name: 3. Re-group Topic Categories
+        run: node scripts/topics.js
+
+      - name: 4. Re-generate Main README Dashboard
+        run: node scripts/readme.js
+
+      - name: 5. Run Integrity Validation
+        run: node scripts/validate.js
+
+      - name: 6. Perform layout Pruning
+        run: node scripts/cleanup.js
+
+      - name: Push All Changes & Keep Contribution Graph Active
+        run: |
+          # Add any stats, topic list, or README updates generated during the run
+          git add stats/ topics/ README.md
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "chore(stats): daily sync heartbeat and statistics refresh"
+            git push
+          else
+            # If nothing changed (rare since stats timestamp changes), make a minor touch to ensure contribution
+            echo "Heartbeat: $(date)" >> stats/heartbeat.txt
+            git add stats/heartbeat.txt
+            git commit -m "chore(sync): daily heartbeat check"
+            git push
+          fi

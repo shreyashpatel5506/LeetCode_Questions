@@ -1,0 +1,40 @@
+name: Generate Repository README
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [trigger-readme]
+
+permissions:
+  contents: write
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Configure Git Credentials
+        run: |
+          git config --global user.name "shreyashpatel"
+          git config --global user.email "shreyashpatel5506@gmail.com"
+
+      - name: Run README Generator
+        run: node scripts/readme.js
+
+      - name: Commit & Push README
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "docs(readme): update dashboard"
+            git push
+          else
+            echo "No README changes to commit."
+          fi

@@ -1,0 +1,18 @@
+{
+  "id": "0486",
+  "title": "Predict the Winner",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Game Theory"
+  ],
+  "language": "java",
+  "slug": "predict-the-winner",
+  "acceptanceDate": "2026-08-01T11:14:58.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+  "submissionId": 2089865698,
+  "lastUpdated": "2026-08-01T18:27:38.232Z"
+}

@@ -1,5 +1,13 @@
 [
   {
+    "id": "0486",
+    "title": "Predict the Winner",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-08-01T11:14:58.000Z",
+    "slug": "predict-the-winner"
+  },
+  {
     "id": "0102",
     "title": "Binary Tree Level Order Traversal",
     "difficulty": "Medium",
@@ -70,13 +78,5 @@
     "language": "mysql",
     "acceptanceDate": "2026-07-31T07:47:32.000Z",
     "slug": "average-selling-price"
-  },
-  {
-    "id": "1934",
-    "title": "Confirmation Rate",
-    "difficulty": "Medium",
-    "language": "mysql",
-    "acceptanceDate": "2026-07-31T07:43:54.000Z",
-    "slug": "confirmation-rate"
   }
 ]

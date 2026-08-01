@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Recursion** topic.
 
-## Solved Problems (10)
+## Solved Problems (11)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -16,3 +16,4 @@ This page contains all problems categorized under the **Recursion** topic.
 | **Power of Four** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-four/) | [Local Solution](../../problems/0342-power-of-four/) |
 | **Power of Three** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-three/) | [Local Solution](../../problems/0326-power-of-three/) |
 | **Power of Two** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-two/) | [Local Solution](../../problems/0231-power-of-two/) |
+| **Predict the Winner** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/predict-the-winner/) | [Local Solution](../../problems/0486-predict-the-winner/) |

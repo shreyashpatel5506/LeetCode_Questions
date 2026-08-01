@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (166)
+## Solved Problems (167)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -123,6 +123,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Pascal's Triangle II** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | [Local Solution](../../problems/0119-pascals-triangle-ii/) |
 | **Peak Index in a Mountain Array** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Local Solution](../../problems/0852-peak-index-in-a-mountain-array/) |
 | **Plus One** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/plus-one/) | [Local Solution](../../problems/0066-plus-one/) |
+| **Predict the Winner** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/predict-the-winner/) | [Local Solution](../../problems/0486-predict-the-winner/) |
 | **Product of Array Except Self** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | [Local Solution](../../problems/0238-product-of-array-except-self/) |
 | **Projection Area of 3D Shapes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Local Solution](../../problems/0883-projection-area-of-3d-shapes/) |
 | **Range Sum Query - Immutable** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | [Local Solution](../../problems/0303-range-sum-query-immutable/) |

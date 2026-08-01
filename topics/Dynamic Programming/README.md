@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Dynamic Programming** topic.
 
-## Solved Problems (25)
+## Solved Problems (26)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,6 +24,7 @@ This page contains all problems categorized under the **Dynamic Programming** to
 | **Number of Ways to Rearrange Sticks With K Sticks Visible** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [Local Solution](../../problems/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) |
 | **Pascal's Triangle** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | [Local Solution](../../problems/0118-pascals-triangle/) |
 | **Pascal's Triangle II** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | [Local Solution](../../problems/0119-pascals-triangle-ii/) |
+| **Predict the Winner** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/predict-the-winner/) | [Local Solution](../../problems/0486-predict-the-winner/) |
 | **Rotate Function** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rotate-function/) | [Local Solution](../../problems/0396-rotate-function/) |
 | **Rotated Digits** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rotated-digits/) | [Local Solution](../../problems/0788-rotated-digits/) |
 | **Soup Servings** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/soup-servings/) | [Local Solution](../../problems/0808-soup-servings/) |

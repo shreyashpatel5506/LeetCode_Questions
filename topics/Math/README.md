@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (95)
+## Solved Problems (96)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -73,6 +73,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Power of Four** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-four/) | [Local Solution](../../problems/0342-power-of-four/) |
 | **Power of Three** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-three/) | [Local Solution](../../problems/0326-power-of-three/) |
 | **Power of Two** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-two/) | [Local Solution](../../problems/0231-power-of-two/) |
+| **Predict the Winner** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/predict-the-winner/) | [Local Solution](../../problems/0486-predict-the-winner/) |
 | **Prime Palindrome** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/prime-palindrome/) | [Local Solution](../../problems/0866-prime-palindrome/) |
 | **Projection Area of 3D Shapes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Local Solution](../../problems/0883-projection-area-of-3d-shapes/) |
 | **Rectangle Area** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rectangle-area/) | [Local Solution](../../problems/0223-rectangle-area/) |

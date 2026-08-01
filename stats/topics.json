@@ -1,9 +1,9 @@
 {
-  "Array": 166,
+  "Array": 167,
   "Hash Table": 60,
   "Linked List": 5,
-  "Math": 95,
-  "Recursion": 10,
+  "Math": 96,
+  "Recursion": 11,
   "Binary Search": 28,
   "Divide and Conquer": 7,
   "Two Pointers": 26,
@@ -12,7 +12,7 @@
   "Stack": 6,
   "String Matching": 3,
   "Bit Manipulation": 29,
-  "Dynamic Programming": 25,
+  "Dynamic Programming": 26,
   "Matrix": 14,
   "Sorting": 44,
   "Simulation": 35,
@@ -35,6 +35,7 @@
   "Bucket Sort": 4,
   "Quickselect": 1,
   "Queue": 1,
+  "Game Theory": 2,
   "Union-Find": 1,
   "Graph Theory": 1,
   "Sliding Window": 3,
@@ -46,6 +47,5 @@
   "Combinatorics": 3,
   "Binary Indexed Tree": 1,
   "Segment Tree": 1,
-  "Ordered Set": 1,
-  "Game Theory": 1
+  "Ordered Set": 1
 }

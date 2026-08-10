@@ -1,5 +1,13 @@
 [
   {
+    "id": "3678",
+    "title": "Smallest Absent Positive Greater Than Average",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-08-10T13:54:53.000Z",
+    "slug": "smallest-absent-positive-greater-than-average"
+  },
+  {
     "id": "0486",
     "title": "Predict the Winner",
     "difficulty": "Medium",
@@ -70,13 +78,5 @@
     "language": "mysql",
     "acceptanceDate": "2026-07-31T07:48:13.000Z",
     "slug": "percentage-of-users-attended-a-contest"
-  },
-  {
-    "id": "1251",
-    "title": "Average Selling Price",
-    "difficulty": "Easy",
-    "language": "mysql",
-    "acceptanceDate": "2026-07-31T07:47:32.000Z",
-    "slug": "average-selling-price"
   }
 ]

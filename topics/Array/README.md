@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (167)
+## Solved Problems (168)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -153,6 +153,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Single Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/single-number/) | [Local Solution](../../problems/0136-single-number/) |
 | **Single Number II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/single-number-ii/) | [Local Solution](../../problems/0137-single-number-ii/) |
 | **Slowest Key** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/slowest-key/) | [Local Solution](../../problems/1629-slowest-key/) |
+| **Smallest Absent Positive Greater Than Average** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Local Solution](../../problems/3678-smallest-absent-positive-greater-than-average/) |
 | **Smallest Range I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-range-i/) | [Local Solution](../../problems/0908-smallest-range-i/) |
 | **Smallest Stable Index I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | [Local Solution](../../problems/3903-smallest-stable-index-i/) |
 | **Snake in Matrix** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/snake-in-matrix/) | [Local Solution](../../problems/3248-snake-in-matrix/) |

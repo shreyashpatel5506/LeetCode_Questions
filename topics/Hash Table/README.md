@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Hash Table** topic.
 
-## Solved Problems (60)
+## Solved Problems (61)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,6 +57,7 @@ This page contains all problems categorized under the **Hash Table** topic.
 | **Roman to Integer** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | [Local Solution](../../problems/0013-roman-to-integer/) |
 | **Sender With Largest Word Count** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sender-with-largest-word-count/) | [Local Solution](../../problems/2284-sender-with-largest-word-count/) |
 | **Set Mismatch** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/set-mismatch/) | [Local Solution](../../problems/0645-set-mismatch/) |
+| **Smallest Absent Positive Greater Than Average** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Local Solution](../../problems/3678-smallest-absent-positive-greater-than-average/) |
 | **Smallest Integer Divisible by K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Local Solution](../../problems/1015-smallest-integer-divisible-by-k/) |
 | **Sort Array by Increasing Frequency** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Local Solution](../../problems/1636-sort-array-by-increasing-frequency/) |
 | **Sort Characters By Frequency** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | [Local Solution](../../problems/0451-sort-characters-by-frequency/) |

@@ -1,0 +1,15 @@
+{
+  "id": "3678",
+  "title": "Smallest Absent Positive Greater Than Average",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "java",
+  "slug": "smallest-absent-positive-greater-than-average",
+  "acceptanceDate": "2026-08-10T13:54:53.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-absent-positive-greater-than-average/",
+  "submissionId": 2101614111,
+  "lastUpdated": "2026-08-10T18:11:21.136Z"
+}

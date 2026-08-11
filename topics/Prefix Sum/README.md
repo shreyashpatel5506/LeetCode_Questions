@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Prefix Sum** topic.
 
-## Solved Problems (14)
+## Solved Problems (15)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -20,3 +20,4 @@ This page contains all problems categorized under the **Prefix Sum** topic.
 | **Range Sum Query - Immutable** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | [Local Solution](../../problems/0303-range-sum-query-immutable/) |
 | **Smallest Stable Index I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | [Local Solution](../../problems/3903-smallest-stable-index-i/) |
 | **Split Array Largest Sum** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | [Local Solution](../../problems/0410-split-array-largest-sum/) |
+| **Subarray Sum Equals K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | [Local Solution](../../problems/0560-subarray-sum-equals-k/) |

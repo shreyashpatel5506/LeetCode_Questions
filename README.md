@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Aug 11, 2026, 3:58 AM (UTC)` |
+| **Latest Synchronization** | `Aug 11, 2026, 6:13 PM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,17 +25,17 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **263** | 64.3% | `██████` |
-| 🟡 **Medium** | **124** | 30.3% | `███` |
-| 🔴 **Hard** | **22** | 5.4% | `█` |
-| **Total Solved** | **409** | **100%** | |
+| 🟢 **Easy** | **264** | 64.1% | `██████` |
+| 🟡 **Medium** | **126** | 30.6% | `███` |
+| 🔴 **Hard** | **22** | 5.3% | `█` |
+| **Total Solved** | **412** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 263 | 64.3% |
-| `mysql` | 70 | 17.1% |
-| `javascript` | 50 | 12.2% |
+| `java` | 266 | 64.6% |
+| `mysql` | 70 | 17.0% |
+| `javascript` | 50 | 12.1% |
 | `python3` | 19 | 4.6% |
 | `php` | 2 | 0.5% |
 | `c` | 2 | 0.5% |
@@ -50,12 +50,12 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`168`) | 📁 [**Math**](topics/Math/) (`96`) | 📁 [**String**](topics/String/) (`70`) |
-| 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`61`) | 📁 [**Sorting**](topics/Sorting/) (`44`) |
+| 📁 [**Array**](topics/Array/) (`171`) | 📁 [**Math**](topics/Math/) (`96`) | 📁 [**String**](topics/String/) (`70`) |
+| 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`63`) | 📁 [**Sorting**](topics/Sorting/) (`45`) |
 | 📁 [**Simulation**](topics/Simulation/) (`35`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`29`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) |
-| 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`26`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`26`) |
-| 📁 [**Greedy**](topics/Greedy/) (`22`) | 📁 [**Matrix**](topics/Matrix/) (`14`) | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) |
-| 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`14`) | 📁 [**Recursion**](topics/Recursion/) (`11`) | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`7`) |
+| 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`27`) | 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`26`) |
+| 📁 [**Greedy**](topics/Greedy/) (`22`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
+| 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Recursion**](topics/Recursion/) (`11`) | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`8`) |
 | 📁 [**Enumeration**](topics/Enumeration/) (`7`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`7`) | 📁 [**Stack**](topics/Stack/) (`6`) |
 | 📁 [**Geometry**](topics/Geometry/) (`6`) | 📁 [**Linked List**](topics/Linked%20List/) (`5`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`5`) |
 | 📁 [**Memoization**](topics/Memoization/) (`4`) | 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**String Matching**](topics/String%20Matching/) (`3`) |
@@ -76,6 +76,9 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0560 | [Subarray Sum Equals K](#) | `Medium` | `java` | 2026-08-11 | [Local Code](problems/0560-subarray-sum-equals-k/) |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](#) | `Easy` | `java` | 2026-08-11 | [Local Code](problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
+| 0053 | [Maximum Subarray](#) | `Medium` | `java` | 2026-08-11 | [Local Code](problems/0053-maximum-subarray/) |
 | 3678 | [Smallest Absent Positive Greater Than Average](#) | `Easy` | `java` | 2026-08-10 | [Local Code](problems/3678-smallest-absent-positive-greater-than-average/) |
 | 0486 | [Predict the Winner](#) | `Medium` | `java` | 2026-08-01 | [Local Code](problems/0486-predict-the-winner/) |
 | 0102 | [Binary Tree Level Order Traversal](#) | `Medium` | `javascript` | 2026-07-31 | [Local Code](problems/0102-binary-tree-level-order-traversal/) |
@@ -83,9 +86,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 1907 | [Count Salary Categories](#) | `Medium` | `mysql` | 2026-07-31 | [Local Code](problems/1907-count-salary-categories/) |
 | 1204 | [Last Person to Fit in the Bus](#) | `Medium` | `mysql` | 2026-07-31 | [Local Code](problems/1204-last-person-to-fit-in-the-bus/) |
 | 1164 | [Product Price at a Given Date](#) | `Medium` | `mysql` | 2026-07-31 | [Local Code](problems/1164-product-price-at-a-given-date/) |
-| 1789 | [Primary Department for Each Employee](#) | `Easy` | `mysql` | 2026-07-31 | [Local Code](problems/1789-primary-department-for-each-employee/) |
-| 0550 | [Game Play Analysis IV](#) | `Medium` | `mysql` | 2026-07-31 | [Local Code](problems/0550-game-play-analysis-iv/) |
-| 1633 | [Percentage of Users Attended a Contest](#) | `Easy` | `mysql` | 2026-07-31 | [Local Code](problems/1633-percentage-of-users-attended-a-contest/) |
 
 ---
 

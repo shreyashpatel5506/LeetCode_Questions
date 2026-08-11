@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Hash Table** topic.
 
-## Solved Problems (61)
+## Solved Problems (63)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -59,8 +59,10 @@ This page contains all problems categorized under the **Hash Table** topic.
 | **Set Mismatch** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/set-mismatch/) | [Local Solution](../../problems/0645-set-mismatch/) |
 | **Smallest Absent Positive Greater Than Average** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Local Solution](../../problems/3678-smallest-absent-positive-greater-than-average/) |
 | **Smallest Integer Divisible by K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Local Solution](../../problems/1015-smallest-integer-divisible-by-k/) |
+| **Smallest Missing Integer Greater Than Sequential Prefix Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Local Solution](../../problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | **Sort Array by Increasing Frequency** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Local Solution](../../problems/1636-sort-array-by-increasing-frequency/) |
 | **Sort Characters By Frequency** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | [Local Solution](../../problems/0451-sort-characters-by-frequency/) |
+| **Subarray Sum Equals K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | [Local Solution](../../problems/0560-subarray-sum-equals-k/) |
 | **Toggle Light Bulbs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/toggle-light-bulbs/) | [Local Solution](../../problems/3842-toggle-light-bulbs/) |
 | **Top K Frequent Elements** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | [Local Solution](../../problems/0347-top-k-frequent-elements/) |
 | **Top K Frequent Words** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/top-k-frequent-words/) | [Local Solution](../../problems/0692-top-k-frequent-words/) |

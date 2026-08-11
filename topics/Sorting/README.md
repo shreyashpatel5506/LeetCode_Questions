@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Sorting** topic.
 
-## Solved Problems (44)
+## Solved Problems (45)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -37,6 +37,7 @@ This page contains all problems categorized under the **Sorting** topic.
 | **Rank Transform of an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | [Local Solution](../../problems/1331-rank-transform-of-an-array/) |
 | **Remove Covered Intervals** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) | [Local Solution](../../problems/1288-remove-covered-intervals/) |
 | **Set Mismatch** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/set-mismatch/) | [Local Solution](../../problems/0645-set-mismatch/) |
+| **Smallest Missing Integer Greater Than Sequential Prefix Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Local Solution](../../problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | **Sort an Array** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/sort-an-array/) | [Local Solution](../../problems/0912-sort-an-array/) |
 | **Sort Array by Increasing Frequency** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Local Solution](../../problems/1636-sort-array-by-increasing-frequency/) |
 | **Sort Characters By Frequency** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | [Local Solution](../../problems/0451-sort-characters-by-frequency/) |

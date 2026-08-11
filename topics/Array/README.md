@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (168)
+## Solved Problems (171)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -91,6 +91,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Maximum Population Year** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-population-year/) | [Local Solution](../../problems/1854-maximum-population-year/) |
 | **Maximum Product of Three Numbers** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Local Solution](../../problems/0628-maximum-product-of-three-numbers/) |
 | **Maximum Product of Two Elements in an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Local Solution](../../problems/1464-maximum-product-of-two-elements-in-an-array/) |
+| **Maximum Subarray** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | [Local Solution](../../problems/0053-maximum-subarray/) |
 | **Maximum Total Subarray Value I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Local Solution](../../problems/3689-maximum-total-subarray-value-i/) |
 | **Median of Two Sorted Arrays** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Local Solution](../../problems/0004-median-of-two-sorted-arrays/) |
 | **Merge Intervals** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/merge-intervals/) | [Local Solution](../../problems/0056-merge-intervals/) |
@@ -154,6 +155,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Single Number II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/single-number-ii/) | [Local Solution](../../problems/0137-single-number-ii/) |
 | **Slowest Key** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/slowest-key/) | [Local Solution](../../problems/1629-slowest-key/) |
 | **Smallest Absent Positive Greater Than Average** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Local Solution](../../problems/3678-smallest-absent-positive-greater-than-average/) |
+| **Smallest Missing Integer Greater Than Sequential Prefix Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Local Solution](../../problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | **Smallest Range I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-range-i/) | [Local Solution](../../problems/0908-smallest-range-i/) |
 | **Smallest Stable Index I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | [Local Solution](../../problems/3903-smallest-stable-index-i/) |
 | **Snake in Matrix** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/snake-in-matrix/) | [Local Solution](../../problems/3248-snake-in-matrix/) |
@@ -163,6 +165,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Sort Integers by The Number of 1 Bits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Local Solution](../../problems/1356-sort-integers-by-the-number-of-1-bits/) |
 | **Split Array Largest Sum** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | [Local Solution](../../problems/0410-split-array-largest-sum/) |
 | **Squares of a Sorted Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Local Solution](../../problems/0977-squares-of-a-sorted-array/) |
+| **Subarray Sum Equals K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | [Local Solution](../../problems/0560-subarray-sum-equals-k/) |
 | **Sum of GCD of Formed Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Local Solution](../../problems/3867-sum-of-gcd-of-formed-pairs/) |
 | **Toggle Light Bulbs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/toggle-light-bulbs/) | [Local Solution](../../problems/3842-toggle-light-bulbs/) |
 | **Top K Frequent Elements** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | [Local Solution](../../problems/0347-top-k-frequent-elements/) |

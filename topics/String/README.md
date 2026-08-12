@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (70)
+## Solved Problems (71)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -27,6 +27,7 @@ This page contains all problems categorized under the **String** topic.
 | **Determine Color of a Chessboard Square** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Local Solution](../../problems/1812-determine-color-of-a-chessboard-square/) |
 | **Execution of All Suffix Instructions Staying in a Grid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | [Local Solution](../../problems/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) |
 | **Existence of a Substring in a String and Its Reverse** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | [Local Solution](../../problems/3083-existence-of-a-substring-in-a-string-and-its-reverse/) |
+| **Find All Anagrams in a String** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Local Solution](../../problems/0438-find-all-anagrams-in-a-string/) |
 | **Find the Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-difference/) | [Local Solution](../../problems/0389-find-the-difference/) |
 | **Find the Index of the First Occurrence in a String** | `Easy` | `php` | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Local Solution](../../problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
 | **Find the Length of the Longest Common Prefix** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Local Solution](../../problems/3043-find-the-length-of-the-longest-common-prefix/) |

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Hash Table** topic.
 
-## Solved Problems (63)
+## Solved Problems (64)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -17,6 +17,7 @@ This page contains all problems categorized under the **Hash Table** topic.
 | **Create Binary Tree From Descriptions** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Local Solution](../../problems/2196-create-binary-tree-from-descriptions/) |
 | **Equal Row and Column Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Local Solution](../../problems/2352-equal-row-and-column-pairs/) |
 | **Existence of a Substring in a String and Its Reverse** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | [Local Solution](../../problems/3083-existence-of-a-substring-in-a-string-and-its-reverse/) |
+| **Find All Anagrams in a String** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Local Solution](../../problems/0438-find-all-anagrams-in-a-string/) |
 | **Find All Duplicates in an Array** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Local Solution](../../problems/0442-find-all-duplicates-in-an-array/) |
 | **Find All Lonely Numbers in the Array** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [Local Solution](../../problems/2150-find-all-lonely-numbers-in-the-array/) |
 | **Find All Numbers Disappeared in an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Local Solution](../../problems/0448-find-all-numbers-disappeared-in-an-array/) |

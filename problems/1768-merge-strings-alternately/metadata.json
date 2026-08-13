@@ -1,0 +1,15 @@
+{
+  "id": "1768",
+  "title": "Merge Strings Alternately",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "java",
+  "slug": "merge-strings-alternately",
+  "acceptanceDate": "2026-08-13T14:14:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+  "submissionId": 2105517262,
+  "lastUpdated": "2026-08-13T18:14:12.807Z"
+}

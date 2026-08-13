@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (71)
+## Solved Problems (73)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -48,6 +48,7 @@ This page contains all problems categorized under the **String** topic.
 | **Maximum Number of Balloons** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | [Local Solution](../../problems/1189-maximum-number-of-balloons/) |
 | **Maximum Number of Words You Can Type** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Local Solution](../../problems/1935-maximum-number-of-words-you-can-type/) |
 | **Maximum Repeating Substring** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-repeating-substring/) | [Local Solution](../../problems/1668-maximum-repeating-substring/) |
+| **Merge Strings Alternately** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | [Local Solution](../../problems/1768-merge-strings-alternately/) |
 | **Minimum Distance to Type a Word Using Two Fingers** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Local Solution](../../problems/1320-minimum-distance-to-type-a-word-using-two-fingers/) |
 | **Minimum Number of Pushes to Type Word I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Local Solution](../../problems/3014-minimum-number-of-pushes-to-type-word-i/) |
 | **Minimum Number of Pushes to Type Word II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Local Solution](../../problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
@@ -58,6 +59,7 @@ This page contains all problems categorized under the **String** topic.
 | **Rearrange Characters to Make Target String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [Local Solution](../../problems/2287-rearrange-characters-to-make-target-string/) |
 | **Reverse Prefix of Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/reverse-prefix-of-word/) | [Local Solution](../../problems/2000-reverse-prefix-of-word/) |
 | **Reverse String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-string/) | [Local Solution](../../problems/0344-reverse-string/) |
+| **Reverse Vowels of a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Local Solution](../../problems/0345-reverse-vowels-of-a-string/) |
 | **Robot Return to Origin** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | [Local Solution](../../problems/0657-robot-return-to-origin/) |
 | **Roman to Integer** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | [Local Solution](../../problems/0013-roman-to-integer/) |
 | **Rotate String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rotate-string/) | [Local Solution](../../problems/0796-rotate-string/) |

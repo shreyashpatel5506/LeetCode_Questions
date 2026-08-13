@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Two Pointers** topic.
 
-## Solved Problems (26)
+## Solved Problems (28)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -17,6 +17,7 @@ This page contains all problems categorized under the **Two Pointers** topic.
 | **Largest Positive Integer That Exists With Its Negative** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Local Solution](../../problems/2441-largest-positive-integer-that-exists-with-its-negative/) |
 | **Maximum Distance Between a Pair of Values** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Local Solution](../../problems/1855-maximum-distance-between-a-pair-of-values/) |
 | **Merge Sorted Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | [Local Solution](../../problems/0088-merge-sorted-array/) |
+| **Merge Strings Alternately** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | [Local Solution](../../problems/1768-merge-strings-alternately/) |
 | **Minimum Common Value** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-common-value/) | [Local Solution](../../problems/2540-minimum-common-value/) |
 | **Move Zeroes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/move-zeroes/) | [Local Solution](../../problems/0283-move-zeroes/) |
 | **Palindrome Linked List** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | [Local Solution](../../problems/0234-palindrome-linked-list/) |
@@ -25,6 +26,7 @@ This page contains all problems categorized under the **Two Pointers** topic.
 | **Remove Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/remove-element/) | [Local Solution](../../problems/0027-remove-element/) |
 | **Reverse Prefix of Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/reverse-prefix-of-word/) | [Local Solution](../../problems/2000-reverse-prefix-of-word/) |
 | **Reverse String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-string/) | [Local Solution](../../problems/0344-reverse-string/) |
+| **Reverse Vowels of a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Local Solution](../../problems/0345-reverse-vowels-of-a-string/) |
 | **Rotate List** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rotate-list/) | [Local Solution](../../problems/0061-rotate-list/) |
 | **Rotating the Box** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rotating-the-box/) | [Local Solution](../../problems/1861-rotating-the-box/) |
 | **Sentence Similarity III** | `Medium` | `python3` | [LeetCode](https://leetcode.com/problems/sentence-similarity-iii/) | [Local Solution](../../problems/1813-sentence-similarity-iii/) |

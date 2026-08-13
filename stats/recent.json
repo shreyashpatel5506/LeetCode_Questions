@@ -1,5 +1,21 @@
 [
   {
+    "id": "0345",
+    "title": "Reverse Vowels of a String",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-08-13T16:46:37.000Z",
+    "slug": "reverse-vowels-of-a-string"
+  },
+  {
+    "id": "1768",
+    "title": "Merge Strings Alternately",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-08-13T14:14:26.000Z",
+    "slug": "merge-strings-alternately"
+  },
+  {
     "id": "0438",
     "title": "Find All Anagrams in a String",
     "difficulty": "Medium",
@@ -62,21 +78,5 @@
     "language": "mysql",
     "acceptanceDate": "2026-07-31T07:50:12.000Z",
     "slug": "restaurant-growth"
-  },
-  {
-    "id": "1907",
-    "title": "Count Salary Categories",
-    "difficulty": "Medium",
-    "language": "mysql",
-    "acceptanceDate": "2026-07-31T07:49:53.000Z",
-    "slug": "count-salary-categories"
-  },
-  {
-    "id": "1204",
-    "title": "Last Person to Fit in the Bus",
-    "difficulty": "Medium",
-    "language": "mysql",
-    "acceptanceDate": "2026-07-31T07:49:39.000Z",
-    "slug": "last-person-to-fit-in-the-bus"
   }
 ]

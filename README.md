@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Aug 13, 2026, 4:23 AM (UTC)` |
+| **Latest Synchronization** | `Aug 13, 2026, 6:14 PM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,17 +25,17 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **264** | 63.9% | `██████` |
-| 🟡 **Medium** | **127** | 30.8% | `███` |
+| 🟢 **Easy** | **266** | 64.1% | `██████` |
+| 🟡 **Medium** | **127** | 30.6% | `███` |
 | 🔴 **Hard** | **22** | 5.3% | `█` |
-| **Total Solved** | **413** | **100%** | |
+| **Total Solved** | **415** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 267 | 64.6% |
+| `java` | 269 | 64.8% |
 | `mysql` | 70 | 16.9% |
-| `javascript` | 50 | 12.1% |
+| `javascript` | 50 | 12.0% |
 | `python3` | 19 | 4.6% |
 | `php` | 2 | 0.5% |
 | `c` | 2 | 0.5% |
@@ -50,10 +50,10 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`171`) | 📁 [**Math**](topics/Math/) (`96`) | 📁 [**String**](topics/String/) (`71`) |
+| 📁 [**Array**](topics/Array/) (`171`) | 📁 [**Math**](topics/Math/) (`96`) | 📁 [**String**](topics/String/) (`73`) |
 | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`64`) | 📁 [**Sorting**](topics/Sorting/) (`45`) |
 | 📁 [**Simulation**](topics/Simulation/) (`35`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`29`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) |
-| 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`27`) | 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`26`) |
+| 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`27`) | 📁 [**Counting**](topics/Counting/) (`27`) |
 | 📁 [**Greedy**](topics/Greedy/) (`22`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
 | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Recursion**](topics/Recursion/) (`11`) | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`8`) |
 | 📁 [**Enumeration**](topics/Enumeration/) (`7`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`7`) | 📁 [**Stack**](topics/Stack/) (`6`) |
@@ -76,6 +76,8 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0345 | [Reverse Vowels of a String](#) | `Easy` | `java` | 2026-08-13 | [Local Code](problems/0345-reverse-vowels-of-a-string/) |
+| 1768 | [Merge Strings Alternately](#) | `Easy` | `java` | 2026-08-13 | [Local Code](problems/1768-merge-strings-alternately/) |
 | 0438 | [Find All Anagrams in a String](#) | `Medium` | `java` | 2026-08-11 | [Local Code](problems/0438-find-all-anagrams-in-a-string/) |
 | 0560 | [Subarray Sum Equals K](#) | `Medium` | `java` | 2026-08-11 | [Local Code](problems/0560-subarray-sum-equals-k/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](#) | `Easy` | `java` | 2026-08-11 | [Local Code](problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
@@ -84,8 +86,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 0486 | [Predict the Winner](#) | `Medium` | `java` | 2026-08-01 | [Local Code](problems/0486-predict-the-winner/) |
 | 0102 | [Binary Tree Level Order Traversal](#) | `Medium` | `javascript` | 2026-07-31 | [Local Code](problems/0102-binary-tree-level-order-traversal/) |
 | 1321 | [Restaurant Growth](#) | `Medium` | `mysql` | 2026-07-31 | [Local Code](problems/1321-restaurant-growth/) |
-| 1907 | [Count Salary Categories](#) | `Medium` | `mysql` | 2026-07-31 | [Local Code](problems/1907-count-salary-categories/) |
-| 1204 | [Last Person to Fit in the Bus](#) | `Medium` | `mysql` | 2026-07-31 | [Local Code](problems/1204-last-person-to-fit-in-the-bus/) |
 
 ---
 

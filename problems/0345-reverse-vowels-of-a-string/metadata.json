@@ -1,0 +1,15 @@
+{
+  "id": "0345",
+  "title": "Reverse Vowels of a String",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "java",
+  "slug": "reverse-vowels-of-a-string",
+  "acceptanceDate": "2026-08-13T16:46:37.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+  "submissionId": 2105700809,
+  "lastUpdated": "2026-08-13T18:14:14.506Z"
+}

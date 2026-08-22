@@ -1,0 +1,14 @@
+{
+  "id": "3622",
+  "title": "Check Divisibility by Digit Sum and Product",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "check-divisibility-by-digit-sum-and-product",
+  "acceptanceDate": "2026-08-22T17:21:56.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
+  "submissionId": 2116429301,
+  "lastUpdated": "2026-08-22T17:42:45.354Z"
+}

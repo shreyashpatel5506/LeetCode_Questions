@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (96)
+## Solved Problems (97)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -16,6 +16,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Average Value of Even Numbers That Are Divisible by Three** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [Local Solution](../../problems/2455-average-value-of-even-numbers-that-are-divisible-by-three/) |
 | **Calculate Money in Leetcode Bank** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Local Solution](../../problems/1716-calculate-money-in-leetcode-bank/) |
 | **Categorize Box According to Criteria** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [Local Solution](../../problems/2525-categorize-box-according-to-criteria/) |
+| **Check Divisibility by Digit Sum and Product** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [Local Solution](../../problems/3622-check-divisibility-by-digit-sum-and-product/) |
 | **Check If Digits Are Equal in String After Operations I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | [Local Solution](../../problems/3461-check-if-digits-are-equal-in-string-after-operations-i/) |
 | **Check If It Is a Straight Line** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Local Solution](../../problems/1232-check-if-it-is-a-straight-line/) |
 | **Check if Two Chessboard Squares Have the Same Color** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [Local Solution](../../problems/3274-check-if-two-chessboard-squares-have-the-same-color/) |

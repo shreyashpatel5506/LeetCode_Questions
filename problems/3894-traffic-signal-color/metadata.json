@@ -1,0 +1,16 @@
+{
+  "id": "3894",
+  "title": "Traffic Signal Color",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "language": "java",
+  "slug": "traffic-signal-color",
+  "acceptanceDate": "2026-08-23T10:17:43.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/traffic-signal-color/",
+  "submissionId": 2117206797,
+  "lastUpdated": "2026-08-23T17:41:52.218Z"
+}

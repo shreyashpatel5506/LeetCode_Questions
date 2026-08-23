@@ -1,5 +1,13 @@
 [
   {
+    "id": "3894",
+    "title": "Traffic Signal Color",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-08-23T10:17:43.000Z",
+    "slug": "traffic-signal-color"
+  },
+  {
     "id": "3622",
     "title": "Check Divisibility by Digit Sum and Product",
     "difficulty": "Easy",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-08-01T11:14:58.000Z",
     "slug": "predict-the-winner"
-  },
-  {
-    "id": "0102",
-    "title": "Binary Tree Level Order Traversal",
-    "difficulty": "Medium",
-    "language": "javascript",
-    "acceptanceDate": "2026-07-31T11:00:00Z",
-    "slug": "binary-tree-level-order-traversal"
   }
 ]

@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Aug 23, 2026, 3:27 AM (UTC)` |
+| **Latest Synchronization** | `Aug 23, 2026, 5:41 PM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,15 +25,15 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **267** | 64.2% | `██████` |
+| 🟢 **Easy** | **268** | 64.3% | `██████` |
 | 🟡 **Medium** | **127** | 30.5% | `███` |
 | 🔴 **Hard** | **22** | 5.3% | `█` |
-| **Total Solved** | **416** | **100%** | |
+| **Total Solved** | **417** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 270 | 64.9% |
+| `java` | 271 | 65.0% |
 | `mysql` | 70 | 16.8% |
 | `javascript` | 50 | 12.0% |
 | `python3` | 19 | 4.6% |
@@ -50,9 +50,9 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`171`) | 📁 [**Math**](topics/Math/) (`97`) | 📁 [**String**](topics/String/) (`73`) |
+| 📁 [**Array**](topics/Array/) (`171`) | 📁 [**Math**](topics/Math/) (`98`) | 📁 [**String**](topics/String/) (`74`) |
 | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`64`) | 📁 [**Sorting**](topics/Sorting/) (`45`) |
-| 📁 [**Simulation**](topics/Simulation/) (`35`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`29`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) |
+| 📁 [**Simulation**](topics/Simulation/) (`36`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`29`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) |
 | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`27`) | 📁 [**Counting**](topics/Counting/) (`27`) |
 | 📁 [**Greedy**](topics/Greedy/) (`22`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
 | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Recursion**](topics/Recursion/) (`11`) | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`8`) |
@@ -76,6 +76,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3894 | [Traffic Signal Color](#) | `Easy` | `java` | 2026-08-23 | [Local Code](problems/3894-traffic-signal-color/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](#) | `Easy` | `java` | 2026-08-22 | [Local Code](problems/3622-check-divisibility-by-digit-sum-and-product/) |
 | 0345 | [Reverse Vowels of a String](#) | `Easy` | `java` | 2026-08-13 | [Local Code](problems/0345-reverse-vowels-of-a-string/) |
 | 1768 | [Merge Strings Alternately](#) | `Easy` | `java` | 2026-08-13 | [Local Code](problems/1768-merge-strings-alternately/) |
@@ -85,7 +86,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 0053 | [Maximum Subarray](#) | `Medium` | `java` | 2026-08-11 | [Local Code](problems/0053-maximum-subarray/) |
 | 3678 | [Smallest Absent Positive Greater Than Average](#) | `Easy` | `java` | 2026-08-10 | [Local Code](problems/3678-smallest-absent-positive-greater-than-average/) |
 | 0486 | [Predict the Winner](#) | `Medium` | `java` | 2026-08-01 | [Local Code](problems/0486-predict-the-winner/) |
-| 0102 | [Binary Tree Level Order Traversal](#) | `Medium` | `javascript` | 2026-07-31 | [Local Code](problems/0102-binary-tree-level-order-traversal/) |
 
 ---
 

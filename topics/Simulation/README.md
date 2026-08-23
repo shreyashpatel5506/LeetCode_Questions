@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Simulation** topic.
 
-## Solved Problems (35)
+## Solved Problems (36)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -38,6 +38,7 @@ This page contains all problems categorized under the **Simulation** topic.
 | **Sum of Digits of String After Convert** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Local Solution](../../problems/1945-sum-of-digits-of-string-after-convert/) |
 | **Sum of GCD of Formed Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Local Solution](../../problems/3867-sum-of-gcd-of-formed-pairs/) |
 | **Toggle Light Bulbs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/toggle-light-bulbs/) | [Local Solution](../../problems/3842-toggle-light-bulbs/) |
+| **Traffic Signal Color** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/traffic-signal-color/) | [Local Solution](../../problems/3894-traffic-signal-color/) |
 | **Transformed Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/transformed-array/) | [Local Solution](../../problems/3379-transformed-array/) |
 | **Transpose Matrix** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | [Local Solution](../../problems/0867-transpose-matrix/) |
 | **Weighted Word Mapping** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/weighted-word-mapping/) | [Local Solution](../../problems/3838-weighted-word-mapping/) |

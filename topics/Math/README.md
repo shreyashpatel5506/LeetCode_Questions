@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (97)
+## Solved Problems (98)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -100,6 +100,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Three Divisors** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/three-divisors/) | [Local Solution](../../problems/1952-three-divisors/) |
 | **Total Waviness of Numbers in Range I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Local Solution](../../problems/3751-total-waviness-of-numbers-in-range-i/) |
 | **Total Waviness of Numbers in Range II** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Local Solution](../../problems/3753-total-waviness-of-numbers-in-range-ii/) |
+| **Traffic Signal Color** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/traffic-signal-color/) | [Local Solution](../../problems/3894-traffic-signal-color/) |
 | **Ugly Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/ugly-number/) | [Local Solution](../../problems/0263-ugly-number/) |
 | **Valid Boomerang** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-boomerang/) | [Local Solution](../../problems/1037-valid-boomerang/) |
 | **XOR Operation in an Array** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/xor-operation-in-an-array/) | [Local Solution](../../problems/1486-xor-operation-in-an-array/) |

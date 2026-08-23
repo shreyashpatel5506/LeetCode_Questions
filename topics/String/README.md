@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (73)
+## Solved Problems (74)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -74,6 +74,7 @@ This page contains all problems categorized under the **String** topic.
 | **Split a String in Balanced Strings** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Local Solution](../../problems/1221-split-a-string-in-balanced-strings/) |
 | **Sum of Digits of String After Convert** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Local Solution](../../problems/1945-sum-of-digits-of-string-after-convert/) |
 | **Top K Frequent Words** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/top-k-frequent-words/) | [Local Solution](../../problems/0692-top-k-frequent-words/) |
+| **Traffic Signal Color** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/traffic-signal-color/) | [Local Solution](../../problems/3894-traffic-signal-color/) |
 | **Unique Email Addresses** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/unique-email-addresses/) | [Local Solution](../../problems/0929-unique-email-addresses/) |
 | **Valid Anagram** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-anagram/) | [Local Solution](../../problems/0242-valid-anagram/) |
 | **Valid Palindrome** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | [Local Solution](../../problems/0125-valid-palindrome/) |

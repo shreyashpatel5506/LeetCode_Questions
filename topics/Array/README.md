@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (171)
+## Solved Problems (172)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -167,6 +167,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Squares of a Sorted Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Local Solution](../../problems/0977-squares-of-a-sorted-array/) |
 | **Subarray Sum Equals K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | [Local Solution](../../problems/0560-subarray-sum-equals-k/) |
 | **Sum of GCD of Formed Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Local Solution](../../problems/3867-sum-of-gcd-of-formed-pairs/) |
+| **Summary Ranges** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/summary-ranges/) | [Local Solution](../../problems/0228-summary-ranges/) |
 | **Toggle Light Bulbs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/toggle-light-bulbs/) | [Local Solution](../../problems/3842-toggle-light-bulbs/) |
 | **Top K Frequent Elements** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | [Local Solution](../../problems/0347-top-k-frequent-elements/) |
 | **Top K Frequent Words** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/top-k-frequent-words/) | [Local Solution](../../problems/0692-top-k-frequent-words/) |

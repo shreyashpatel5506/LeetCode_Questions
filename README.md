@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Aug 26, 2026, 3:30 AM (UTC)` |
+| **Latest Synchronization** | `Aug 26, 2026, 7:22 PM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,18 +25,18 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **268** | 64.3% | `██████` |
-| 🟡 **Medium** | **127** | 30.5% | `███` |
+| 🟢 **Easy** | **270** | 64.4% | `██████` |
+| 🟡 **Medium** | **127** | 30.3% | `███` |
 | 🔴 **Hard** | **22** | 5.3% | `█` |
-| **Total Solved** | **417** | **100%** | |
+| **Total Solved** | **419** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 271 | 65.0% |
-| `mysql` | 70 | 16.8% |
-| `javascript` | 50 | 12.0% |
-| `python3` | 19 | 4.6% |
+| `java` | 273 | 65.2% |
+| `mysql` | 70 | 16.7% |
+| `javascript` | 50 | 11.9% |
+| `python3` | 19 | 4.5% |
 | `php` | 2 | 0.5% |
 | `c` | 2 | 0.5% |
 | `pythondata` | 2 | 0.5% |
@@ -50,11 +50,11 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`171`) | 📁 [**Math**](topics/Math/) (`98`) | 📁 [**String**](topics/String/) (`74`) |
+| 📁 [**Array**](topics/Array/) (`172`) | 📁 [**Math**](topics/Math/) (`99`) | 📁 [**String**](topics/String/) (`74`) |
 | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`64`) | 📁 [**Sorting**](topics/Sorting/) (`45`) |
 | 📁 [**Simulation**](topics/Simulation/) (`36`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`29`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) |
 | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`27`) | 📁 [**Counting**](topics/Counting/) (`27`) |
-| 📁 [**Greedy**](topics/Greedy/) (`22`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
+| 📁 [**Greedy**](topics/Greedy/) (`23`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
 | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Recursion**](topics/Recursion/) (`11`) | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`8`) |
 | 📁 [**Enumeration**](topics/Enumeration/) (`7`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`7`) | 📁 [**Stack**](topics/Stack/) (`6`) |
 | 📁 [**Geometry**](topics/Geometry/) (`6`) | 📁 [**Linked List**](topics/Linked%20List/) (`5`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`5`) |
@@ -76,6 +76,8 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0228 | [Summary Ranges](#) | `Easy` | `java` | 2026-08-26 | [Local Code](problems/0228-summary-ranges/) |
+| 2566 | [Maximum Difference by Remapping a Digit](#) | `Easy` | `java` | 2026-08-26 | [Local Code](problems/2566-maximum-difference-by-remapping-a-digit/) |
 | 3894 | [Traffic Signal Color](#) | `Easy` | `java` | 2026-08-23 | [Local Code](problems/3894-traffic-signal-color/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](#) | `Easy` | `java` | 2026-08-22 | [Local Code](problems/3622-check-divisibility-by-digit-sum-and-product/) |
 | 0345 | [Reverse Vowels of a String](#) | `Easy` | `java` | 2026-08-13 | [Local Code](problems/0345-reverse-vowels-of-a-string/) |
@@ -84,8 +86,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 0560 | [Subarray Sum Equals K](#) | `Medium` | `java` | 2026-08-11 | [Local Code](problems/0560-subarray-sum-equals-k/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](#) | `Easy` | `java` | 2026-08-11 | [Local Code](problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 0053 | [Maximum Subarray](#) | `Medium` | `java` | 2026-08-11 | [Local Code](problems/0053-maximum-subarray/) |
-| 3678 | [Smallest Absent Positive Greater Than Average](#) | `Easy` | `java` | 2026-08-10 | [Local Code](problems/3678-smallest-absent-positive-greater-than-average/) |
-| 0486 | [Predict the Winner](#) | `Medium` | `java` | 2026-08-01 | [Local Code](problems/0486-predict-the-winner/) |
 
 ---
 

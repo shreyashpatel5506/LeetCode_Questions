@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (98)
+## Solved Problems (99)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -52,6 +52,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Largest Triangle Area** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/largest-triangle-area/) | [Local Solution](../../problems/0812-largest-triangle-area/) |
 | **Max Points on a Line** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/max-points-on-a-line/) | [Local Solution](../../problems/0149-max-points-on-a-line/) |
 | **Maximum 69 Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-69-number/) | [Local Solution](../../problems/1323-maximum-69-number/) |
+| **Maximum Difference by Remapping a Digit** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Local Solution](../../problems/2566-maximum-difference-by-remapping-a-digit/) |
 | **Maximum Number of Balls in a Box** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Local Solution](../../problems/1742-maximum-number-of-balls-in-a-box/) |
 | **Maximum Product of Three Numbers** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Local Solution](../../problems/0628-maximum-product-of-three-numbers/) |
 | **Maximum Product of Two Digits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Local Solution](../../problems/3536-maximum-product-of-two-digits/) |

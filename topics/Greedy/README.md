@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Greedy** topic.
 
-## Solved Problems (22)
+## Solved Problems (23)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -15,6 +15,7 @@ This page contains all problems categorized under the **Greedy** topic.
 | **Lemonade Change** | `Easy` | `python` | [LeetCode](https://leetcode.com/problems/lemonade-change/) | [Local Solution](../../problems/0860-lemonade-change/) |
 | **Make Array Zero by Subtracting Equal Amounts** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Local Solution](../../problems/2357-make-array-zero-by-subtracting-equal-amounts/) |
 | **Maximum 69 Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-69-number/) | [Local Solution](../../problems/1323-maximum-69-number/) |
+| **Maximum Difference by Remapping a Digit** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Local Solution](../../problems/2566-maximum-difference-by-remapping-a-digit/) |
 | **Maximum Distance in Arrays** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Local Solution](../../problems/0624-maximum-distance-in-arrays/) |
 | **Maximum Ice Cream Bars** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Local Solution](../../problems/1833-maximum-ice-cream-bars/) |
 | **Maximum Total Subarray Value I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Local Solution](../../problems/3689-maximum-total-subarray-value-i/) |

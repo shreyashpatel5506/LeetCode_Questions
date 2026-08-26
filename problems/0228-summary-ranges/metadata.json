@@ -1,0 +1,14 @@
+{
+  "id": "0228",
+  "title": "Summary Ranges",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "java",
+  "slug": "summary-ranges",
+  "acceptanceDate": "2026-08-26T14:22:53.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
+  "submissionId": 2120893698,
+  "lastUpdated": "2026-08-26T19:22:22.517Z"
+}

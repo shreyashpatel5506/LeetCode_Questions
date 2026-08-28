@@ -1,0 +1,14 @@
+{
+  "id": "0006",
+  "title": "Zigzag Conversion",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "language": "java",
+  "slug": "zigzag-conversion",
+  "acceptanceDate": "2026-08-28T14:27:55.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+  "submissionId": 2122958518,
+  "lastUpdated": "2026-08-29T01:03:05.947Z"
+}

@@ -1,5 +1,13 @@
 [
   {
+    "id": "0006",
+    "title": "Zigzag Conversion",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-08-28T14:27:55.000Z",
+    "slug": "zigzag-conversion"
+  },
+  {
     "id": "0228",
     "title": "Summary Ranges",
     "difficulty": "Easy",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-08-11T17:42:17.000Z",
     "slug": "smallest-missing-integer-greater-than-sequential-prefix-sum"
-  },
-  {
-    "id": "0053",
-    "title": "Maximum Subarray",
-    "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-08-11T17:31:08.000Z",
-    "slug": "maximum-subarray"
   }
 ]

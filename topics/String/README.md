@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (74)
+## Solved Problems (75)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -80,3 +80,4 @@ This page contains all problems categorized under the **String** topic.
 | **Valid Palindrome** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | [Local Solution](../../problems/0125-valid-palindrome/) |
 | **Valid Parentheses** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | [Local Solution](../../problems/0020-valid-parentheses/) |
 | **Weighted Word Mapping** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/weighted-word-mapping/) | [Local Solution](../../problems/3838-weighted-word-mapping/) |
+| **Zigzag Conversion** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | [Local Solution](../../problems/0006-zigzag-conversion/) |

@@ -1,0 +1,14 @@
+{
+  "id": "3870",
+  "title": "Count Commas in Range",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "java",
+  "slug": "count-commas-in-range",
+  "acceptanceDate": "2026-09-08T13:10:08.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+  "submissionId": 2135124231,
+  "lastUpdated": "2026-10-04T04:59:53.471Z"
+}

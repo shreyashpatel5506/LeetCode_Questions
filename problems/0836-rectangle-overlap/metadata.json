@@ -1,0 +1,15 @@
+{
+  "id": "0836",
+  "title": "Rectangle Overlap",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Geometry"
+  ],
+  "language": "java",
+  "slug": "rectangle-overlap",
+  "acceptanceDate": "2026-09-14T13:18:35.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
+  "submissionId": 2141585691,
+  "lastUpdated": "2026-10-04T04:59:55.142Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0434",
+  "title": "Number of Segments in a String",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "java",
+  "slug": "number-of-segments-in-a-string",
+  "acceptanceDate": "2026-09-20T09:16:52.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-segments-in-a-string/",
+  "submissionId": 2147524541,
+  "lastUpdated": "2026-10-04T04:59:58.535Z"
+}

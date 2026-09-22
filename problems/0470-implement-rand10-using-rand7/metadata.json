@@ -1,0 +1,17 @@
+{
+  "id": "0470",
+  "title": "Implement Rand10() Using Rand7()",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Rejection Sampling",
+    "Randomized",
+    "Probability and Statistics"
+  ],
+  "language": "java",
+  "slug": "implement-rand10-using-rand7",
+  "acceptanceDate": "2026-09-22T15:28:09.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/implement-rand10-using-rand7/",
+  "submissionId": 2149888207,
+  "lastUpdated": "2026-10-04T05:00:01.972Z"
+}

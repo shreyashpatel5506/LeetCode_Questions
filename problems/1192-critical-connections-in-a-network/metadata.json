@@ -1,0 +1,17 @@
+{
+  "id": "1192",
+  "title": "Critical Connections in a Network",
+  "difficulty": "Hard",
+  "topics": [
+    "Depth-First Search",
+    "Graph Theory",
+    "Biconnected Component",
+    "Bridge (Graph)"
+  ],
+  "language": "java",
+  "slug": "critical-connections-in-a-network",
+  "acceptanceDate": "2026-09-22T14:50:59.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network/",
+  "submissionId": 2149846246,
+  "lastUpdated": "2026-10-04T05:00:00.290Z"
+}

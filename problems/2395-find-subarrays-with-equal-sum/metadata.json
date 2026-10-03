@@ -1,0 +1,15 @@
+{
+  "id": "2395",
+  "title": "Find Subarrays With Equal Sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "java",
+  "slug": "find-subarrays-with-equal-sum",
+  "acceptanceDate": "2026-10-03T08:28:05.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-subarrays-with-equal-sum/",
+  "submissionId": 2160883881,
+  "lastUpdated": "2026-10-04T05:00:08.591Z"
+}

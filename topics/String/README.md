@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (79)
+## Solved Problems (80)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -83,5 +83,6 @@ This page contains all problems categorized under the **String** topic.
 | **Valid Anagram** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-anagram/) | [Local Solution](../../problems/0242-valid-anagram/) |
 | **Valid Palindrome** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | [Local Solution](../../problems/0125-valid-palindrome/) |
 | **Valid Parentheses** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | [Local Solution](../../problems/0020-valid-parentheses/) |
+| **Valid Parenthesis String** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | [Local Solution](../../problems/0678-valid-parenthesis-string/) |
 | **Weighted Word Mapping** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/weighted-word-mapping/) | [Local Solution](../../problems/3838-weighted-word-mapping/) |
 | **Zigzag Conversion** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | [Local Solution](../../problems/0006-zigzag-conversion/) |

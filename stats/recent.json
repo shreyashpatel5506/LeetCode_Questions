@@ -1,5 +1,13 @@
 [
   {
+    "id": "0678",
+    "title": "Valid Parenthesis String",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-10-04T05:04:16.000Z",
+    "slug": "valid-parenthesis-string"
+  },
+  {
     "id": "0014",
     "title": "Longest Common Prefix",
     "difficulty": "Easy",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-09-14T13:18:35.000Z",
     "slug": "rectangle-overlap"
-  },
-  {
-    "id": "3870",
-    "title": "Count Commas in Range",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-09-08T13:10:08.000Z",
-    "slug": "count-commas-in-range"
   }
 ]

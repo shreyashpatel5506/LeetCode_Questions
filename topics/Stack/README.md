@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Stack** topic.
 
-## Solved Problems (7)
+## Solved Problems (8)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -13,3 +13,4 @@ This page contains all problems categorized under the **Stack** topic.
 | **Reverse Prefix of Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/reverse-prefix-of-word/) | [Local Solution](../../problems/2000-reverse-prefix-of-word/) |
 | **Reverse Substrings Between Each Pair of Parentheses** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Local Solution](../../problems/1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | **Valid Parentheses** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | [Local Solution](../../problems/0020-valid-parentheses/) |
+| **Valid Parenthesis String** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | [Local Solution](../../problems/0678-valid-parenthesis-string/) |

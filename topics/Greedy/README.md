@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Greedy** topic.
 
-## Solved Problems (23)
+## Solved Problems (24)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -29,3 +29,4 @@ This page contains all problems categorized under the **Greedy** topic.
 | **Split Array Largest Sum** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | [Local Solution](../../problems/0410-split-array-largest-sum/) |
 | **Split With Minimum Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/split-with-minimum-sum/) | [Local Solution](../../problems/2578-split-with-minimum-sum/) |
 | **Two Furthest Houses With Different Colors** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Local Solution](../../problems/2078-two-furthest-houses-with-different-colors/) |
+| **Valid Parenthesis String** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | [Local Solution](../../problems/0678-valid-parenthesis-string/) |

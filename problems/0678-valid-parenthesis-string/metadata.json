@@ -1,0 +1,18 @@
+{
+  "id": "0678",
+  "title": "Valid Parenthesis String",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
+  "language": "java",
+  "slug": "valid-parenthesis-string",
+  "acceptanceDate": "2026-10-04T05:04:16.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+  "submissionId": 2161741843,
+  "lastUpdated": "2026-10-04T08:36:19.016Z"
+}

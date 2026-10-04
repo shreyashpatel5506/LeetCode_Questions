@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (172)
+## Solved Problems (177)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,6 +23,8 @@ This page contains all problems categorized under the **Array** topic.
 | **Compute Decimal Representation** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/compute-decimal-representation/) | [Local Solution](../../problems/3697-compute-decimal-representation/) |
 | **Concatenate Array With Reverse** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Local Solution](../../problems/3925-concatenate-array-with-reverse/) |
 | **Concatenation of Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/concatenation-of-array/) | [Local Solution](../../problems/1929-concatenation-of-array/) |
+| **Construct Uniform Parity Array I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Local Solution](../../problems/3875-construct-uniform-parity-array-i/) |
+| **Construct Uniform Parity Array II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Local Solution](../../problems/3876-construct-uniform-parity-array-ii/) |
 | **Container With Most Water** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [Local Solution](../../problems/0011-container-with-most-water/) |
 | **Contains Duplicate** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [Local Solution](../../problems/0217-contains-duplicate/) |
 | **Count Indices With Opposite Parity** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [Local Solution](../../problems/3917-count-indices-with-opposite-parity/) |
@@ -55,6 +57,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Find Peak Element** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-peak-element/) | [Local Solution](../../problems/0162-find-peak-element/) |
 | **Find Pivot Index** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | [Local Solution](../../problems/0724-find-pivot-index/) |
 | **Find Smallest Letter Greater Than Target** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Local Solution](../../problems/0744-find-smallest-letter-greater-than-target/) |
+| **Find Subarrays With Equal Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [Local Solution](../../problems/2395-find-subarrays-with-equal-sum/) |
 | **Find Target Indices After Sorting Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Local Solution](../../problems/2089-find-target-indices-after-sorting-array/) |
 | **Find the Duplicate Number** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | [Local Solution](../../problems/0287-find-the-duplicate-number/) |
 | **Find the Highest Altitude** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/) | [Local Solution](../../problems/1732-find-the-highest-altitude/) |
@@ -73,6 +76,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Largest Triangle Area** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/largest-triangle-area/) | [Local Solution](../../problems/0812-largest-triangle-area/) |
 | **Left and Right Sum Differences** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/left-and-right-sum-differences/) | [Local Solution](../../problems/2574-left-and-right-sum-differences/) |
 | **Lemonade Change** | `Easy` | `python` | [LeetCode](https://leetcode.com/problems/lemonade-change/) | [Local Solution](../../problems/0860-lemonade-change/) |
+| **Longest Common Prefix** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | [Local Solution](../../problems/0014-longest-common-prefix/) |
 | **Longest Common Suffix Queries** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/longest-common-suffix-queries/) | [Local Solution](../../problems/3093-longest-common-suffix-queries/) |
 | **Majority Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/majority-element/) | [Local Solution](../../problems/0169-majority-element/) |
 | **Majority Element II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | [Local Solution](../../problems/0229-majority-element-ii/) |
@@ -155,6 +159,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Single Number II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/single-number-ii/) | [Local Solution](../../problems/0137-single-number-ii/) |
 | **Slowest Key** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/slowest-key/) | [Local Solution](../../problems/1629-slowest-key/) |
 | **Smallest Absent Positive Greater Than Average** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Local Solution](../../problems/3678-smallest-absent-positive-greater-than-average/) |
+| **Smallest Index With Digit Sum Equal to Index** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Local Solution](../../problems/3550-smallest-index-with-digit-sum-equal-to-index/) |
 | **Smallest Missing Integer Greater Than Sequential Prefix Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Local Solution](../../problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | **Smallest Range I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-range-i/) | [Local Solution](../../problems/0908-smallest-range-i/) |
 | **Smallest Stable Index I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | [Local Solution](../../problems/3903-smallest-stable-index-i/) |

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (75)
+## Solved Problems (79)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -43,6 +43,7 @@ This page contains all problems categorized under the **String** topic.
 | **Jump Game VII** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-vii/) | [Local Solution](../../problems/1871-jump-game-vii/) |
 | **Largest Substring Between Two Equal Characters** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Local Solution](../../problems/1624-largest-substring-between-two-equal-characters/) |
 | **Length of Last Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | [Local Solution](../../problems/0058-length-of-last-word/) |
+| **Longest Common Prefix** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | [Local Solution](../../problems/0014-longest-common-prefix/) |
 | **Longest Common Suffix Queries** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/longest-common-suffix-queries/) | [Local Solution](../../problems/3093-longest-common-suffix-queries/) |
 | **Longest Valid Parentheses** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | [Local Solution](../../problems/0032-longest-valid-parentheses/) |
 | **Maximum Number of Balloons** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | [Local Solution](../../problems/1189-maximum-number-of-balloons/) |
@@ -52,13 +53,16 @@ This page contains all problems categorized under the **String** topic.
 | **Minimum Distance to Type a Word Using Two Fingers** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Local Solution](../../problems/1320-minimum-distance-to-type-a-word-using-two-fingers/) |
 | **Minimum Number of Pushes to Type Word I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Local Solution](../../problems/3014-minimum-number-of-pushes-to-type-word-i/) |
 | **Minimum Number of Pushes to Type Word II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Local Solution](../../problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
+| **Number of Segments in a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Local Solution](../../problems/0434-number-of-segments-in-a-string/) |
 | **Number of Senior Citizens** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/number-of-senior-citizens/) | [Local Solution](../../problems/2678-number-of-senior-citizens/) |
 | **Number of Strings That Appear as Substrings in Word** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Local Solution](../../problems/1967-number-of-strings-that-appear-as-substrings-in-word/) |
 | **Process String with Special Operations I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Local Solution](../../problems/3612-process-string-with-special-operations-i/) |
 | **Process String with Special Operations II** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Local Solution](../../problems/3614-process-string-with-special-operations-ii/) |
 | **Rearrange Characters to Make Target String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [Local Solution](../../problems/2287-rearrange-characters-to-make-target-string/) |
+| **Reverse Degree of a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Local Solution](../../problems/3498-reverse-degree-of-a-string/) |
 | **Reverse Prefix of Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/reverse-prefix-of-word/) | [Local Solution](../../problems/2000-reverse-prefix-of-word/) |
 | **Reverse String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-string/) | [Local Solution](../../problems/0344-reverse-string/) |
+| **Reverse Substrings Between Each Pair of Parentheses** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Local Solution](../../problems/1190-reverse-substrings-between-each-pair-of-parentheses/) |
 | **Reverse Vowels of a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Local Solution](../../problems/0345-reverse-vowels-of-a-string/) |
 | **Robot Return to Origin** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | [Local Solution](../../problems/0657-robot-return-to-origin/) |
 | **Roman to Integer** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | [Local Solution](../../problems/0013-roman-to-integer/) |

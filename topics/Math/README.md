@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (99)
+## Solved Problems (105)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,8 +24,11 @@ This page contains all problems categorized under the **Math** topic.
 | **Closest Prime Numbers in Range** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [Local Solution](../../problems/2523-closest-prime-numbers-in-range/) |
 | **Compute Decimal Representation** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/compute-decimal-representation/) | [Local Solution](../../problems/3697-compute-decimal-representation/) |
 | **Concatenate Non-Zero Digits and Multiply by Sum I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Local Solution](../../problems/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) |
+| **Construct Uniform Parity Array I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Local Solution](../../problems/3875-construct-uniform-parity-array-i/) |
+| **Construct Uniform Parity Array II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Local Solution](../../problems/3876-construct-uniform-parity-array-ii/) |
 | **Convert a Number to Hexadecimal** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Local Solution](../../problems/0405-convert-a-number-to-hexadecimal/) |
 | **Convert the Temperature** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/convert-the-temperature/) | [Local Solution](../../problems/2469-convert-the-temperature/) |
+| **Count Commas in Range** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | [Local Solution](../../problems/3870-count-commas-in-range/) |
 | **Count Partitions with Even Sum Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Local Solution](../../problems/3432-count-partitions-with-even-sum-difference/) |
 | **Count Primes** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-primes/) | [Local Solution](../../problems/0204-count-primes/) |
 | **Count the Digits That Divide a Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Local Solution](../../problems/2520-count-the-digits-that-divide-a-number/) |
@@ -49,6 +52,7 @@ This page contains all problems categorized under the **Math** topic.
 | **GCD of Odd and Even Sums** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Local Solution](../../problems/3658-gcd-of-odd-and-even-sums/) |
 | **Gray Code** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/gray-code/) | [Local Solution](../../problems/0089-gray-code/) |
 | **Happy Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/happy-number/) | [Local Solution](../../problems/0202-happy-number/) |
+| **Implement Rand10() Using Rand7()** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Local Solution](../../problems/0470-implement-rand10-using-rand7/) |
 | **Largest Triangle Area** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/largest-triangle-area/) | [Local Solution](../../problems/0812-largest-triangle-area/) |
 | **Max Points on a Line** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/max-points-on-a-line/) | [Local Solution](../../problems/0149-max-points-on-a-line/) |
 | **Maximum 69 Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-69-number/) | [Local Solution](../../problems/1323-maximum-69-number/) |
@@ -79,6 +83,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Prime Palindrome** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/prime-palindrome/) | [Local Solution](../../problems/0866-prime-palindrome/) |
 | **Projection Area of 3D Shapes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Local Solution](../../problems/0883-projection-area-of-3d-shapes/) |
 | **Rectangle Area** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rectangle-area/) | [Local Solution](../../problems/0223-rectangle-area/) |
+| **Rectangle Overlap** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | [Local Solution](../../problems/0836-rectangle-overlap/) |
 | **Reverse Integer** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/reverse-integer/) | [Local Solution](../../problems/0007-reverse-integer/) |
 | **Roman to Integer** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | [Local Solution](../../problems/0013-roman-to-integer/) |
 | **Rotate Function** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rotate-function/) | [Local Solution](../../problems/0396-rotate-function/) |
@@ -86,6 +91,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Rotated Digits** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rotated-digits/) | [Local Solution](../../problems/0788-rotated-digits/) |
 | **Self Dividing Numbers** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/self-dividing-numbers/) | [Local Solution](../../problems/0728-self-dividing-numbers/) |
 | **Smallest Even Multiple** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-even-multiple/) | [Local Solution](../../problems/2413-smallest-even-multiple/) |
+| **Smallest Index With Digit Sum Equal to Index** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Local Solution](../../problems/3550-smallest-index-with-digit-sum-equal-to-index/) |
 | **Smallest Integer Divisible by K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Local Solution](../../problems/1015-smallest-integer-divisible-by-k/) |
 | **Smallest Number With All Set Bits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [Local Solution](../../problems/3370-smallest-number-with-all-set-bits/) |
 | **Smallest Range I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/smallest-range-i/) | [Local Solution](../../problems/0908-smallest-range-i/) |

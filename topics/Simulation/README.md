@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Simulation** topic.
 
-## Solved Problems (36)
+## Solved Problems (37)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -29,6 +29,7 @@ This page contains all problems categorized under the **Simulation** topic.
 | **Partition Array According to Given Pivot** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Local Solution](../../problems/2161-partition-array-according-to-given-pivot/) |
 | **Process String with Special Operations I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Local Solution](../../problems/3612-process-string-with-special-operations-i/) |
 | **Process String with Special Operations II** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Local Solution](../../problems/3614-process-string-with-special-operations-ii/) |
+| **Reverse Degree of a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Local Solution](../../problems/3498-reverse-degree-of-a-string/) |
 | **Robot Return to Origin** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | [Local Solution](../../problems/0657-robot-return-to-origin/) |
 | **Score Validator** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/score-validator/) | [Local Solution](../../problems/3921-score-validator/) |
 | **Separate the Digits in an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Local Solution](../../problems/2553-separate-the-digits-in-an-array/) |

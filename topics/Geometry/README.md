@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Geometry** topic.
 
-## Solved Problems (6)
+## Solved Problems (7)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -11,4 +11,5 @@ This page contains all problems categorized under the **Geometry** topic.
 | **Max Points on a Line** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/max-points-on-a-line/) | [Local Solution](../../problems/0149-max-points-on-a-line/) |
 | **Projection Area of 3D Shapes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Local Solution](../../problems/0883-projection-area-of-3d-shapes/) |
 | **Rectangle Area** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rectangle-area/) | [Local Solution](../../problems/0223-rectangle-area/) |
+| **Rectangle Overlap** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | [Local Solution](../../problems/0836-rectangle-overlap/) |
 | **Valid Boomerang** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/valid-boomerang/) | [Local Solution](../../problems/1037-valid-boomerang/) |

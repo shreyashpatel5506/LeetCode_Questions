@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Hash Table** topic.
 
-## Solved Problems (64)
+## Solved Problems (65)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,6 +23,7 @@ This page contains all problems categorized under the **Hash Table** topic.
 | **Find All Numbers Disappeared in an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Local Solution](../../problems/0448-find-all-numbers-disappeared-in-an-array/) |
 | **Find Missing and Repeated Values** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Local Solution](../../problems/2965-find-missing-and-repeated-values/) |
 | **Find Missing Elements** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | [Local Solution](../../problems/3731-find-missing-elements/) |
+| **Find Subarrays With Equal Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [Local Solution](../../problems/2395-find-subarrays-with-equal-sum/) |
 | **Find the Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-difference/) | [Local Solution](../../problems/0389-find-the-difference/) |
 | **Find the Length of the Longest Common Prefix** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Local Solution](../../problems/3043-find-the-length-of-the-longest-common-prefix/) |
 | **Find the Prefix Common Array of Two Arrays** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Local Solution](../../problems/2657-find-the-prefix-common-array-of-two-arrays/) |

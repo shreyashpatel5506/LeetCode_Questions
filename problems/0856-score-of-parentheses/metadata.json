@@ -1,0 +1,16 @@
+{
+  "id": "0856",
+  "title": "Score of Parentheses",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "language": "java",
+  "slug": "score-of-parentheses",
+  "acceptanceDate": "2026-10-05T12:28:53.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+  "submissionId": 2163103406,
+  "lastUpdated": "2026-10-05T23:14:05.155Z"
+}

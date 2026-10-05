@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (80)
+## Solved Problems (81)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -67,6 +67,7 @@ This page contains all problems categorized under the **String** topic.
 | **Robot Return to Origin** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | [Local Solution](../../problems/0657-robot-return-to-origin/) |
 | **Roman to Integer** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | [Local Solution](../../problems/0013-roman-to-integer/) |
 | **Rotate String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rotate-string/) | [Local Solution](../../problems/0796-rotate-string/) |
+| **Score of Parentheses** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | [Local Solution](../../problems/0856-score-of-parentheses/) |
 | **Score Validator** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/score-validator/) | [Local Solution](../../problems/3921-score-validator/) |
 | **Sender With Largest Word Count** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sender-with-largest-word-count/) | [Local Solution](../../problems/2284-sender-with-largest-word-count/) |
 | **Sentence Similarity III** | `Medium` | `python3` | [LeetCode](https://leetcode.com/problems/sentence-similarity-iii/) | [Local Solution](../../problems/1813-sentence-similarity-iii/) |

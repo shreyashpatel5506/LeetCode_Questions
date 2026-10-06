@@ -1,0 +1,17 @@
+{
+  "id": "0921",
+  "title": "Minimum Add to Make Parentheses Valid",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
+  "language": "java",
+  "slug": "minimum-add-to-make-parentheses-valid",
+  "acceptanceDate": "2026-10-06T04:11:13.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+  "submissionId": 2163774632,
+  "lastUpdated": "2026-10-06T09:09:02.316Z"
+}

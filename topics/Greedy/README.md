@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Greedy** topic.
 
-## Solved Problems (24)
+## Solved Problems (25)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -19,6 +19,7 @@ This page contains all problems categorized under the **Greedy** topic.
 | **Maximum Distance in Arrays** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Local Solution](../../problems/0624-maximum-distance-in-arrays/) |
 | **Maximum Ice Cream Bars** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Local Solution](../../problems/1833-maximum-ice-cream-bars/) |
 | **Maximum Total Subarray Value I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Local Solution](../../problems/3689-maximum-total-subarray-value-i/) |
+| **Minimum Add to Make Parentheses Valid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Local Solution](../../problems/0921-minimum-add-to-make-parentheses-valid/) |
 | **Minimum Cost of Buying Candies With Discount** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Local Solution](../../problems/2144-minimum-cost-of-buying-candies-with-discount/) |
 | **Minimum Cost to Move Between Indices** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | [Local Solution](../../problems/3919-minimum-cost-to-move-between-indices/) |
 | **Minimum Initial Energy to Finish Tasks** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Local Solution](../../problems/1665-minimum-initial-energy-to-finish-tasks/) |

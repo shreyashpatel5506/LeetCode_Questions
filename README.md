@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 5, 2026, 11:14 PM (UTC)` |
+| **Latest Synchronization** | `Oct 6, 2026, 9:09 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,15 +25,15 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **278** | 64.1% | `██████` |
-| 🟡 **Medium** | **133** | 30.6% | `███` |
+| 🟢 **Easy** | **278** | 63.9% | `██████` |
+| 🟡 **Medium** | **134** | 30.8% | `███` |
 | 🔴 **Hard** | **23** | 5.3% | `█` |
-| **Total Solved** | **434** | **100%** | |
+| **Total Solved** | **435** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 288 | 66.4% |
+| `java` | 289 | 66.4% |
 | `mysql` | 70 | 16.1% |
 | `javascript` | 50 | 11.5% |
 | `python3` | 19 | 4.4% |
@@ -50,17 +50,17 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`177`) | 📁 [**Math**](topics/Math/) (`105`) | 📁 [**String**](topics/String/) (`81`) |
+| 📁 [**Array**](topics/Array/) (`177`) | 📁 [**Math**](topics/Math/) (`105`) | 📁 [**String**](topics/String/) (`82`) |
 | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`65`) | 📁 [**Sorting**](topics/Sorting/) (`45`) |
 | 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`29`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) |
 | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`28`) | 📁 [**Counting**](topics/Counting/) (`27`) |
-| 📁 [**Greedy**](topics/Greedy/) (`24`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
-| 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Recursion**](topics/Recursion/) (`11`) | 📁 [**Stack**](topics/Stack/) (`9`) |
+| 📁 [**Greedy**](topics/Greedy/) (`25`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
+| 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Recursion**](topics/Recursion/) (`11`) | 📁 [**Stack**](topics/Stack/) (`10`) |
 | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`8`) | 📁 [**Geometry**](topics/Geometry/) (`7`) | 📁 [**Enumeration**](topics/Enumeration/) (`7`) |
 | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`7`) | 📁 [**Linked List**](topics/Linked%20List/) (`5`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`5`) |
 | 📁 [**Trie**](topics/Trie/) (`4`) | 📁 [**Memoization**](topics/Memoization/) (`4`) | 📁 [**Depth-First Search**](topics/Depth-First%20Search/) (`4`) |
-| 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**Sliding Window**](topics/Sliding%20Window/) (`4`) | 📁 [**String Matching**](topics/String%20Matching/) (`3`) |
-| 📁 [**Tree**](topics/Tree/) (`3`) | 📁 [**Binary Tree**](topics/Binary%20Tree/) (`3`) | 📁 [**Bracket Sequences**](topics/Bracket%20Sequences/) (`3`) |
+| 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**Sliding Window**](topics/Sliding%20Window/) (`4`) | 📁 [**Bracket Sequences**](topics/Bracket%20Sequences/) (`4`) |
+| 📁 [**String Matching**](topics/String%20Matching/) (`3`) | 📁 [**Tree**](topics/Tree/) (`3`) | 📁 [**Binary Tree**](topics/Binary%20Tree/) (`3`) |
 | 📁 [**Counting Sort**](topics/Counting%20Sort/) (`3`) | 📁 [**Combinatorics**](topics/Combinatorics/) (`3`) | 📁 [**Interactive**](topics/Interactive/) (`2`) |
 | 📁 [**Probability and Statistics**](topics/Probability%20and%20Statistics/) (`2`) | 📁 [**Game Theory**](topics/Game%20Theory/) (`2`) | 📁 [**Graph Theory**](topics/Graph%20Theory/) (`2`) |
 | 📁 [**Backtracking**](topics/Backtracking/) (`1`) | 📁 [**BFS**](topics/BFS/) (`1`) | 📁 [**Design**](topics/Design/) (`1`) |
@@ -77,6 +77,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0921 | [Minimum Add to Make Parentheses Valid](#) | `Medium` | `java` | 2026-10-06 | [Local Code](problems/0921-minimum-add-to-make-parentheses-valid/) |
 | 0856 | [Score of Parentheses](#) | `Medium` | `java` | 2026-10-05 | [Local Code](problems/0856-score-of-parentheses/) |
 | 0678 | [Valid Parenthesis String](#) | `Medium` | `java` | 2026-10-04 | [Local Code](problems/0678-valid-parenthesis-string/) |
 | 0014 | [Longest Common Prefix](#) | `Easy` | `java` | 2026-10-03 | [Local Code](problems/0014-longest-common-prefix/) |
@@ -86,7 +87,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 0470 | [Implement Rand10() Using Rand7()](#) | `Medium` | `java` | 2026-09-22 | [Local Code](problems/0470-implement-rand10-using-rand7/) |
 | 1192 | [Critical Connections in a Network](#) | `Hard` | `java` | 2026-09-22 | [Local Code](problems/1192-critical-connections-in-a-network/) |
 | 0434 | [Number of Segments in a String](#) | `Easy` | `java` | 2026-09-20 | [Local Code](problems/0434-number-of-segments-in-a-string/) |
-| 3498 | [Reverse Degree of a String](#) | `Easy` | `java` | 2026-09-20 | [Local Code](problems/3498-reverse-degree-of-a-string/) |
 
 ---
 

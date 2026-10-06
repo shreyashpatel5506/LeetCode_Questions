@@ -2,13 +2,14 @@
 
 This page contains all problems categorized under the **Stack** topic.
 
-## Solved Problems (9)
+## Solved Problems (10)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Build an Array With Stack Operations** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [Local Solution](../../problems/1441-build-an-array-with-stack-operations/) |
 | **Clear Digits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/clear-digits/) | [Local Solution](../../problems/3174-clear-digits/) |
 | **Longest Valid Parentheses** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | [Local Solution](../../problems/0032-longest-valid-parentheses/) |
+| **Minimum Add to Make Parentheses Valid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Local Solution](../../problems/0921-minimum-add-to-make-parentheses-valid/) |
 | **Palindrome Linked List** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | [Local Solution](../../problems/0234-palindrome-linked-list/) |
 | **Reverse Prefix of Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/reverse-prefix-of-word/) | [Local Solution](../../problems/2000-reverse-prefix-of-word/) |
 | **Reverse Substrings Between Each Pair of Parentheses** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Local Solution](../../problems/1190-reverse-substrings-between-each-pair-of-parentheses/) |

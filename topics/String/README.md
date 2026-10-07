@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (82)
+## Solved Problems (83)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -60,6 +60,7 @@ This page contains all problems categorized under the **String** topic.
 | **Process String with Special Operations I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Local Solution](../../problems/3612-process-string-with-special-operations-i/) |
 | **Process String with Special Operations II** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Local Solution](../../problems/3614-process-string-with-special-operations-ii/) |
 | **Rearrange Characters to Make Target String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [Local Solution](../../problems/2287-rearrange-characters-to-make-target-string/) |
+| **Remove Invalid Parentheses** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | [Local Solution](../../problems/0301-remove-invalid-parentheses/) |
 | **Reverse Degree of a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Local Solution](../../problems/3498-reverse-degree-of-a-string/) |
 | **Reverse Prefix of Word** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/reverse-prefix-of-word/) | [Local Solution](../../problems/2000-reverse-prefix-of-word/) |
 | **Reverse String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/reverse-string/) | [Local Solution](../../problems/0344-reverse-string/) |

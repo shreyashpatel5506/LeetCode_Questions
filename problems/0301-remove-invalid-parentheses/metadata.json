@@ -1,0 +1,16 @@
+{
+  "id": "0301",
+  "title": "Remove Invalid Parentheses",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Backtracking",
+    "Breadth-First Search"
+  ],
+  "language": "java",
+  "slug": "remove-invalid-parentheses",
+  "acceptanceDate": "2026-10-07T11:03:42.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+  "submissionId": 2165205600,
+  "lastUpdated": "2026-10-07T22:06:36.646Z"
+}

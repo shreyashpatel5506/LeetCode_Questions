@@ -1,0 +1,16 @@
+{
+  "id": "1021",
+  "title": "Remove Outermost Parentheses",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "language": "java",
+  "slug": "remove-outermost-parentheses",
+  "acceptanceDate": "2026-10-08T09:01:28.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+  "submissionId": 2166151344,
+  "lastUpdated": "2026-10-08T09:12:02.261Z"
+}

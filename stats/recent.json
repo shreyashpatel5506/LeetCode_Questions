@@ -1,5 +1,13 @@
 [
   {
+    "id": "1021",
+    "title": "Remove Outermost Parentheses",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-10-08T09:01:28.000Z",
+    "slug": "remove-outermost-parentheses"
+  },
+  {
     "id": "0301",
     "title": "Remove Invalid Parentheses",
     "difficulty": "Hard",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-09-22T15:28:09.000Z",
     "slug": "implement-rand10-using-rand7"
-  },
-  {
-    "id": "1192",
-    "title": "Critical Connections in a Network",
-    "difficulty": "Hard",
-    "language": "java",
-    "acceptanceDate": "2026-09-22T14:50:59.000Z",
-    "slug": "critical-connections-in-a-network"
   }
 ]

@@ -1,0 +1,16 @@
+{
+  "id": "3727",
+  "title": "Maximum Alternating Sum of Squares",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "maximum-alternating-sum-of-squares",
+  "acceptanceDate": "2026-10-13T08:22:39.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+  "submissionId": 2170982438,
+  "lastUpdated": "2026-10-14T11:37:37.262Z"
+}

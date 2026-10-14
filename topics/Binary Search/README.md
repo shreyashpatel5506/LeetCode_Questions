@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Binary Search** topic.
 
-## Solved Problems (28)
+## Solved Problems (29)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,6 +25,7 @@ This page contains all problems categorized under the **Binary Search** topic.
 | **Maximum Distance Between a Pair of Values** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Local Solution](../../problems/1855-maximum-distance-between-a-pair-of-values/) |
 | **Median of Two Sorted Arrays** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Local Solution](../../problems/0004-median-of-two-sorted-arrays/) |
 | **Minimum Common Value** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-common-value/) | [Local Solution](../../problems/2540-minimum-common-value/) |
+| **Minimum Sum of Squared Difference** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Local Solution](../../problems/2333-minimum-sum-of-squared-difference/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **Peak Index in a Mountain Array** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Local Solution](../../problems/0852-peak-index-in-a-mountain-array/) |
 | **Search a 2D Matrix** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | [Local Solution](../../problems/0074-search-a-2d-matrix/) |

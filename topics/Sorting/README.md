@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Sorting** topic.
 
-## Solved Problems (45)
+## Solved Problems (47)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,6 +23,7 @@ This page contains all problems categorized under the **Sorting** topic.
 | **Majority Element II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | [Local Solution](../../problems/0229-majority-element-ii/) |
 | **Make Array Zero by Subtracting Equal Amounts** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Local Solution](../../problems/2357-make-array-zero-by-subtracting-equal-amounts/) |
 | **Maximize Fixed Points After Deletions** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Local Solution](../../problems/3920-maximize-fixed-points-after-deletions/) |
+| **Maximum Alternating Sum of Squares** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Local Solution](../../problems/3727-maximum-alternating-sum-of-squares/) |
 | **Maximum Ice Cream Bars** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Local Solution](../../problems/1833-maximum-ice-cream-bars/) |
 | **Maximum Product of Three Numbers** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Local Solution](../../problems/0628-maximum-product-of-three-numbers/) |
 | **Maximum Product of Two Digits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Local Solution](../../problems/3536-maximum-product-of-two-digits/) |
@@ -33,6 +34,7 @@ This page contains all problems categorized under the **Sorting** topic.
 | **Minimum Initial Energy to Finish Tasks** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Local Solution](../../problems/1665-minimum-initial-energy-to-finish-tasks/) |
 | **Minimum Money Required Before Transactions** | `Hard` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-money-required-before-transactions/) | [Local Solution](../../problems/2412-minimum-money-required-before-transactions/) |
 | **Minimum Number of Pushes to Type Word II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Local Solution](../../problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
+| **Minimum Sum of Squared Difference** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Local Solution](../../problems/2333-minimum-sum-of-squared-difference/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **Rank Transform of an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | [Local Solution](../../problems/1331-rank-transform-of-an-array/) |
 | **Remove Covered Intervals** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) | [Local Solution](../../problems/1288-remove-covered-intervals/) |

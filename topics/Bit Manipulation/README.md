@@ -2,11 +2,12 @@
 
 This page contains all problems categorized under the **Bit Manipulation** topic.
 
-## Solved Problems (29)
+## Solved Problems (30)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Add Binary** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/add-binary/) | [Local Solution](../../problems/0067-add-binary/) |
+| **Apply Operations on Array to Maximize Sum of Squares** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Local Solution](../../problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/) |
 | **Binary Number with Alternating Bits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Local Solution](../../problems/0693-binary-number-with-alternating-bits/) |
 | **Bitwise AND of Numbers Range** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Local Solution](../../problems/0201-bitwise-and-of-numbers-range/) |
 | **Bitwise OR of Even Numbers in an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [Local Solution](../../problems/3688-bitwise-or-of-even-numbers-in-an-array/) |

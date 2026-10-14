@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (84)
+## Solved Problems (85)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -52,6 +52,7 @@ This page contains all problems categorized under the **String** topic.
 | **Merge Strings Alternately** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | [Local Solution](../../problems/1768-merge-strings-alternately/) |
 | **Minimum Add to Make Parentheses Valid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Local Solution](../../problems/0921-minimum-add-to-make-parentheses-valid/) |
 | **Minimum Distance to Type a Word Using Two Fingers** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Local Solution](../../problems/1320-minimum-distance-to-type-a-word-using-two-fingers/) |
+| **Minimum Insertions to Balance a Parentheses String** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Local Solution](../../problems/1541-minimum-insertions-to-balance-a-parentheses-string/) |
 | **Minimum Number of Pushes to Type Word I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Local Solution](../../problems/3014-minimum-number-of-pushes-to-type-word-i/) |
 | **Minimum Number of Pushes to Type Word II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Local Solution](../../problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
 | **Number of Segments in a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Local Solution](../../problems/0434-number-of-segments-in-a-string/) |

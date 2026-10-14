@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 14, 2026, 7:49 AM (UTC)` |
+| **Latest Synchronization** | `Oct 14, 2026, 11:37 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,21 +25,21 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **279** | 63.8% | `██████` |
-| 🟡 **Medium** | **134** | 30.7% | `███` |
-| 🔴 **Hard** | **24** | 5.5% | `█` |
-| **Total Solved** | **437** | **100%** | |
+| 🟢 **Easy** | **281** | 63.0% | `██████` |
+| 🟡 **Medium** | **140** | 31.4% | `███` |
+| 🔴 **Hard** | **25** | 5.6% | `█` |
+| **Total Solved** | **446** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 291 | 66.6% |
-| `mysql` | 70 | 16.0% |
-| `javascript` | 50 | 11.4% |
+| `java` | 300 | 67.3% |
+| `mysql` | 70 | 15.7% |
+| `javascript` | 50 | 11.2% |
 | `python3` | 19 | 4.3% |
-| `php` | 2 | 0.5% |
-| `c` | 2 | 0.5% |
-| `pythondata` | 2 | 0.5% |
+| `php` | 2 | 0.4% |
+| `c` | 2 | 0.4% |
+| `pythondata` | 2 | 0.4% |
 | `python` | 1 | 0.2% |
 
 ---
@@ -50,15 +50,15 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`177`) | 📁 [**Math**](topics/Math/) (`105`) | 📁 [**String**](topics/String/) (`84`) |
-| 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`65`) | 📁 [**Sorting**](topics/Sorting/) (`45`) |
-| 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`29`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`28`) |
-| 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`28`) | 📁 [**Counting**](topics/Counting/) (`27`) |
-| 📁 [**Greedy**](topics/Greedy/) (`25`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
-| 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Recursion**](topics/Recursion/) (`11`) | 📁 [**Stack**](topics/Stack/) (`11`) |
-| 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`8`) | 📁 [**Geometry**](topics/Geometry/) (`7`) | 📁 [**Enumeration**](topics/Enumeration/) (`7`) |
-| 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`7`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`6`) | 📁 [**Linked List**](topics/Linked%20List/) (`5`) |
-| 📁 [**Bracket Sequences**](topics/Bracket%20Sequences/) (`5`) | 📁 [**Trie**](topics/Trie/) (`4`) | 📁 [**Memoization**](topics/Memoization/) (`4`) |
+| 📁 [**Array**](topics/Array/) (`181`) | 📁 [**Math**](topics/Math/) (`106`) | 📁 [**String**](topics/String/) (`85`) |
+| 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`66`) | 📁 [**Sorting**](topics/Sorting/) (`47`) |
+| 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`30`) |
+| 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`28`) |
+| 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
+| 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Stack**](topics/Stack/) (`12`) | 📁 [**Recursion**](topics/Recursion/) (`11`) |
+| 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`8`) | 📁 [**Enumeration**](topics/Enumeration/) (`8`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`8`) |
+| 📁 [**Geometry**](topics/Geometry/) (`7`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`6`) | 📁 [**Bracket Sequences**](topics/Bracket%20Sequences/) (`6`) |
+| 📁 [**Linked List**](topics/Linked%20List/) (`5`) | 📁 [**Trie**](topics/Trie/) (`4`) | 📁 [**Memoization**](topics/Memoization/) (`4`) |
 | 📁 [**Depth-First Search**](topics/Depth-First%20Search/) (`4`) | 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**Sliding Window**](topics/Sliding%20Window/) (`4`) |
 | 📁 [**String Matching**](topics/String%20Matching/) (`3`) | 📁 [**Tree**](topics/Tree/) (`3`) | 📁 [**Binary Tree**](topics/Binary%20Tree/) (`3`) |
 | 📁 [**Counting Sort**](topics/Counting%20Sort/) (`3`) | 📁 [**Combinatorics**](topics/Combinatorics/) (`3`) | 📁 [**Backtracking**](topics/Backtracking/) (`2`) |
@@ -77,16 +77,16 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3723 | [Maximize Sum of Squares of Digits](#) | `Medium` | `java` | 2026-10-14 | [Local Code](problems/3723-maximize-sum-of-squares-of-digits/) |
+| 3727 | [Maximum Alternating Sum of Squares](#) | `Medium` | `java` | 2026-10-13 | [Local Code](problems/3727-maximum-alternating-sum-of-squares/) |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](#) | `Hard` | `java` | 2026-10-12 | [Local Code](problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/) |
+| 2778 | [Sum of Squares of Special Elements ](#) | `Easy` | `java` | 2026-10-11 | [Local Code](problems/2778-sum-of-squares-of-special-elements/) |
+| 4076 | [Longest Resilient Subarray II](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/4076-longest-resilient-subarray-ii/) |
+| 4075 | [Longest Resilient Subarray I](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/4075-longest-resilient-subarray-i/) |
+| 4074 | [Maximum Product Pair With Target Sum](#) | `Easy` | `java` | 2026-10-10 | [Local Code](problems/4074-maximum-product-pair-with-target-sum/) |
+| 2333 | [Minimum Sum of Squared Difference](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/2333-minimum-sum-of-squared-difference/) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](#) | `Medium` | `java` | 2026-10-09 | [Local Code](problems/1541-minimum-insertions-to-balance-a-parentheses-string/) |
 | 1021 | [Remove Outermost Parentheses](#) | `Easy` | `java` | 2026-10-08 | [Local Code](problems/1021-remove-outermost-parentheses/) |
-| 0301 | [Remove Invalid Parentheses](#) | `Hard` | `java` | 2026-10-07 | [Local Code](problems/0301-remove-invalid-parentheses/) |
-| 0921 | [Minimum Add to Make Parentheses Valid](#) | `Medium` | `java` | 2026-10-06 | [Local Code](problems/0921-minimum-add-to-make-parentheses-valid/) |
-| 0856 | [Score of Parentheses](#) | `Medium` | `java` | 2026-10-05 | [Local Code](problems/0856-score-of-parentheses/) |
-| 0678 | [Valid Parenthesis String](#) | `Medium` | `java` | 2026-10-04 | [Local Code](problems/0678-valid-parenthesis-string/) |
-| 0014 | [Longest Common Prefix](#) | `Easy` | `java` | 2026-10-03 | [Local Code](problems/0014-longest-common-prefix/) |
-| 2395 | [Find Subarrays With Equal Sum](#) | `Easy` | `java` | 2026-10-03 | [Local Code](problems/2395-find-subarrays-with-equal-sum/) |
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](#) | `Medium` | `java` | 2026-09-27 | [Local Code](problems/1190-reverse-substrings-between-each-pair-of-parentheses/) |
-| 3550 | [Smallest Index With Digit Sum Equal to Index](#) | `Easy` | `java` | 2026-09-24 | [Local Code](problems/3550-smallest-index-with-digit-sum-equal-to-index/) |
-| 0470 | [Implement Rand10() Using Rand7()](#) | `Medium` | `java` | 2026-09-22 | [Local Code](problems/0470-implement-rand10-using-rand7/) |
 
 ---
 

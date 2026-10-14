@@ -2,10 +2,11 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (177)
+## Solved Problems (181)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Apply Operations on Array to Maximize Sum of Squares** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Local Solution](../../problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/) |
 | **Average Value of Even Numbers That Are Divisible by Three** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [Local Solution](../../problems/2455-average-value-of-even-numbers-that-are-divisible-by-three/) |
 | **Best Time to Buy and Sell Stock** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Local Solution](../../problems/0121-best-time-to-buy-and-sell-stock/) |
 | **Binary Search** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/binary-search/) | [Local Solution](../../problems/0704-binary-search/) |
@@ -84,6 +85,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Max Consecutive Ones** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | [Local Solution](../../problems/0485-max-consecutive-ones/) |
 | **Max Points on a Line** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/max-points-on-a-line/) | [Local Solution](../../problems/0149-max-points-on-a-line/) |
 | **Maximize Fixed Points After Deletions** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Local Solution](../../problems/3920-maximize-fixed-points-after-deletions/) |
+| **Maximum Alternating Sum of Squares** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Local Solution](../../problems/3727-maximum-alternating-sum-of-squares/) |
 | **Maximum Average Subarray I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | [Local Solution](../../problems/0643-maximum-average-subarray-i/) |
 | **Maximum Difference Between Increasing Elements** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Local Solution](../../problems/2016-maximum-difference-between-increasing-elements/) |
 | **Maximum Distance Between a Pair of Values** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Local Solution](../../problems/1855-maximum-distance-between-a-pair-of-values/) |
@@ -115,6 +117,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Minimum Moves to Make Array Complementary** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Local Solution](../../problems/1674-minimum-moves-to-make-array-complementary/) |
 | **Minimum Operations to Exceed Threshold Value I** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Local Solution](../../problems/3065-minimum-operations-to-exceed-threshold-value-i/) |
 | **Minimum Operations to Exceed Threshold Value II** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Local Solution](../../problems/3066-minimum-operations-to-exceed-threshold-value-ii/) |
+| **Minimum Sum of Squared Difference** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Local Solution](../../problems/2333-minimum-sum-of-squared-difference/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **Most Frequent Even Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/most-frequent-even-element/) | [Local Solution](../../problems/2404-most-frequent-even-element/) |
 | **Move Zeroes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/move-zeroes/) | [Local Solution](../../problems/0283-move-zeroes/) |
@@ -172,6 +175,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Squares of a Sorted Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Local Solution](../../problems/0977-squares-of-a-sorted-array/) |
 | **Subarray Sum Equals K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | [Local Solution](../../problems/0560-subarray-sum-equals-k/) |
 | **Sum of GCD of Formed Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Local Solution](../../problems/3867-sum-of-gcd-of-formed-pairs/) |
+| **Sum of Squares of Special Elements ** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Local Solution](../../problems/2778-sum-of-squares-of-special-elements/) |
 | **Summary Ranges** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/summary-ranges/) | [Local Solution](../../problems/0228-summary-ranges/) |
 | **Toggle Light Bulbs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/toggle-light-bulbs/) | [Local Solution](../../problems/3842-toggle-light-bulbs/) |
 | **Top K Frequent Elements** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | [Local Solution](../../problems/0347-top-k-frequent-elements/) |

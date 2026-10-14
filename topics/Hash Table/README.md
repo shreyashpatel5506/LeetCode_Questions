@@ -2,10 +2,11 @@
 
 This page contains all problems categorized under the **Hash Table** topic.
 
-## Solved Problems (65)
+## Solved Problems (66)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Apply Operations on Array to Maximize Sum of Squares** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Local Solution](../../problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/) |
 | **Check if Array is Good** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-array-is-good/) | [Local Solution](../../problems/2784-check-if-array-is-good/) |
 | **Check If Array Pairs Are Divisible by k** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Local Solution](../../problems/1497-check-if-array-pairs-are-divisible-by-k/) |
 | **Check if Number Has Equal Digit Count and Digit Value** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [Local Solution](../../problems/2283-check-if-number-has-equal-digit-count-and-digit-value/) |

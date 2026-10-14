@@ -1,0 +1,15 @@
+{
+  "id": "3723",
+  "title": "Maximize Sum of Squares of Digits",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "language": "java",
+  "slug": "maximize-sum-of-squares-of-digits",
+  "acceptanceDate": "2026-10-14T08:30:13.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+  "submissionId": 2171951637,
+  "lastUpdated": "2026-10-14T11:37:38.892Z"
+}

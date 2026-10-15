@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (181)
+## Solved Problems (182)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -174,6 +174,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Split Array Largest Sum** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | [Local Solution](../../problems/0410-split-array-largest-sum/) |
 | **Squares of a Sorted Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Local Solution](../../problems/0977-squares-of-a-sorted-array/) |
 | **Subarray Sum Equals K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | [Local Solution](../../problems/0560-subarray-sum-equals-k/) |
+| **Subarrays Distinct Element Sum of Squares I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Local Solution](../../problems/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | **Sum of GCD of Formed Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Local Solution](../../problems/3867-sum-of-gcd-of-formed-pairs/) |
 | **Sum of Squares of Special Elements ** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Local Solution](../../problems/2778-sum-of-squares-of-special-elements/) |
 | **Summary Ranges** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/summary-ranges/) | [Local Solution](../../problems/0228-summary-ranges/) |

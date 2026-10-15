@@ -1,5 +1,13 @@
 [
   {
+    "id": "2913",
+    "title": "Subarrays Distinct Element Sum of Squares I",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-10-15T04:18:41.000Z",
+    "slug": "subarrays-distinct-element-sum-of-squares-i"
+  },
+  {
     "id": "3723",
     "title": "Maximize Sum of Squares of Digits",
     "difficulty": "Medium",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-09T10:41:56.000Z",
     "slug": "minimum-insertions-to-balance-a-parentheses-string"
-  },
-  {
-    "id": "1021",
-    "title": "Remove Outermost Parentheses",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-10-08T09:01:28.000Z",
-    "slug": "remove-outermost-parentheses"
   }
 ]

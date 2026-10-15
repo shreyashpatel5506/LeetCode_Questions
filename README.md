@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 14, 2026, 8:48 PM (UTC)` |
+| **Latest Synchronization** | `Oct 15, 2026, 7:35 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,15 +25,15 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **281** | 63.0% | `██████` |
-| 🟡 **Medium** | **140** | 31.4% | `███` |
+| 🟢 **Easy** | **282** | 63.1% | `██████` |
+| 🟡 **Medium** | **140** | 31.3% | `███` |
 | 🔴 **Hard** | **25** | 5.6% | `█` |
-| **Total Solved** | **446** | **100%** | |
+| **Total Solved** | **447** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 300 | 67.3% |
+| `java` | 301 | 67.3% |
 | `mysql` | 70 | 15.7% |
 | `javascript` | 50 | 11.2% |
 | `python3` | 19 | 4.3% |
@@ -50,8 +50,8 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`181`) | 📁 [**Math**](topics/Math/) (`106`) | 📁 [**String**](topics/String/) (`85`) |
-| 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`66`) | 📁 [**Sorting**](topics/Sorting/) (`47`) |
+| 📁 [**Array**](topics/Array/) (`182`) | 📁 [**Math**](topics/Math/) (`106`) | 📁 [**String**](topics/String/) (`85`) |
+| 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`67`) | 📁 [**Sorting**](topics/Sorting/) (`47`) |
 | 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`30`) |
 | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`28`) |
 | 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
@@ -63,11 +63,11 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 | 📁 [**String Matching**](topics/String%20Matching/) (`3`) | 📁 [**Tree**](topics/Tree/) (`3`) | 📁 [**Binary Tree**](topics/Binary%20Tree/) (`3`) |
 | 📁 [**Counting Sort**](topics/Counting%20Sort/) (`3`) | 📁 [**Combinatorics**](topics/Combinatorics/) (`3`) | 📁 [**Backtracking**](topics/Backtracking/) (`2`) |
 | 📁 [**Interactive**](topics/Interactive/) (`2`) | 📁 [**Probability and Statistics**](topics/Probability%20and%20Statistics/) (`2`) | 📁 [**Game Theory**](topics/Game%20Theory/) (`2`) |
-| 📁 [**Graph Theory**](topics/Graph%20Theory/) (`2`) | 📁 [**BFS**](topics/BFS/) (`1`) | 📁 [**Design**](topics/Design/) (`1`) |
-| 📁 [**Quickselect**](topics/Quickselect/) (`1`) | 📁 [**Queue**](topics/Queue/) (`1`) | 📁 [**Rejection Sampling**](topics/Rejection%20Sampling/) (`1`) |
-| 📁 [**Randomized**](topics/Randomized/) (`1`) | 📁 [**Union-Find**](topics/Union-Find/) (`1`) | 📁 [**Merge Sort**](topics/Merge%20Sort/) (`1`) |
-| 📁 [**Radix Sort**](topics/Radix%20Sort/) (`1`) | 📁 [**Biconnected Component**](topics/Biconnected%20Component/) (`1`) | 📁 [**Bridge (Graph)**](topics/Bridge%20(Graph)/) (`1`) |
-| 📁 [**Binary Indexed Tree**](topics/Binary%20Indexed%20Tree/) (`1`) | 📁 [**Segment Tree**](topics/Segment%20Tree/) (`1`) | 📁 [**Ordered Set**](topics/Ordered%20Set/) (`1`) |
+| 📁 [**Graph Theory**](topics/Graph%20Theory/) (`2`) | 📁 [**Binary Indexed Tree**](topics/Binary%20Indexed%20Tree/) (`2`) | 📁 [**Segment Tree**](topics/Segment%20Tree/) (`2`) |
+| 📁 [**BFS**](topics/BFS/) (`1`) | 📁 [**Design**](topics/Design/) (`1`) | 📁 [**Quickselect**](topics/Quickselect/) (`1`) |
+| 📁 [**Queue**](topics/Queue/) (`1`) | 📁 [**Rejection Sampling**](topics/Rejection%20Sampling/) (`1`) | 📁 [**Randomized**](topics/Randomized/) (`1`) |
+| 📁 [**Union-Find**](topics/Union-Find/) (`1`) | 📁 [**Merge Sort**](topics/Merge%20Sort/) (`1`) | 📁 [**Radix Sort**](topics/Radix%20Sort/) (`1`) |
+| 📁 [**Biconnected Component**](topics/Biconnected%20Component/) (`1`) | 📁 [**Bridge (Graph)**](topics/Bridge%20(Graph)/) (`1`) | 📁 [**Ordered Set**](topics/Ordered%20Set/) (`1`) |
 
 ---
 
@@ -77,6 +77,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](#) | `Easy` | `java` | 2026-10-15 | [Local Code](problems/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 3723 | [Maximize Sum of Squares of Digits](#) | `Medium` | `java` | 2026-10-14 | [Local Code](problems/3723-maximize-sum-of-squares-of-digits/) |
 | 3727 | [Maximum Alternating Sum of Squares](#) | `Medium` | `java` | 2026-10-13 | [Local Code](problems/3727-maximum-alternating-sum-of-squares/) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](#) | `Hard` | `java` | 2026-10-12 | [Local Code](problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/) |
@@ -86,7 +87,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 4074 | [Maximum Product Pair With Target Sum](#) | `Easy` | `java` | 2026-10-10 | [Local Code](problems/4074-maximum-product-pair-with-target-sum/) |
 | 2333 | [Minimum Sum of Squared Difference](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/2333-minimum-sum-of-squared-difference/) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](#) | `Medium` | `java` | 2026-10-09 | [Local Code](problems/1541-minimum-insertions-to-balance-a-parentheses-string/) |
-| 1021 | [Remove Outermost Parentheses](#) | `Easy` | `java` | 2026-10-08 | [Local Code](problems/1021-remove-outermost-parentheses/) |
 
 ---
 

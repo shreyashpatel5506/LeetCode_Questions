@@ -1,0 +1,17 @@
+{
+  "id": "2913",
+  "title": "Subarrays Distinct Element Sum of Squares I",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ],
+  "language": "java",
+  "slug": "subarrays-distinct-element-sum-of-squares-i",
+  "acceptanceDate": "2026-10-15T04:18:41.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+  "submissionId": 2172674923,
+  "lastUpdated": "2026-10-15T07:35:57.016Z"
+}

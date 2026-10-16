@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 15, 2026, 8:25 PM (UTC)` |
+| **Latest Synchronization** | `Oct 16, 2026, 7:22 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,18 +25,18 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **282** | 63.1% | `██████` |
+| 🟢 **Easy** | **282** | 62.9% | `██████` |
 | 🟡 **Medium** | **140** | 31.3% | `███` |
-| 🔴 **Hard** | **25** | 5.6% | `█` |
-| **Total Solved** | **447** | **100%** | |
+| 🔴 **Hard** | **26** | 5.8% | `█` |
+| **Total Solved** | **448** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 301 | 67.3% |
-| `mysql` | 70 | 15.7% |
+| `java` | 302 | 67.4% |
+| `mysql` | 70 | 15.6% |
 | `javascript` | 50 | 11.2% |
-| `python3` | 19 | 4.3% |
+| `python3` | 19 | 4.2% |
 | `php` | 2 | 0.4% |
 | `c` | 2 | 0.4% |
 | `pythondata` | 2 | 0.4% |
@@ -50,8 +50,8 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`182`) | 📁 [**Math**](topics/Math/) (`106`) | 📁 [**String**](topics/String/) (`85`) |
-| 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Hash Table**](topics/Hash%20Table/) (`67`) | 📁 [**Sorting**](topics/Sorting/) (`47`) |
+| 📁 [**Array**](topics/Array/) (`183`) | 📁 [**Math**](topics/Math/) (`106`) | 📁 [**String**](topics/String/) (`85`) |
+| 📁 [**Hash Table**](topics/Hash%20Table/) (`68`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`47`) |
 | 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`30`) |
 | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`28`) |
 | 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
@@ -61,9 +61,9 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 | 📁 [**Linked List**](topics/Linked%20List/) (`5`) | 📁 [**Trie**](topics/Trie/) (`4`) | 📁 [**Memoization**](topics/Memoization/) (`4`) |
 | 📁 [**Depth-First Search**](topics/Depth-First%20Search/) (`4`) | 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**Sliding Window**](topics/Sliding%20Window/) (`4`) |
 | 📁 [**String Matching**](topics/String%20Matching/) (`3`) | 📁 [**Tree**](topics/Tree/) (`3`) | 📁 [**Binary Tree**](topics/Binary%20Tree/) (`3`) |
-| 📁 [**Counting Sort**](topics/Counting%20Sort/) (`3`) | 📁 [**Combinatorics**](topics/Combinatorics/) (`3`) | 📁 [**Backtracking**](topics/Backtracking/) (`2`) |
-| 📁 [**Interactive**](topics/Interactive/) (`2`) | 📁 [**Probability and Statistics**](topics/Probability%20and%20Statistics/) (`2`) | 📁 [**Game Theory**](topics/Game%20Theory/) (`2`) |
-| 📁 [**Graph Theory**](topics/Graph%20Theory/) (`2`) | 📁 [**Binary Indexed Tree**](topics/Binary%20Indexed%20Tree/) (`2`) | 📁 [**Segment Tree**](topics/Segment%20Tree/) (`2`) |
+| 📁 [**Counting Sort**](topics/Counting%20Sort/) (`3`) | 📁 [**Combinatorics**](topics/Combinatorics/) (`3`) | 📁 [**Binary Indexed Tree**](topics/Binary%20Indexed%20Tree/) (`3`) |
+| 📁 [**Segment Tree**](topics/Segment%20Tree/) (`3`) | 📁 [**Backtracking**](topics/Backtracking/) (`2`) | 📁 [**Interactive**](topics/Interactive/) (`2`) |
+| 📁 [**Probability and Statistics**](topics/Probability%20and%20Statistics/) (`2`) | 📁 [**Game Theory**](topics/Game%20Theory/) (`2`) | 📁 [**Graph Theory**](topics/Graph%20Theory/) (`2`) |
 | 📁 [**BFS**](topics/BFS/) (`1`) | 📁 [**Design**](topics/Design/) (`1`) | 📁 [**Quickselect**](topics/Quickselect/) (`1`) |
 | 📁 [**Queue**](topics/Queue/) (`1`) | 📁 [**Rejection Sampling**](topics/Rejection%20Sampling/) (`1`) | 📁 [**Randomized**](topics/Randomized/) (`1`) |
 | 📁 [**Union-Find**](topics/Union-Find/) (`1`) | 📁 [**Merge Sort**](topics/Merge%20Sort/) (`1`) | 📁 [**Radix Sort**](topics/Radix%20Sort/) (`1`) |
@@ -77,6 +77,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](#) | `Hard` | `java` | 2026-10-16 | [Local Code](problems/2916-subarrays-distinct-element-sum-of-squares-ii/) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](#) | `Easy` | `java` | 2026-10-15 | [Local Code](problems/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 3723 | [Maximize Sum of Squares of Digits](#) | `Medium` | `java` | 2026-10-14 | [Local Code](problems/3723-maximize-sum-of-squares-of-digits/) |
 | 3727 | [Maximum Alternating Sum of Squares](#) | `Medium` | `java` | 2026-10-13 | [Local Code](problems/3727-maximum-alternating-sum-of-squares/) |
@@ -86,7 +87,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 4075 | [Longest Resilient Subarray I](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/4075-longest-resilient-subarray-i/) |
 | 4074 | [Maximum Product Pair With Target Sum](#) | `Easy` | `java` | 2026-10-10 | [Local Code](problems/4074-maximum-product-pair-with-target-sum/) |
 | 2333 | [Minimum Sum of Squared Difference](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/2333-minimum-sum-of-squared-difference/) |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](#) | `Medium` | `java` | 2026-10-09 | [Local Code](problems/1541-minimum-insertions-to-balance-a-parentheses-string/) |
 
 ---
 

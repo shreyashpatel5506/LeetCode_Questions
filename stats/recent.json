@@ -1,5 +1,13 @@
 [
   {
+    "id": "2916",
+    "title": "Subarrays Distinct Element Sum of Squares II",
+    "difficulty": "Hard",
+    "language": "java",
+    "acceptanceDate": "2026-10-16T04:13:26.000Z",
+    "slug": "subarrays-distinct-element-sum-of-squares-ii"
+  },
+  {
     "id": "2913",
     "title": "Subarrays Distinct Element Sum of Squares I",
     "difficulty": "Easy",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-10T09:02:03.000Z",
     "slug": "minimum-sum-of-squared-difference"
-  },
-  {
-    "id": "1541",
-    "title": "Minimum Insertions to Balance a Parentheses String",
-    "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-10-09T10:41:56.000Z",
-    "slug": "minimum-insertions-to-balance-a-parentheses-string"
   }
 ]

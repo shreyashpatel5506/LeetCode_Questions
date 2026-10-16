@@ -1,6 +1,6 @@
 {
-  "Array": 182,
-  "Hash Table": 67,
+  "Array": 183,
+  "Hash Table": 68,
   "Linked List": 5,
   "Math": 106,
   "Recursion": 11,
@@ -50,7 +50,7 @@
   "Biconnected Component": 1,
   "Bridge (Graph)": 1,
   "Combinatorics": 3,
-  "Binary Indexed Tree": 2,
-  "Segment Tree": 2,
+  "Binary Indexed Tree": 3,
+  "Segment Tree": 3,
   "Ordered Set": 1
 }

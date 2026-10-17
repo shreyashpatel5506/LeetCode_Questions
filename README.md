@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 16, 2026, 7:59 PM (UTC)` |
+| **Latest Synchronization** | `Oct 17, 2026, 7:04 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,17 +25,17 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **282** | 62.9% | `██████` |
-| 🟡 **Medium** | **140** | 31.3% | `███` |
+| 🟢 **Easy** | **282** | 62.8% | `██████` |
+| 🟡 **Medium** | **141** | 31.4% | `███` |
 | 🔴 **Hard** | **26** | 5.8% | `█` |
-| **Total Solved** | **448** | **100%** | |
+| **Total Solved** | **449** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 302 | 67.4% |
+| `java` | 303 | 67.5% |
 | `mysql` | 70 | 15.6% |
-| `javascript` | 50 | 11.2% |
+| `javascript` | 50 | 11.1% |
 | `python3` | 19 | 4.2% |
 | `php` | 2 | 0.4% |
 | `c` | 2 | 0.4% |
@@ -50,8 +50,8 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`183`) | 📁 [**Math**](topics/Math/) (`106`) | 📁 [**String**](topics/String/) (`85`) |
-| 📁 [**Hash Table**](topics/Hash%20Table/) (`68`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`47`) |
+| 📁 [**Array**](topics/Array/) (`184`) | 📁 [**Math**](topics/Math/) (`106`) | 📁 [**String**](topics/String/) (`85`) |
+| 📁 [**Hash Table**](topics/Hash%20Table/) (`69`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`48`) |
 | 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`30`) |
 | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`28`) |
 | 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
@@ -77,6 +77,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](#) | `Medium` | `java` | 2026-10-17 | [Local Code](problems/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](#) | `Hard` | `java` | 2026-10-16 | [Local Code](problems/2916-subarrays-distinct-element-sum-of-squares-ii/) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](#) | `Easy` | `java` | 2026-10-15 | [Local Code](problems/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 3723 | [Maximize Sum of Squares of Digits](#) | `Medium` | `java` | 2026-10-14 | [Local Code](problems/3723-maximize-sum-of-squares-of-digits/) |
@@ -86,7 +87,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 4076 | [Longest Resilient Subarray II](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/4076-longest-resilient-subarray-ii/) |
 | 4075 | [Longest Resilient Subarray I](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/4075-longest-resilient-subarray-i/) |
 | 4074 | [Maximum Product Pair With Target Sum](#) | `Easy` | `java` | 2026-10-10 | [Local Code](problems/4074-maximum-product-pair-with-target-sum/) |
-| 2333 | [Minimum Sum of Squared Difference](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/2333-minimum-sum-of-squared-difference/) |
 
 ---
 

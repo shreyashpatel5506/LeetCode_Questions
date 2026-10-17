@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Sorting** topic.
 
-## Solved Problems (47)
+## Solved Problems (48)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -35,6 +35,7 @@ This page contains all problems categorized under the **Sorting** topic.
 | **Minimum Money Required Before Transactions** | `Hard` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-money-required-before-transactions/) | [Local Solution](../../problems/2412-minimum-money-required-before-transactions/) |
 | **Minimum Number of Pushes to Type Word II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Local Solution](../../problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
 | **Minimum Sum of Squared Difference** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Local Solution](../../problems/2333-minimum-sum-of-squared-difference/) |
+| **Minimum Swaps to Sort by Digit Sum** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Local Solution](../../problems/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **Rank Transform of an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) | [Local Solution](../../problems/1331-rank-transform-of-an-array/) |
 | **Remove Covered Intervals** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/remove-covered-intervals/) | [Local Solution](../../problems/1288-remove-covered-intervals/) |

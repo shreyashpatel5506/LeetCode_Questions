@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (183)
+## Solved Problems (184)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -118,6 +118,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Minimum Operations to Exceed Threshold Value I** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Local Solution](../../problems/3065-minimum-operations-to-exceed-threshold-value-i/) |
 | **Minimum Operations to Exceed Threshold Value II** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Local Solution](../../problems/3066-minimum-operations-to-exceed-threshold-value-ii/) |
 | **Minimum Sum of Squared Difference** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Local Solution](../../problems/2333-minimum-sum-of-squared-difference/) |
+| **Minimum Swaps to Sort by Digit Sum** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Local Solution](../../problems/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **Most Frequent Even Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/most-frequent-even-element/) | [Local Solution](../../problems/2404-most-frequent-even-element/) |
 | **Move Zeroes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/move-zeroes/) | [Local Solution](../../problems/0283-move-zeroes/) |

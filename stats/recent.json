@@ -1,5 +1,13 @@
 [
   {
+    "id": "3551",
+    "title": "Minimum Swaps to Sort by Digit Sum",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-10-17T04:23:42.000Z",
+    "slug": "minimum-swaps-to-sort-by-digit-sum"
+  },
+  {
     "id": "2916",
     "title": "Subarrays Distinct Element Sum of Squares II",
     "difficulty": "Hard",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-10T14:41:59.000Z",
     "slug": "maximum-product-pair-with-target-sum"
-  },
-  {
-    "id": "2333",
-    "title": "Minimum Sum of Squared Difference",
-    "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-10-10T09:02:03.000Z",
-    "slug": "minimum-sum-of-squared-difference"
   }
 ]

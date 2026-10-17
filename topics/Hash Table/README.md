@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Hash Table** topic.
 
-## Solved Problems (68)
+## Solved Problems (69)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -51,6 +51,7 @@ This page contains all problems categorized under the **Hash Table** topic.
 | **Minimum Jumps to Reach End via Prime Teleportation** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Local Solution](../../problems/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) |
 | **Minimum Moves to Make Array Complementary** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Local Solution](../../problems/1674-minimum-moves-to-make-array-complementary/) |
 | **Minimum Number of Pushes to Type Word II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Local Solution](../../problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
+| **Minimum Swaps to Sort by Digit Sum** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Local Solution](../../problems/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **Most Frequent Even Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/most-frequent-even-element/) | [Local Solution](../../problems/2404-most-frequent-even-element/) |
 | **Number of Good Pairs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | [Local Solution](../../problems/1512-number-of-good-pairs/) |

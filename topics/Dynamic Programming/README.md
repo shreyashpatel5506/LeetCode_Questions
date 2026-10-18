@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Dynamic Programming** topic.
 
-## Solved Problems (28)
+## Solved Problems (29)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,6 +23,7 @@ This page contains all problems categorized under the **Dynamic Programming** to
 | **N-th Tribonacci Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/) | [Local Solution](../../problems/1137-n-th-tribonacci-number/) |
 | **Number of Digit One** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-digit-one/) | [Local Solution](../../problems/0233-number-of-digit-one/) |
 | **Number of Ways to Rearrange Sticks With K Sticks Visible** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [Local Solution](../../problems/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) |
+| **Number of Ways to Reorder Array to Get Same BST** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Local Solution](../../problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/) |
 | **Pascal's Triangle** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | [Local Solution](../../problems/0118-pascals-triangle/) |
 | **Pascal's Triangle II** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | [Local Solution](../../problems/0119-pascals-triangle-ii/) |
 | **Predict the Winner** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/predict-the-winner/) | [Local Solution](../../problems/0486-predict-the-winner/) |

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (106)
+## Solved Problems (107)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -72,6 +72,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Number of Good Pairs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | [Local Solution](../../problems/1512-number-of-good-pairs/) |
 | **Number of Pairs of Interchangeable Rectangles** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Local Solution](../../problems/2001-number-of-pairs-of-interchangeable-rectangles/) |
 | **Number of Ways to Rearrange Sticks With K Sticks Visible** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [Local Solution](../../problems/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) |
+| **Number of Ways to Reorder Array to Get Same BST** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Local Solution](../../problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/) |
 | **Palindrome Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/palindrome-number/) | [Local Solution](../../problems/0009-palindrome-number/) |
 | **Perfect Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/perfect-number/) | [Local Solution](../../problems/0507-perfect-number/) |
 | **Permutation Sequence** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/permutation-sequence/) | [Local Solution](../../problems/0060-permutation-sequence/) |

@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 19, 2026, 9:36 PM (UTC)` |
+| **Latest Synchronization** | `Oct 20, 2026, 7:47 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,16 +25,16 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **282** | 62.7% | `██████` |
+| 🟢 **Easy** | **282** | 62.5% | `██████` |
 | 🟡 **Medium** | **141** | 31.3% | `███` |
-| 🔴 **Hard** | **27** | 6.0% | `█` |
-| **Total Solved** | **450** | **100%** | |
+| 🔴 **Hard** | **28** | 6.2% | `█` |
+| **Total Solved** | **451** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 304 | 67.6% |
-| `mysql` | 70 | 15.6% |
+| `java` | 305 | 67.6% |
+| `mysql` | 70 | 15.5% |
 | `javascript` | 50 | 11.1% |
 | `python3` | 19 | 4.2% |
 | `php` | 2 | 0.4% |
@@ -50,13 +50,13 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`185`) | 📁 [**Math**](topics/Math/) (`107`) | 📁 [**String**](topics/String/) (`85`) |
-| 📁 [**Hash Table**](topics/Hash%20Table/) (`69`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`48`) |
+| 📁 [**Array**](topics/Array/) (`186`) | 📁 [**Math**](topics/Math/) (`108`) | 📁 [**String**](topics/String/) (`85`) |
+| 📁 [**Hash Table**](topics/Hash%20Table/) (`69`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`49`) |
 | 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`30`) |
 | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) |
 | 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
 | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Stack**](topics/Stack/) (`12`) | 📁 [**Recursion**](topics/Recursion/) (`11`) |
-| 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`9`) | 📁 [**Enumeration**](topics/Enumeration/) (`8`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`8`) |
+| 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`9`) | 📁 [**Enumeration**](topics/Enumeration/) (`9`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`8`) |
 | 📁 [**Geometry**](topics/Geometry/) (`7`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`6`) | 📁 [**Bracket Sequences**](topics/Bracket%20Sequences/) (`6`) |
 | 📁 [**Linked List**](topics/Linked%20List/) (`5`) | 📁 [**Memoization**](topics/Memoization/) (`5`) | 📁 [**Trie**](topics/Trie/) (`4`) |
 | 📁 [**Tree**](topics/Tree/) (`4`) | 📁 [**Depth-First Search**](topics/Depth-First%20Search/) (`4`) | 📁 [**Binary Tree**](topics/Binary%20Tree/) (`4`) |
@@ -78,6 +78,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3886 | [Sum of Sortable Integers](#) | `Hard` | `java` | 2026-10-20 | [Local Code](problems/3886-sum-of-sortable-integers/) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](#) | `Hard` | `java` | 2026-10-18 | [Local Code](problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](#) | `Medium` | `java` | 2026-10-17 | [Local Code](problems/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](#) | `Hard` | `java` | 2026-10-16 | [Local Code](problems/2916-subarrays-distinct-element-sum-of-squares-ii/) |
@@ -87,7 +88,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](#) | `Hard` | `java` | 2026-10-12 | [Local Code](problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/) |
 | 2778 | [Sum of Squares of Special Elements ](#) | `Easy` | `java` | 2026-10-11 | [Local Code](problems/2778-sum-of-squares-of-special-elements/) |
 | 4076 | [Longest Resilient Subarray II](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/4076-longest-resilient-subarray-ii/) |
-| 4075 | [Longest Resilient Subarray I](#) | `Medium` | `java` | 2026-10-10 | [Local Code](problems/4075-longest-resilient-subarray-i/) |
 
 ---
 

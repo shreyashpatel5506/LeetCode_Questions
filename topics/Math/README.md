@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (107)
+## Solved Problems (108)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -105,6 +105,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Sum of GCD of Formed Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Local Solution](../../problems/3867-sum-of-gcd-of-formed-pairs/) |
 | **Sum of Number and Its Reverse** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-number-and-its-reverse/) | [Local Solution](../../problems/2443-sum-of-number-and-its-reverse/) |
 | **Sum of Primes Between Number and Its Reverse** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | [Local Solution](../../problems/3918-sum-of-primes-between-number-and-its-reverse/) |
+| **Sum of Sortable Integers** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | [Local Solution](../../problems/3886-sum-of-sortable-integers/) |
 | **Sum of Two Integers** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-two-integers/) | [Local Solution](../../problems/0371-sum-of-two-integers/) |
 | **Three Divisors** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/three-divisors/) | [Local Solution](../../problems/1952-three-divisors/) |
 | **Total Waviness of Numbers in Range I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Local Solution](../../problems/3751-total-waviness-of-numbers-in-range-i/) |

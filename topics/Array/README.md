@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (185)
+## Solved Problems (186)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -179,6 +179,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Subarrays Distinct Element Sum of Squares I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Local Solution](../../problems/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | **Subarrays Distinct Element Sum of Squares II** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [Local Solution](../../problems/2916-subarrays-distinct-element-sum-of-squares-ii/) |
 | **Sum of GCD of Formed Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Local Solution](../../problems/3867-sum-of-gcd-of-formed-pairs/) |
+| **Sum of Sortable Integers** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | [Local Solution](../../problems/3886-sum-of-sortable-integers/) |
 | **Sum of Squares of Special Elements ** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Local Solution](../../problems/2778-sum-of-squares-of-special-elements/) |
 | **Summary Ranges** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/summary-ranges/) | [Local Solution](../../problems/0228-summary-ranges/) |
 | **Toggle Light Bulbs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/toggle-light-bulbs/) | [Local Solution](../../problems/3842-toggle-light-bulbs/) |

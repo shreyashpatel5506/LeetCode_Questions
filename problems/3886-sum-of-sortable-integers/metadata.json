@@ -1,0 +1,17 @@
+{
+  "id": "3886",
+  "title": "Sum of Sortable Integers",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting",
+    "Enumeration"
+  ],
+  "language": "java",
+  "slug": "sum-of-sortable-integers",
+  "acceptanceDate": "2026-10-20T04:06:14.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
+  "submissionId": 2176725764,
+  "lastUpdated": "2026-10-20T07:47:16.614Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3863",
+  "title": "Minimum Operations to Sort a String",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "language": "java",
+  "slug": "minimum-operations-to-sort-a-string",
+  "acceptanceDate": "2026-10-21T02:49:00.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",
+  "submissionId": 2177537511,
+  "lastUpdated": "2026-10-21T07:51:10.486Z"
+}

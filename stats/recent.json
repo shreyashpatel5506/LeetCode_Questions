@@ -1,5 +1,13 @@
 [
   {
+    "id": "3863",
+    "title": "Minimum Operations to Sort a String",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-10-21T02:49:00.000Z",
+    "slug": "minimum-operations-to-sort-a-string"
+  },
+  {
     "id": "3886",
     "title": "Sum of Sortable Integers",
     "difficulty": "Hard",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-11T06:29:43.000Z",
     "slug": "sum-of-squares-of-special-elements"
-  },
-  {
-    "id": "4076",
-    "title": "Longest Resilient Subarray II",
-    "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-10-10T15:01:34.000Z",
-    "slug": "longest-resilient-subarray-ii"
   }
 ]

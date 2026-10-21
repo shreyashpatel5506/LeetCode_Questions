@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (85)
+## Solved Problems (86)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,6 +55,7 @@ This page contains all problems categorized under the **String** topic.
 | **Minimum Insertions to Balance a Parentheses String** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Local Solution](../../problems/1541-minimum-insertions-to-balance-a-parentheses-string/) |
 | **Minimum Number of Pushes to Type Word I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Local Solution](../../problems/3014-minimum-number-of-pushes-to-type-word-i/) |
 | **Minimum Number of Pushes to Type Word II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Local Solution](../../problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
+| **Minimum Operations to Sort a String** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Local Solution](../../problems/3863-minimum-operations-to-sort-a-string/) |
 | **Number of Segments in a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Local Solution](../../problems/0434-number-of-segments-in-a-string/) |
 | **Number of Senior Citizens** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/number-of-senior-citizens/) | [Local Solution](../../problems/2678-number-of-senior-citizens/) |
 | **Number of Strings That Appear as Substrings in Word** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Local Solution](../../problems/1967-number-of-strings-that-appear-as-substrings-in-word/) |

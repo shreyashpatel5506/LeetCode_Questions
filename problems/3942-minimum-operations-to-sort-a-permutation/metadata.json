@@ -1,0 +1,14 @@
+{
+  "id": "3942",
+  "title": "Minimum Operations to Sort a Permutation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array"
+  ],
+  "language": "java",
+  "slug": "minimum-operations-to-sort-a-permutation",
+  "acceptanceDate": "2026-10-22T11:47:20.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/",
+  "submissionId": 2178770490,
+  "lastUpdated": "2026-10-22T20:39:17.474Z"
+}

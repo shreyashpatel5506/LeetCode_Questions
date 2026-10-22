@@ -1,5 +1,13 @@
 [
   {
+    "id": "3942",
+    "title": "Minimum Operations to Sort a Permutation",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-10-22T11:47:20.000Z",
+    "slug": "minimum-operations-to-sort-a-permutation"
+  },
+  {
     "id": "3863",
     "title": "Minimum Operations to Sort a String",
     "difficulty": "Medium",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-12T08:37:54.000Z",
     "slug": "apply-operations-on-array-to-maximize-sum-of-squares"
-  },
-  {
-    "id": "2778",
-    "title": "Sum of Squares of Special Elements ",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-10-11T06:29:43.000Z",
-    "slug": "sum-of-squares-of-special-elements"
   }
 ]

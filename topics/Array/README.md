@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (186)
+## Solved Problems (187)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -117,6 +117,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Minimum Moves to Make Array Complementary** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Local Solution](../../problems/1674-minimum-moves-to-make-array-complementary/) |
 | **Minimum Operations to Exceed Threshold Value I** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Local Solution](../../problems/3065-minimum-operations-to-exceed-threshold-value-i/) |
 | **Minimum Operations to Exceed Threshold Value II** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Local Solution](../../problems/3066-minimum-operations-to-exceed-threshold-value-ii/) |
+| **Minimum Operations to Sort a Permutation** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Local Solution](../../problems/3942-minimum-operations-to-sort-a-permutation/) |
 | **Minimum Sum of Squared Difference** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Local Solution](../../problems/2333-minimum-sum-of-squared-difference/) |
 | **Minimum Swaps to Sort by Digit Sum** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Local Solution](../../problems/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |

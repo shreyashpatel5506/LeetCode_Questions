@@ -1,0 +1,15 @@
+{
+  "id": "2409",
+  "title": "Count Days Spent Together",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "language": "java",
+  "slug": "count-days-spent-together",
+  "acceptanceDate": "2026-10-24T03:21:38.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+  "submissionId": 2180103241,
+  "lastUpdated": "2026-10-24T12:06:55.742Z"
+}

@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 24, 2026, 7:28 AM (UTC)` |
+| **Latest Synchronization** | `Oct 24, 2026, 12:06 PM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,16 +25,16 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **282** | 62.3% | `██████` |
-| 🟡 **Medium** | **143** | 31.6% | `███` |
+| 🟢 **Easy** | **283** | 62.2% | `██████` |
+| 🟡 **Medium** | **144** | 31.6% | `███` |
 | 🔴 **Hard** | **28** | 6.2% | `█` |
-| **Total Solved** | **453** | **100%** | |
+| **Total Solved** | **455** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 307 | 67.8% |
-| `mysql` | 70 | 15.5% |
+| `java` | 309 | 67.9% |
+| `mysql` | 70 | 15.4% |
 | `javascript` | 50 | 11.0% |
 | `python3` | 19 | 4.2% |
 | `php` | 2 | 0.4% |
@@ -50,9 +50,9 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`187`) | 📁 [**Math**](topics/Math/) (`108`) | 📁 [**String**](topics/String/) (`86`) |
+| 📁 [**Array**](topics/Array/) (`188`) | 📁 [**Math**](topics/Math/) (`109`) | 📁 [**String**](topics/String/) (`87`) |
 | 📁 [**Hash Table**](topics/Hash%20Table/) (`69`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`49`) |
-| 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`30`) |
+| 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`31`) | 📁 [**Greedy**](topics/Greedy/) (`30`) |
 | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) |
 | 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) | 📁 [**Matrix**](topics/Matrix/) (`14`) |
 | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Stack**](topics/Stack/) (`12`) | 📁 [**Recursion**](topics/Recursion/) (`11`) |
@@ -78,6 +78,8 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2409 | [Count Days Spent Together](#) | `Easy` | `java` | 2026-10-24 | [Local Code](problems/2409-count-days-spent-together/) |
+| 3644 | [Maximum K to Sort a Permutation](#) | `Medium` | `java` | 2026-10-23 | [Local Code](problems/3644-maximum-k-to-sort-a-permutation/) |
 | 3942 | [Minimum Operations to Sort a Permutation](#) | `Medium` | `java` | 2026-10-22 | [Local Code](problems/3942-minimum-operations-to-sort-a-permutation/) |
 | 3863 | [Minimum Operations to Sort a String](#) | `Medium` | `java` | 2026-10-21 | [Local Code](problems/3863-minimum-operations-to-sort-a-string/) |
 | 3886 | [Sum of Sortable Integers](#) | `Hard` | `java` | 2026-10-20 | [Local Code](problems/3886-sum-of-sortable-integers/) |
@@ -86,8 +88,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 2916 | [Subarrays Distinct Element Sum of Squares II](#) | `Hard` | `java` | 2026-10-16 | [Local Code](problems/2916-subarrays-distinct-element-sum-of-squares-ii/) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](#) | `Easy` | `java` | 2026-10-15 | [Local Code](problems/2913-subarrays-distinct-element-sum-of-squares-i/) |
 | 3723 | [Maximize Sum of Squares of Digits](#) | `Medium` | `java` | 2026-10-14 | [Local Code](problems/3723-maximize-sum-of-squares-of-digits/) |
-| 3727 | [Maximum Alternating Sum of Squares](#) | `Medium` | `java` | 2026-10-13 | [Local Code](problems/3727-maximum-alternating-sum-of-squares/) |
-| 2897 | [Apply Operations on Array to Maximize Sum of Squares](#) | `Hard` | `java` | 2026-10-12 | [Local Code](problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/) |
 
 ---
 

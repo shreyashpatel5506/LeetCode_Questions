@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (108)
+## Solved Problems (109)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -29,6 +29,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Convert a Number to Hexadecimal** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Local Solution](../../problems/0405-convert-a-number-to-hexadecimal/) |
 | **Convert the Temperature** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/convert-the-temperature/) | [Local Solution](../../problems/2469-convert-the-temperature/) |
 | **Count Commas in Range** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | [Local Solution](../../problems/3870-count-commas-in-range/) |
+| **Count Days Spent Together** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | [Local Solution](../../problems/2409-count-days-spent-together/) |
 | **Count Partitions with Even Sum Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Local Solution](../../problems/3432-count-partitions-with-even-sum-difference/) |
 | **Count Primes** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-primes/) | [Local Solution](../../problems/0204-count-primes/) |
 | **Count the Digits That Divide a Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Local Solution](../../problems/2520-count-the-digits-that-divide-a-number/) |

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (86)
+## Solved Problems (87)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -17,6 +17,7 @@ This page contains all problems categorized under the **String** topic.
 | **Clear Digits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/clear-digits/) | [Local Solution](../../problems/3174-clear-digits/) |
 | **Compare Version Numbers** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/compare-version-numbers/) | [Local Solution](../../problems/0165-compare-version-numbers/) |
 | **Convert a Number to Hexadecimal** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Local Solution](../../problems/0405-convert-a-number-to-hexadecimal/) |
+| **Count Days Spent Together** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | [Local Solution](../../problems/2409-count-days-spent-together/) |
 | **Count Items Matching a Rule** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-items-matching-a-rule/) | [Local Solution](../../problems/1773-count-items-matching-a-rule/) |
 | **Count the Number of Consistent Strings** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Local Solution](../../problems/1684-count-the-number-of-consistent-strings/) |
 | **Count the Number of Special Characters I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Local Solution](../../problems/3120-count-the-number-of-special-characters-i/) |

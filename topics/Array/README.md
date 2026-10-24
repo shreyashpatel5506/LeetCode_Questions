@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (187)
+## Solved Problems (188)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -92,6 +92,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Maximum Distance in Arrays** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Local Solution](../../problems/0624-maximum-distance-in-arrays/) |
 | **Maximum Height of a Triangle** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-height-of-a-triangle/) | [Local Solution](../../problems/3200-maximum-height-of-a-triangle/) |
 | **Maximum Ice Cream Bars** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Local Solution](../../problems/1833-maximum-ice-cream-bars/) |
+| **Maximum K to Sort a Permutation** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Local Solution](../../problems/3644-maximum-k-to-sort-a-permutation/) |
 | **Maximum Number of Jumps to Reach the Last Index** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Local Solution](../../problems/2770-maximum-number-of-jumps-to-reach-the-last-index/) |
 | **Maximum Number of Pairs in Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Local Solution](../../problems/2341-maximum-number-of-pairs-in-array/) |
 | **Maximum Population Year** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-population-year/) | [Local Solution](../../problems/1854-maximum-population-year/) |

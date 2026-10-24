@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Bit Manipulation** topic.
 
-## Solved Problems (30)
+## Solved Problems (31)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,6 +22,7 @@ This page contains all problems categorized under the **Bit Manipulation** topic
 | **First Letter to Appear Twice** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Local Solution](../../problems/2351-first-letter-to-appear-twice/) |
 | **Gray Code** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/gray-code/) | [Local Solution](../../problems/0089-gray-code/) |
 | **Integer Replacement** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/integer-replacement/) | [Local Solution](../../problems/0397-integer-replacement/) |
+| **Maximum K to Sort a Permutation** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Local Solution](../../problems/3644-maximum-k-to-sort-a-permutation/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **Number Complement** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/number-complement/) | [Local Solution](../../problems/0476-number-complement/) |
 | **Number of 1 Bits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | [Local Solution](../../problems/0191-number-of-1-bits/) |

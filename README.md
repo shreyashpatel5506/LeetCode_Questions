@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 24, 2026, 12:06 PM (UTC)` |
+| **Latest Synchronization** | `Oct 24, 2026, 7:35 PM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,15 +25,15 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **283** | 62.2% | `██████` |
+| 🟢 **Easy** | **284** | 62.3% | `██████` |
 | 🟡 **Medium** | **144** | 31.6% | `███` |
-| 🔴 **Hard** | **28** | 6.2% | `█` |
-| **Total Solved** | **455** | **100%** | |
+| 🔴 **Hard** | **28** | 6.1% | `█` |
+| **Total Solved** | **456** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 309 | 67.9% |
+| `java` | 310 | 68.0% |
 | `mysql` | 70 | 15.4% |
 | `javascript` | 50 | 11.0% |
 | `python3` | 19 | 4.2% |
@@ -78,6 +78,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 4088 | [Difference Between Peaks and Valleys](#) | `Easy` | `java` | 2026-10-24 | [Local Code](problems/4088-difference-between-peaks-and-valleys/) |
 | 2409 | [Count Days Spent Together](#) | `Easy` | `java` | 2026-10-24 | [Local Code](problems/2409-count-days-spent-together/) |
 | 3644 | [Maximum K to Sort a Permutation](#) | `Medium` | `java` | 2026-10-23 | [Local Code](problems/3644-maximum-k-to-sort-a-permutation/) |
 | 3942 | [Minimum Operations to Sort a Permutation](#) | `Medium` | `java` | 2026-10-22 | [Local Code](problems/3942-minimum-operations-to-sort-a-permutation/) |
@@ -87,7 +88,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 3551 | [Minimum Swaps to Sort by Digit Sum](#) | `Medium` | `java` | 2026-10-17 | [Local Code](problems/3551-minimum-swaps-to-sort-by-digit-sum/) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](#) | `Hard` | `java` | 2026-10-16 | [Local Code](problems/2916-subarrays-distinct-element-sum-of-squares-ii/) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](#) | `Easy` | `java` | 2026-10-15 | [Local Code](problems/2913-subarrays-distinct-element-sum-of-squares-i/) |
-| 3723 | [Maximize Sum of Squares of Digits](#) | `Medium` | `java` | 2026-10-14 | [Local Code](problems/3723-maximize-sum-of-squares-of-digits/) |
 
 ---
 

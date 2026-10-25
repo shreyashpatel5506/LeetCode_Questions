@@ -1,0 +1,18 @@
+{
+  "id": "1254",
+  "title": "Number of Closed Islands",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "java",
+  "slug": "number-of-closed-islands",
+  "acceptanceDate": "2026-10-25T04:02:13.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+  "submissionId": 2181063874,
+  "lastUpdated": "2026-10-25T07:41:38.557Z"
+}

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (188)
+## Solved Problems (189)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -124,6 +124,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **Most Frequent Even Element** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/most-frequent-even-element/) | [Local Solution](../../problems/2404-most-frequent-even-element/) |
 | **Move Zeroes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/move-zeroes/) | [Local Solution](../../problems/0283-move-zeroes/) |
+| **Number of Closed Islands** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/number-of-closed-islands/) | [Local Solution](../../problems/1254-number-of-closed-islands/) |
 | **Number of Employees Who Met the Target** | `Easy` | `php` | [LeetCode](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Local Solution](../../problems/2798-number-of-employees-who-met-the-target/) |
 | **Number of Good Pairs** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | [Local Solution](../../problems/1512-number-of-good-pairs/) |
 | **Number of Pairs of Interchangeable Rectangles** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Local Solution](../../problems/2001-number-of-pairs-of-interchangeable-rectangles/) |

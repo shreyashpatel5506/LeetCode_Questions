@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Matrix** topic.
 
-## Solved Problems (14)
+## Solved Problems (15)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -11,6 +11,7 @@ This page contains all problems categorized under the **Matrix** topic.
 | **Cyclically Rotating a Grid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Local Solution](../../problems/1914-cyclically-rotating-a-grid/) |
 | **Equal Row and Column Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Local Solution](../../problems/2352-equal-row-and-column-pairs/) |
 | **Find Missing and Repeated Values** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Local Solution](../../problems/2965-find-missing-and-repeated-values/) |
+| **Number of Closed Islands** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/number-of-closed-islands/) | [Local Solution](../../problems/1254-number-of-closed-islands/) |
 | **Projection Area of 3D Shapes** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Local Solution](../../problems/0883-projection-area-of-3d-shapes/) |
 | **Richest Customer Wealth** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/richest-customer-wealth/) | [Local Solution](../../problems/1672-richest-customer-wealth/) |
 | **Rotate Image** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/rotate-image/) | [Local Solution](../../problems/0048-rotate-image/) |

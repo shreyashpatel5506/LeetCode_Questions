@@ -1,5 +1,13 @@
 [
   {
+    "id": "1254",
+    "title": "Number of Closed Islands",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-10-25T04:02:13.000Z",
+    "slug": "number-of-closed-islands"
+  },
+  {
     "id": "4088",
     "title": "Difference Between Peaks and Valleys",
     "difficulty": "Easy",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-16T04:13:26.000Z",
     "slug": "subarrays-distinct-element-sum-of-squares-ii"
-  },
-  {
-    "id": "2913",
-    "title": "Subarrays Distinct Element Sum of Squares I",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-10-15T04:18:41.000Z",
-    "slug": "subarrays-distinct-element-sum-of-squares-i"
   }
 ]

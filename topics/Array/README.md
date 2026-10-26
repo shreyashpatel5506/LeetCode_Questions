@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (189)
+## Solved Problems (190)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -29,6 +29,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Container With Most Water** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [Local Solution](../../problems/0011-container-with-most-water/) |
 | **Contains Duplicate** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [Local Solution](../../problems/0217-contains-duplicate/) |
 | **Count Indices With Opposite Parity** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [Local Solution](../../problems/3917-count-indices-with-opposite-parity/) |
+| **Count Islands With Total Value Divisible by K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Local Solution](../../problems/3619-count-islands-with-total-value-divisible-by-k/) |
 | **Count Items Matching a Rule** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-items-matching-a-rule/) | [Local Solution](../../problems/1773-count-items-matching-a-rule/) |
 | **Count Negative Numbers in a Sorted Matrix** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Local Solution](../../problems/1351-count-negative-numbers-in-a-sorted-matrix/) |
 | **Count Partitions with Even Sum Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Local Solution](../../problems/3432-count-partitions-with-even-sum-difference/) |

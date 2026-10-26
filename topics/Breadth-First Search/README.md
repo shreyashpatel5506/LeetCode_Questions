@@ -2,10 +2,11 @@
 
 This page contains all problems categorized under the **Breadth-First Search** topic.
 
-## Solved Problems (7)
+## Solved Problems (8)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Count Islands With Total Value Divisible by K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Local Solution](../../problems/3619-count-islands-with-total-value-divisible-by-k/) |
 | **Jump Game III** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-iii/) | [Local Solution](../../problems/1306-jump-game-iii/) |
 | **Jump Game IV** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-iv/) | [Local Solution](../../problems/1345-jump-game-iv/) |
 | **Minimum Jumps to Reach End via Prime Teleportation** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Local Solution](../../problems/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) |

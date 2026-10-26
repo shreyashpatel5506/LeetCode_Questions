@@ -2,11 +2,12 @@
 
 This page contains all problems categorized under the **Matrix** topic.
 
-## Solved Problems (15)
+## Solved Problems (16)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Check if Grid Satisfies Conditions** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) | [Local Solution](../../problems/3142-check-if-grid-satisfies-conditions/) |
+| **Count Islands With Total Value Divisible by K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Local Solution](../../problems/3619-count-islands-with-total-value-divisible-by-k/) |
 | **Count Negative Numbers in a Sorted Matrix** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Local Solution](../../problems/1351-count-negative-numbers-in-a-sorted-matrix/) |
 | **Cyclically Rotating a Grid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Local Solution](../../problems/1914-cyclically-rotating-a-grid/) |
 | **Equal Row and Column Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Local Solution](../../problems/2352-equal-row-and-column-pairs/) |

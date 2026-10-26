@@ -2,10 +2,11 @@
 
 This page contains all problems categorized under the **Depth-First Search** topic.
 
-## Solved Problems (5)
+## Solved Problems (6)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Count Islands With Total Value Divisible by K** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Local Solution](../../problems/3619-count-islands-with-total-value-divisible-by-k/) |
 | **Critical Connections in a Network** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/critical-connections-in-a-network/) | [Local Solution](../../problems/1192-critical-connections-in-a-network/) |
 | **Jump Game III** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-iii/) | [Local Solution](../../problems/1306-jump-game-iii/) |
 | **Number of Closed Islands** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/number-of-closed-islands/) | [Local Solution](../../problems/1254-number-of-closed-islands/) |

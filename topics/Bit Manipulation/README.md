@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Bit Manipulation** topic.
 
-## Solved Problems (31)
+## Solved Problems (32)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,6 +23,7 @@ This page contains all problems categorized under the **Bit Manipulation** topic
 | **Gray Code** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/gray-code/) | [Local Solution](../../problems/0089-gray-code/) |
 | **Integer Replacement** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/integer-replacement/) | [Local Solution](../../problems/0397-integer-replacement/) |
 | **Maximum K to Sort a Permutation** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Local Solution](../../problems/3644-maximum-k-to-sort-a-permutation/) |
+| **Minimum XOR Path in a Grid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Local Solution](../../problems/3882-minimum-xor-path-in-a-grid/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **Number Complement** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/number-complement/) | [Local Solution](../../problems/0476-number-complement/) |
 | **Number of 1 Bits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | [Local Solution](../../problems/0191-number-of-1-bits/) |

@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 28, 2026, 8:46 AM (UTC)` |
+| **Latest Synchronization** | `Oct 28, 2026, 9:46 PM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,15 +25,15 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **284** | 62.0% | `██████` |
-| 🟡 **Medium** | **146** | 31.9% | `███` |
+| 🟢 **Easy** | **284** | 61.9% | `██████` |
+| 🟡 **Medium** | **147** | 32.0% | `███` |
 | 🔴 **Hard** | **28** | 6.1% | `█` |
-| **Total Solved** | **458** | **100%** | |
+| **Total Solved** | **459** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 312 | 68.1% |
+| `java` | 313 | 68.2% |
 | `mysql` | 70 | 15.3% |
 | `javascript` | 50 | 10.9% |
 | `python3` | 19 | 4.1% |
@@ -50,11 +50,11 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`190`) | 📁 [**Math**](topics/Math/) (`109`) | 📁 [**String**](topics/String/) (`87`) |
+| 📁 [**Array**](topics/Array/) (`191`) | 📁 [**Math**](topics/Math/) (`109`) | 📁 [**String**](topics/String/) (`87`) |
 | 📁 [**Hash Table**](topics/Hash%20Table/) (`69`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`49`) |
-| 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`31`) | 📁 [**Greedy**](topics/Greedy/) (`30`) |
-| 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) |
-| 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Matrix**](topics/Matrix/) (`16`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) |
+| 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`32`) | 📁 [**Greedy**](topics/Greedy/) (`30`) |
+| 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`30`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) |
+| 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Matrix**](topics/Matrix/) (`17`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) |
 | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Stack**](topics/Stack/) (`12`) | 📁 [**Recursion**](topics/Recursion/) (`11`) |
 | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`9`) | 📁 [**Enumeration**](topics/Enumeration/) (`9`) | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`8`) |
 | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`8`) | 📁 [**Geometry**](topics/Geometry/) (`7`) | 📁 [**Depth-First Search**](topics/Depth-First%20Search/) (`6`) |
@@ -78,6 +78,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3882 | [Minimum XOR Path in a Grid](#) | `Medium` | `java` | 2026-10-28 | [Local Code](problems/3882-minimum-xor-path-in-a-grid/) |
 | 3619 | [Count Islands With Total Value Divisible by K](#) | `Medium` | `java` | 2026-10-26 | [Local Code](problems/3619-count-islands-with-total-value-divisible-by-k/) |
 | 1254 | [Number of Closed Islands](#) | `Medium` | `java` | 2026-10-25 | [Local Code](problems/1254-number-of-closed-islands/) |
 | 4088 | [Difference Between Peaks and Valleys](#) | `Easy` | `java` | 2026-10-24 | [Local Code](problems/4088-difference-between-peaks-and-valleys/) |
@@ -87,7 +88,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 3863 | [Minimum Operations to Sort a String](#) | `Medium` | `java` | 2026-10-21 | [Local Code](problems/3863-minimum-operations-to-sort-a-string/) |
 | 3886 | [Sum of Sortable Integers](#) | `Hard` | `java` | 2026-10-20 | [Local Code](problems/3886-sum-of-sortable-integers/) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](#) | `Hard` | `java` | 2026-10-18 | [Local Code](problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/) |
-| 3551 | [Minimum Swaps to Sort by Digit Sum](#) | `Medium` | `java` | 2026-10-17 | [Local Code](problems/3551-minimum-swaps-to-sort-by-digit-sum/) |
 
 ---
 

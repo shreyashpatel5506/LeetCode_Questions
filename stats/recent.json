@@ -1,5 +1,13 @@
 [
   {
+    "id": "3882",
+    "title": "Minimum XOR Path in a Grid",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-10-28T17:57:25.000Z",
+    "slug": "minimum-xor-path-in-a-grid"
+  },
+  {
     "id": "3619",
     "title": "Count Islands With Total Value Divisible by K",
     "difficulty": "Medium",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-18T09:19:23.000Z",
     "slug": "number-of-ways-to-reorder-array-to-get-same-bst"
-  },
-  {
-    "id": "3551",
-    "title": "Minimum Swaps to Sort by Digit Sum",
-    "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-10-17T04:23:42.000Z",
-    "slug": "minimum-swaps-to-sort-by-digit-sum"
   }
 ]

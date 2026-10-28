@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Dynamic Programming** topic.
 
-## Solved Problems (29)
+## Solved Problems (30)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -20,6 +20,7 @@ This page contains all problems categorized under the **Dynamic Programming** to
 | **Maximum Repeating Substring** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-repeating-substring/) | [Local Solution](../../problems/1668-maximum-repeating-substring/) |
 | **Maximum Subarray** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | [Local Solution](../../problems/0053-maximum-subarray/) |
 | **Minimum Distance to Type a Word Using Two Fingers** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Local Solution](../../problems/1320-minimum-distance-to-type-a-word-using-two-fingers/) |
+| **Minimum XOR Path in a Grid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Local Solution](../../problems/3882-minimum-xor-path-in-a-grid/) |
 | **N-th Tribonacci Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/) | [Local Solution](../../problems/1137-n-th-tribonacci-number/) |
 | **Number of Digit One** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-digit-one/) | [Local Solution](../../problems/0233-number-of-digit-one/) |
 | **Number of Ways to Rearrange Sticks With K Sticks Visible** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [Local Solution](../../problems/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) |

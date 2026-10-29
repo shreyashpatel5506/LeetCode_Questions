@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Bit Manipulation** topic.
 
-## Solved Problems (32)
+## Solved Problems (33)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -28,6 +28,7 @@ This page contains all problems categorized under the **Bit Manipulation** topic
 | **Number Complement** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/number-complement/) | [Local Solution](../../problems/0476-number-complement/) |
 | **Number of 1 Bits** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | [Local Solution](../../problems/0191-number-of-1-bits/) |
 | **Number of Bit Changes to Make Two Integers Equal** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | [Local Solution](../../problems/3226-number-of-bit-changes-to-make-two-integers-equal/) |
+| **Palindromic Path Queries in a Tree** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Local Solution](../../problems/3841-palindromic-path-queries-in-a-tree/) |
 | **Power of Four** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-four/) | [Local Solution](../../problems/0342-power-of-four/) |
 | **Power of Two** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/power-of-two/) | [Local Solution](../../problems/0231-power-of-two/) |
 | **Reverse Bits** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/reverse-bits/) | [Local Solution](../../problems/0190-reverse-bits/) |

@@ -1,13 +1,13 @@
 {
-  "totalSolved": 459,
-  "lastSync": "2026-10-28T21:46:43.723Z",
+  "totalSolved": 460,
+  "lastSync": "2026-10-29T08:41:50.076Z",
   "difficultyDistribution": {
     "Easy": 284,
     "Medium": 147,
-    "Hard": 28
+    "Hard": 29
   },
   "topLanguages": {
-    "java": 313,
+    "java": 314,
     "mysql": 70,
     "javascript": 50,
     "python3": 19,

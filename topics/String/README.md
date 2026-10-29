@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (87)
+## Solved Problems (88)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -60,6 +60,7 @@ This page contains all problems categorized under the **String** topic.
 | **Number of Segments in a String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Local Solution](../../problems/0434-number-of-segments-in-a-string/) |
 | **Number of Senior Citizens** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/number-of-senior-citizens/) | [Local Solution](../../problems/2678-number-of-senior-citizens/) |
 | **Number of Strings That Appear as Substrings in Word** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Local Solution](../../problems/1967-number-of-strings-that-appear-as-substrings-in-word/) |
+| **Palindromic Path Queries in a Tree** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Local Solution](../../problems/3841-palindromic-path-queries-in-a-tree/) |
 | **Process String with Special Operations I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Local Solution](../../problems/3612-process-string-with-special-operations-i/) |
 | **Process String with Special Operations II** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Local Solution](../../problems/3614-process-string-with-special-operations-ii/) |
 | **Rearrange Characters to Make Target String** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [Local Solution](../../problems/2287-rearrange-characters-to-make-target-string/) |

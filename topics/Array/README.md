@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (191)
+## Solved Problems (192)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -133,6 +133,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Number of Senior Citizens** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/number-of-senior-citizens/) | [Local Solution](../../problems/2678-number-of-senior-citizens/) |
 | **Number of Strings That Appear as Substrings in Word** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Local Solution](../../problems/1967-number-of-strings-that-appear-as-substrings-in-word/) |
 | **Number of Ways to Reorder Array to Get Same BST** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Local Solution](../../problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/) |
+| **Palindromic Path Queries in a Tree** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Local Solution](../../problems/3841-palindromic-path-queries-in-a-tree/) |
 | **Partition Array According to Given Pivot** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Local Solution](../../problems/2161-partition-array-according-to-given-pivot/) |
 | **Pascal's Triangle** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | [Local Solution](../../problems/0118-pascals-triangle/) |
 | **Pascal's Triangle II** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | [Local Solution](../../problems/0119-pascals-triangle-ii/) |

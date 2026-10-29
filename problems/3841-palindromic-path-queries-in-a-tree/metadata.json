@@ -1,0 +1,21 @@
+{
+  "id": "3841",
+  "title": "Palindromic Path Queries in a Tree",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "String",
+    "Divide and Conquer",
+    "Bit Manipulation",
+    "Tree",
+    "Depth-First Search",
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ],
+  "language": "java",
+  "slug": "palindromic-path-queries-in-a-tree",
+  "acceptanceDate": "2026-10-29T04:34:26.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+  "submissionId": 2184418092,
+  "lastUpdated": "2026-10-29T08:41:49.879Z"
+}

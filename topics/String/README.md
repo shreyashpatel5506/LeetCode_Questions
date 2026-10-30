@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **String** topic.
 
-## Solved Problems (88)
+## Solved Problems (89)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -79,6 +79,7 @@ This page contains all problems categorized under the **String** topic.
 | **Sender With Largest Word Count** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sender-with-largest-word-count/) | [Local Solution](../../problems/2284-sender-with-largest-word-count/) |
 | **Sentence Similarity III** | `Medium` | `python3` | [LeetCode](https://leetcode.com/problems/sentence-similarity-iii/) | [Local Solution](../../problems/1813-sentence-similarity-iii/) |
 | **Shortest Distance to Target String in a Circular Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Local Solution](../../problems/2515-shortest-distance-to-target-string-in-a-circular-array/) |
+| **Shortest Path With At Most K Consecutive Identical Characters** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Local Solution](../../problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) |
 | **Slowest Key** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/slowest-key/) | [Local Solution](../../problems/1629-slowest-key/) |
 | **Snake in Matrix** | `Easy` | `c` | [LeetCode](https://leetcode.com/problems/snake-in-matrix/) | [Local Solution](../../problems/3248-snake-in-matrix/) |
 | **Sort Characters By Frequency** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | [Local Solution](../../problems/0451-sort-characters-by-frequency/) |

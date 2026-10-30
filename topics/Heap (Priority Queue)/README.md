@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Heap (Priority Queue)** topic.
 
-## Solved Problems (8)
+## Solved Problems (9)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -10,6 +10,7 @@ This page contains all problems categorized under the **Heap (Priority Queue)** 
 | **Maximum Product of Two Elements in an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Local Solution](../../problems/1464-maximum-product-of-two-elements-in-an-array/) |
 | **Minimum Operations to Exceed Threshold Value II** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Local Solution](../../problems/3066-minimum-operations-to-exceed-threshold-value-ii/) |
 | **Minimum Sum of Squared Difference** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Local Solution](../../problems/2333-minimum-sum-of-squared-difference/) |
+| **Shortest Path With At Most K Consecutive Identical Characters** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Local Solution](../../problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) |
 | **Sort an Array** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/sort-an-array/) | [Local Solution](../../problems/0912-sort-an-array/) |
 | **Sort Characters By Frequency** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | [Local Solution](../../problems/0451-sort-characters-by-frequency/) |
 | **Top K Frequent Elements** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | [Local Solution](../../problems/0347-top-k-frequent-elements/) |

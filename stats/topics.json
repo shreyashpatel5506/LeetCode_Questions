@@ -6,7 +6,7 @@
   "Recursion": 11,
   "Binary Search": 29,
   "Divide and Conquer": 10,
-  "String": 88,
+  "String": 89,
   "Two Pointers": 28,
   "Greedy": 30,
   "Trie": 4,
@@ -32,7 +32,7 @@
   "Prefix Sum": 15,
   "Interactive": 2,
   "Design": 1,
-  "Heap (Priority Queue)": 8,
+  "Heap (Priority Queue)": 9,
   "Bucket Sort": 4,
   "Quickselect": 1,
   "Queue": 1,
@@ -42,7 +42,7 @@
   "Probability and Statistics": 2,
   "Game Theory": 2,
   "Union-Find": 4,
-  "Graph Theory": 2,
+  "Graph Theory": 3,
   "Bracket Sequences": 6,
   "Merge Sort": 1,
   "Radix Sort": 1,
@@ -54,5 +54,6 @@
   "Fermat's Little Theorem": 1,
   "Binary Indexed Tree": 4,
   "Segment Tree": 4,
-  "Ordered Set": 1
+  "Ordered Set": 1,
+  "Shortest Path": 1
 }

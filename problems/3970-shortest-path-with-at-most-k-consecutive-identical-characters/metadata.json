@@ -1,0 +1,17 @@
+{
+  "id": "3970",
+  "title": "Shortest Path With At Most K Consecutive Identical Characters",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "language": "java",
+  "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+  "acceptanceDate": "2026-10-30T03:20:25.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/",
+  "submissionId": 2185174775,
+  "lastUpdated": "2026-10-30T08:48:17.564Z"
+}

@@ -1,5 +1,13 @@
 [
   {
+    "id": "3665",
+    "title": "Twisted Mirror Path Count",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-10-31T04:59:03.000Z",
+    "slug": "twisted-mirror-path-count"
+  },
+  {
     "id": "3970",
     "title": "Shortest Path With At Most K Consecutive Identical Characters",
     "difficulty": "Medium",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-22T11:47:20.000Z",
     "slug": "minimum-operations-to-sort-a-permutation"
-  },
-  {
-    "id": "3863",
-    "title": "Minimum Operations to Sort a String",
-    "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-10-21T02:49:00.000Z",
-    "slug": "minimum-operations-to-sort-a-string"
   }
 ]

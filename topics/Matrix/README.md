@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Matrix** topic.
 
-## Solved Problems (17)
+## Solved Problems (18)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,3 +23,4 @@ This page contains all problems categorized under the **Matrix** topic.
 | **Search a 2D Matrix II** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Local Solution](../../problems/0240-search-a-2d-matrix-ii/) |
 | **Shift 2D Grid** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) | [Local Solution](../../problems/1260-shift-2d-grid/) |
 | **Transpose Matrix** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | [Local Solution](../../problems/0867-transpose-matrix/) |
+| **Twisted Mirror Path Count** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/twisted-mirror-path-count/) | [Local Solution](../../problems/3665-twisted-mirror-path-count/) |

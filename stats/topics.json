@@ -1,5 +1,5 @@
 {
-  "Array": 192,
+  "Array": 193,
   "Hash Table": 69,
   "Linked List": 5,
   "Math": 109,
@@ -13,8 +13,8 @@
   "Stack": 12,
   "String Matching": 3,
   "Bit Manipulation": 33,
-  "Dynamic Programming": 30,
-  "Matrix": 17,
+  "Dynamic Programming": 31,
+  "Matrix": 18,
   "Sorting": 49,
   "Simulation": 37,
   "Memoization": 5,

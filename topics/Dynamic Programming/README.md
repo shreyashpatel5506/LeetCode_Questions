@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Dynamic Programming** topic.
 
-## Solved Problems (30)
+## Solved Problems (31)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -34,5 +34,6 @@ This page contains all problems categorized under the **Dynamic Programming** to
 | **Split Array Largest Sum** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | [Local Solution](../../problems/0410-split-array-largest-sum/) |
 | **Total Waviness of Numbers in Range I** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Local Solution](../../problems/3751-total-waviness-of-numbers-in-range-i/) |
 | **Total Waviness of Numbers in Range II** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Local Solution](../../problems/3753-total-waviness-of-numbers-in-range-ii/) |
+| **Twisted Mirror Path Count** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/twisted-mirror-path-count/) | [Local Solution](../../problems/3665-twisted-mirror-path-count/) |
 | **Valid Parenthesis String** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | [Local Solution](../../problems/0678-valid-parenthesis-string/) |
 | **Ways to Express an Integer as Sum of Powers** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Local Solution](../../problems/2787-ways-to-express-an-integer-as-sum-of-powers/) |

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (192)
+## Solved Problems (193)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -193,6 +193,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Top K Frequent Words** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/top-k-frequent-words/) | [Local Solution](../../problems/0692-top-k-frequent-words/) |
 | **Transformed Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/transformed-array/) | [Local Solution](../../problems/3379-transformed-array/) |
 | **Transpose Matrix** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | [Local Solution](../../problems/0867-transpose-matrix/) |
+| **Twisted Mirror Path Count** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/twisted-mirror-path-count/) | [Local Solution](../../problems/3665-twisted-mirror-path-count/) |
 | **Two Furthest Houses With Different Colors** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Local Solution](../../problems/2078-two-furthest-houses-with-different-colors/) |
 | **Two Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/two-sum/) | [Local Solution](../../problems/0001-two-sum/) |
 | **Unique Email Addresses** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/unique-email-addresses/) | [Local Solution](../../problems/0929-unique-email-addresses/) |

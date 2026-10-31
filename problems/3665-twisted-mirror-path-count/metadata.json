@@ -1,0 +1,16 @@
+{
+  "id": "3665",
+  "title": "Twisted Mirror Path Count",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "java",
+  "slug": "twisted-mirror-path-count",
+  "acceptanceDate": "2026-10-31T04:59:03.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/twisted-mirror-path-count/",
+  "submissionId": 2185935886,
+  "lastUpdated": "2026-10-31T08:35:36.355Z"
+}

@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Oct 31, 2026, 8:31 PM (UTC)` |
+| **Latest Synchronization** | `Nov 1, 2026, 9:26 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,16 +25,16 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **284** | 61.5% | `██████` |
-| 🟡 **Medium** | **149** | 32.3% | `███` |
+| 🟢 **Easy** | **285** | 61.4% | `██████` |
+| 🟡 **Medium** | **150** | 32.3% | `███` |
 | 🔴 **Hard** | **29** | 6.3% | `█` |
-| **Total Solved** | **462** | **100%** | |
+| **Total Solved** | **464** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 316 | 68.4% |
-| `mysql` | 70 | 15.2% |
+| `java` | 318 | 68.5% |
+| `mysql` | 70 | 15.1% |
 | `javascript` | 50 | 10.8% |
 | `python3` | 19 | 4.1% |
 | `php` | 2 | 0.4% |
@@ -50,7 +50,7 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`193`) | 📁 [**Math**](topics/Math/) (`109`) | 📁 [**String**](topics/String/) (`89`) |
+| 📁 [**Array**](topics/Array/) (`194`) | 📁 [**Math**](topics/Math/) (`110`) | 📁 [**String**](topics/String/) (`89`) |
 | 📁 [**Hash Table**](topics/Hash%20Table/) (`69`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`49`) |
 | 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`33`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`31`) |
 | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) |
@@ -78,6 +78,8 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0453 | [Minimum Moves to Equal Array Elements](#) | `Medium` | `java` | 2026-11-01 | [Local Code](problems/0453-minimum-moves-to-equal-array-elements/) |
+| 4097 | [Minimum Value of Merged Integers](#) | `Easy` | `java` | 2026-11-01 | [Local Code](problems/4097-minimum-value-of-merged-integers/) |
 | 3665 | [Twisted Mirror Path Count](#) | `Medium` | `java` | 2026-10-31 | [Local Code](problems/3665-twisted-mirror-path-count/) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](#) | `Medium` | `java` | 2026-10-30 | [Local Code](problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) |
 | 3841 | [Palindromic Path Queries in a Tree](#) | `Hard` | `java` | 2026-10-29 | [Local Code](problems/3841-palindromic-path-queries-in-a-tree/) |
@@ -86,8 +88,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 1254 | [Number of Closed Islands](#) | `Medium` | `java` | 2026-10-25 | [Local Code](problems/1254-number-of-closed-islands/) |
 | 4088 | [Difference Between Peaks and Valleys](#) | `Easy` | `java` | 2026-10-24 | [Local Code](problems/4088-difference-between-peaks-and-valleys/) |
 | 2409 | [Count Days Spent Together](#) | `Easy` | `java` | 2026-10-24 | [Local Code](problems/2409-count-days-spent-together/) |
-| 3644 | [Maximum K to Sort a Permutation](#) | `Medium` | `java` | 2026-10-23 | [Local Code](problems/3644-maximum-k-to-sort-a-permutation/) |
-| 3942 | [Minimum Operations to Sort a Permutation](#) | `Medium` | `java` | 2026-10-22 | [Local Code](problems/3942-minimum-operations-to-sort-a-permutation/) |
 
 ---
 

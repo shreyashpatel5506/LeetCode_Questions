@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (109)
+## Solved Problems (110)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -65,6 +65,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Minimum Absolute Distance Between Mirror Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Local Solution](../../problems/3761-minimum-absolute-distance-between-mirror-pairs/) |
 | **Minimum Element After Replacement With Digit Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Local Solution](../../problems/3300-minimum-element-after-replacement-with-digit-sum/) |
 | **Minimum Jumps to Reach End via Prime Teleportation** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Local Solution](../../problems/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) |
+| **Minimum Moves to Equal Array Elements** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Local Solution](../../problems/0453-minimum-moves-to-equal-array-elements/) |
 | **Minimum Number of Pushes to Type Word I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Local Solution](../../problems/3014-minimum-number-of-pushes-to-type-word-i/) |
 | **Mirror Distance of an Integer** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Local Solution](../../problems/3783-mirror-distance-of-an-integer/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |

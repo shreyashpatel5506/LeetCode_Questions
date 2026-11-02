@@ -1,0 +1,16 @@
+{
+  "id": "0462",
+  "title": "Minimum Moves to Equal Array Elements II",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "minimum-moves-to-equal-array-elements-ii",
+  "acceptanceDate": "2026-11-02T02:34:13.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+  "submissionId": 2187396244,
+  "lastUpdated": "2026-11-02T09:42:27.599Z"
+}

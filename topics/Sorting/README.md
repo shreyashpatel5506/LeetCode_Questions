@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Sorting** topic.
 
-## Solved Problems (49)
+## Solved Problems (50)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -33,6 +33,7 @@ This page contains all problems categorized under the **Sorting** topic.
 | **Minimum Cost of Buying Candies With Discount** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Local Solution](../../problems/2144-minimum-cost-of-buying-candies-with-discount/) |
 | **Minimum Initial Energy to Finish Tasks** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Local Solution](../../problems/1665-minimum-initial-energy-to-finish-tasks/) |
 | **Minimum Money Required Before Transactions** | `Hard` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-money-required-before-transactions/) | [Local Solution](../../problems/2412-minimum-money-required-before-transactions/) |
+| **Minimum Moves to Equal Array Elements II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Local Solution](../../problems/0462-minimum-moves-to-equal-array-elements-ii/) |
 | **Minimum Number of Pushes to Type Word II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Local Solution](../../problems/3016-minimum-number-of-pushes-to-type-word-ii/) |
 | **Minimum Sum of Squared Difference** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Local Solution](../../problems/2333-minimum-sum-of-squared-difference/) |
 | **Minimum Swaps to Sort by Digit Sum** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Local Solution](../../problems/3551-minimum-swaps-to-sort-by-digit-sum/) |

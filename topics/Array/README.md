@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (194)
+## Solved Problems (195)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -117,6 +117,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Minimum Jumps to Reach End via Prime Teleportation** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Local Solution](../../problems/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) |
 | **Minimum Money Required Before Transactions** | `Hard` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-money-required-before-transactions/) | [Local Solution](../../problems/2412-minimum-money-required-before-transactions/) |
 | **Minimum Moves to Equal Array Elements** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Local Solution](../../problems/0453-minimum-moves-to-equal-array-elements/) |
+| **Minimum Moves to Equal Array Elements II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Local Solution](../../problems/0462-minimum-moves-to-equal-array-elements-ii/) |
 | **Minimum Moves to Make Array Complementary** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Local Solution](../../problems/1674-minimum-moves-to-make-array-complementary/) |
 | **Minimum Operations to Exceed Threshold Value I** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Local Solution](../../problems/3065-minimum-operations-to-exceed-threshold-value-i/) |
 | **Minimum Operations to Exceed Threshold Value II** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Local Solution](../../problems/3066-minimum-operations-to-exceed-threshold-value-ii/) |

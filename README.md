@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Nov 2, 2026, 11:56 PM (UTC)` |
+| **Latest Synchronization** | `Nov 3, 2026, 9:46 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,17 +25,17 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **285** | 61.3% | `██████` |
-| 🟡 **Medium** | **151** | 32.5% | `███` |
+| 🟢 **Easy** | **286** | 61.4% | `██████` |
+| 🟡 **Medium** | **151** | 32.4% | `███` |
 | 🔴 **Hard** | **29** | 6.2% | `█` |
-| **Total Solved** | **465** | **100%** | |
+| **Total Solved** | **466** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 319 | 68.6% |
-| `mysql` | 70 | 15.1% |
-| `javascript` | 50 | 10.8% |
+| `java` | 320 | 68.7% |
+| `mysql` | 70 | 15.0% |
+| `javascript` | 50 | 10.7% |
 | `python3` | 19 | 4.1% |
 | `php` | 2 | 0.4% |
 | `c` | 2 | 0.4% |
@@ -50,7 +50,7 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`195`) | 📁 [**Math**](topics/Math/) (`111`) | 📁 [**String**](topics/String/) (`89`) |
+| 📁 [**Array**](topics/Array/) (`196`) | 📁 [**Math**](topics/Math/) (`112`) | 📁 [**String**](topics/String/) (`89`) |
 | 📁 [**Hash Table**](topics/Hash%20Table/) (`69`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`50`) |
 | 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`33`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`31`) |
 | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) |
@@ -78,6 +78,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3736 | [Minimum Moves to Equal Array Elements III](#) | `Easy` | `java` | 2026-11-03 | [Local Code](problems/3736-minimum-moves-to-equal-array-elements-iii/) |
 | 0462 | [Minimum Moves to Equal Array Elements II](#) | `Medium` | `java` | 2026-11-02 | [Local Code](problems/0462-minimum-moves-to-equal-array-elements-ii/) |
 | 0453 | [Minimum Moves to Equal Array Elements](#) | `Medium` | `java` | 2026-11-01 | [Local Code](problems/0453-minimum-moves-to-equal-array-elements/) |
 | 4097 | [Minimum Value of Merged Integers](#) | `Easy` | `java` | 2026-11-01 | [Local Code](problems/4097-minimum-value-of-merged-integers/) |
@@ -87,7 +88,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 3882 | [Minimum XOR Path in a Grid](#) | `Medium` | `java` | 2026-10-28 | [Local Code](problems/3882-minimum-xor-path-in-a-grid/) |
 | 3619 | [Count Islands With Total Value Divisible by K](#) | `Medium` | `java` | 2026-10-26 | [Local Code](problems/3619-count-islands-with-total-value-divisible-by-k/) |
 | 1254 | [Number of Closed Islands](#) | `Medium` | `java` | 2026-10-25 | [Local Code](problems/1254-number-of-closed-islands/) |
-| 4088 | [Difference Between Peaks and Valleys](#) | `Easy` | `java` | 2026-10-24 | [Local Code](problems/4088-difference-between-peaks-and-valleys/) |
 
 ---
 

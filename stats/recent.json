@@ -1,5 +1,13 @@
 [
   {
+    "id": "3736",
+    "title": "Minimum Moves to Equal Array Elements III",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-11-03T03:23:23.000Z",
+    "slug": "minimum-moves-to-equal-array-elements-iii"
+  },
+  {
     "id": "0462",
     "title": "Minimum Moves to Equal Array Elements II",
     "difficulty": "Medium",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-25T04:02:13.000Z",
     "slug": "number-of-closed-islands"
-  },
-  {
-    "id": "4088",
-    "title": "Difference Between Peaks and Valleys",
-    "difficulty": "Easy",
-    "language": "java",
-    "acceptanceDate": "2026-10-24T15:28:54.000Z",
-    "slug": "difference-between-peaks-and-valleys"
   }
 ]

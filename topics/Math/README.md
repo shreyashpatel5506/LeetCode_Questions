@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Math** topic.
 
-## Solved Problems (112)
+## Solved Problems (113)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -69,6 +69,7 @@ This page contains all problems categorized under the **Math** topic.
 | **Minimum Moves to Equal Array Elements II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Local Solution](../../problems/0462-minimum-moves-to-equal-array-elements-ii/) |
 | **Minimum Moves to Equal Array Elements III** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Local Solution](../../problems/3736-minimum-moves-to-equal-array-elements-iii/) |
 | **Minimum Number of Pushes to Type Word I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Local Solution](../../problems/3014-minimum-number-of-pushes-to-type-word-i/) |
+| **Minimum Operations to Make Elements Within K Subarrays Equal** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [Local Solution](../../problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) |
 | **Mirror Distance of an Integer** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Local Solution](../../problems/3783-mirror-distance-of-an-integer/) |
 | **Missing Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/missing-number/) | [Local Solution](../../problems/0268-missing-number/) |
 | **N-th Tribonacci Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/) | [Local Solution](../../problems/1137-n-th-tribonacci-number/) |

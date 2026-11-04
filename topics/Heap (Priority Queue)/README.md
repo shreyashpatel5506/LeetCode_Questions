@@ -2,13 +2,14 @@
 
 This page contains all problems categorized under the **Heap (Priority Queue)** topic.
 
-## Solved Problems (9)
+## Solved Problems (10)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Make Array Zero by Subtracting Equal Amounts** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Local Solution](../../problems/2357-make-array-zero-by-subtracting-equal-amounts/) |
 | **Maximum Product of Two Elements in an Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Local Solution](../../problems/1464-maximum-product-of-two-elements-in-an-array/) |
 | **Minimum Operations to Exceed Threshold Value II** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Local Solution](../../problems/3066-minimum-operations-to-exceed-threshold-value-ii/) |
+| **Minimum Operations to Make Elements Within K Subarrays Equal** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [Local Solution](../../problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) |
 | **Minimum Sum of Squared Difference** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Local Solution](../../problems/2333-minimum-sum-of-squared-difference/) |
 | **Shortest Path With At Most K Consecutive Identical Characters** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Local Solution](../../problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) |
 | **Sort an Array** | `Medium` | `javascript` | [LeetCode](https://leetcode.com/problems/sort-an-array/) | [Local Solution](../../problems/0912-sort-an-array/) |

@@ -1,5 +1,13 @@
 [
   {
+    "id": "3505",
+    "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+    "difficulty": "Hard",
+    "language": "java",
+    "acceptanceDate": "2026-11-04T02:43:53.000Z",
+    "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal"
+  },
+  {
     "id": "3736",
     "title": "Minimum Moves to Equal Array Elements III",
     "difficulty": "Easy",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-26T10:07:56.000Z",
     "slug": "count-islands-with-total-value-divisible-by-k"
-  },
-  {
-    "id": "1254",
-    "title": "Number of Closed Islands",
-    "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-10-25T04:02:13.000Z",
-    "slug": "number-of-closed-islands"
   }
 ]

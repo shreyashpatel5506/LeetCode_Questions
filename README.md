@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Nov 3, 2026, 10:24 PM (UTC)` |
+| **Latest Synchronization** | `Nov 4, 2026, 9:32 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,15 +25,15 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **286** | 61.4% | `██████` |
-| 🟡 **Medium** | **151** | 32.4% | `███` |
-| 🔴 **Hard** | **29** | 6.2% | `█` |
-| **Total Solved** | **466** | **100%** | |
+| 🟢 **Easy** | **286** | 61.2% | `██████` |
+| 🟡 **Medium** | **151** | 32.3% | `███` |
+| 🔴 **Hard** | **30** | 6.4% | `█` |
+| **Total Solved** | **467** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 320 | 68.7% |
+| `java` | 321 | 68.7% |
 | `mysql` | 70 | 15.0% |
 | `javascript` | 50 | 10.7% |
 | `python3` | 19 | 4.1% |
@@ -50,17 +50,17 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`196`) | 📁 [**Math**](topics/Math/) (`112`) | 📁 [**String**](topics/String/) (`89`) |
-| 📁 [**Hash Table**](topics/Hash%20Table/) (`69`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`50`) |
-| 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`33`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`31`) |
+| 📁 [**Array**](topics/Array/) (`197`) | 📁 [**Math**](topics/Math/) (`113`) | 📁 [**String**](topics/String/) (`89`) |
+| 📁 [**Hash Table**](topics/Hash%20Table/) (`70`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`50`) |
+| 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`33`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`32`) |
 | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) |
 | 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Matrix**](topics/Matrix/) (`18`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) |
 | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Stack**](topics/Stack/) (`12`) | 📁 [**Recursion**](topics/Recursion/) (`11`) |
-| 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`10`) | 📁 [**Enumeration**](topics/Enumeration/) (`9`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`9`) |
+| 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`10`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`10`) | 📁 [**Enumeration**](topics/Enumeration/) (`9`) |
 | 📁 [**Breadth-First Search**](topics/Breadth-First%20Search/) (`8`) | 📁 [**Depth-First Search**](topics/Depth-First%20Search/) (`7`) | 📁 [**Geometry**](topics/Geometry/) (`7`) |
 | 📁 [**Bracket Sequences**](topics/Bracket%20Sequences/) (`6`) | 📁 [**Linked List**](topics/Linked%20List/) (`5`) | 📁 [**Memoization**](topics/Memoization/) (`5`) |
-| 📁 [**Tree**](topics/Tree/) (`5`) | 📁 [**Trie**](topics/Trie/) (`4`) | 📁 [**Binary Tree**](topics/Binary%20Tree/) (`4`) |
-| 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**Sliding Window**](topics/Sliding%20Window/) (`4`) | 📁 [**Union-Find**](topics/Union-Find/) (`4`) |
+| 📁 [**Tree**](topics/Tree/) (`5`) | 📁 [**Sliding Window**](topics/Sliding%20Window/) (`5`) | 📁 [**Trie**](topics/Trie/) (`4`) |
+| 📁 [**Binary Tree**](topics/Binary%20Tree/) (`4`) | 📁 [**Bucket Sort**](topics/Bucket%20Sort/) (`4`) | 📁 [**Union-Find**](topics/Union-Find/) (`4`) |
 | 📁 [**Combinatorics**](topics/Combinatorics/) (`4`) | 📁 [**Binary Indexed Tree**](topics/Binary%20Indexed%20Tree/) (`4`) | 📁 [**Segment Tree**](topics/Segment%20Tree/) (`4`) |
 | 📁 [**String Matching**](topics/String%20Matching/) (`3`) | 📁 [**Graph Theory**](topics/Graph%20Theory/) (`3`) | 📁 [**Counting Sort**](topics/Counting%20Sort/) (`3`) |
 | 📁 [**Backtracking**](topics/Backtracking/) (`2`) | 📁 [**Interactive**](topics/Interactive/) (`2`) | 📁 [**Probability and Statistics**](topics/Probability%20and%20Statistics/) (`2`) |
@@ -78,6 +78,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](#) | `Hard` | `java` | 2026-11-04 | [Local Code](problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) |
 | 3736 | [Minimum Moves to Equal Array Elements III](#) | `Easy` | `java` | 2026-11-03 | [Local Code](problems/3736-minimum-moves-to-equal-array-elements-iii/) |
 | 0462 | [Minimum Moves to Equal Array Elements II](#) | `Medium` | `java` | 2026-11-02 | [Local Code](problems/0462-minimum-moves-to-equal-array-elements-ii/) |
 | 0453 | [Minimum Moves to Equal Array Elements](#) | `Medium` | `java` | 2026-11-01 | [Local Code](problems/0453-minimum-moves-to-equal-array-elements/) |
@@ -87,7 +88,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 3841 | [Palindromic Path Queries in a Tree](#) | `Hard` | `java` | 2026-10-29 | [Local Code](problems/3841-palindromic-path-queries-in-a-tree/) |
 | 3882 | [Minimum XOR Path in a Grid](#) | `Medium` | `java` | 2026-10-28 | [Local Code](problems/3882-minimum-xor-path-in-a-grid/) |
 | 3619 | [Count Islands With Total Value Divisible by K](#) | `Medium` | `java` | 2026-10-26 | [Local Code](problems/3619-count-islands-with-total-value-divisible-by-k/) |
-| 1254 | [Number of Closed Islands](#) | `Medium` | `java` | 2026-10-25 | [Local Code](problems/1254-number-of-closed-islands/) |
 
 ---
 

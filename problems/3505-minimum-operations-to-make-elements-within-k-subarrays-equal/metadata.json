@@ -1,0 +1,19 @@
+{
+  "id": "3505",
+  "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Heap (Priority Queue)"
+  ],
+  "language": "java",
+  "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+  "acceptanceDate": "2026-11-04T02:43:53.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+  "submissionId": 2189025215,
+  "lastUpdated": "2026-11-04T09:32:16.687Z"
+}

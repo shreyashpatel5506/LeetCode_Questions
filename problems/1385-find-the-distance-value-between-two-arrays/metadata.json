@@ -1,0 +1,17 @@
+{
+  "id": "1385",
+  "title": "Find the Distance Value Between Two Arrays",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "find-the-distance-value-between-two-arrays",
+  "acceptanceDate": "2026-11-05T03:25:31.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+  "submissionId": 2189763359,
+  "lastUpdated": "2026-11-05T09:40:19.345Z"
+}

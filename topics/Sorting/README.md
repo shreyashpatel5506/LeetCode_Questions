@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Sorting** topic.
 
-## Solved Problems (50)
+## Solved Problems (51)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -16,6 +16,7 @@ This page contains all problems categorized under the **Sorting** topic.
 | **Find Missing Elements** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | [Local Solution](../../problems/3731-find-missing-elements/) |
 | **Find Target Indices After Sorting Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Local Solution](../../problems/2089-find-target-indices-after-sorting-array/) |
 | **Find the Difference** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-difference/) | [Local Solution](../../problems/0389-find-the-difference/) |
+| **Find the Distance Value Between Two Arrays** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Local Solution](../../problems/1385-find-the-distance-value-between-two-arrays/) |
 | **How Many Numbers Are Smaller Than the Current Number** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Local Solution](../../problems/1365-how-many-numbers-are-smaller-than-the-current-number/) |
 | **Jump Game V** | `Hard` | `java` | [LeetCode](https://leetcode.com/problems/jump-game-v/) | [Local Solution](../../problems/1340-jump-game-v/) |
 | **Largest Positive Integer That Exists With Its Negative** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Local Solution](../../problems/2441-largest-positive-integer-that-exists-with-its-negative/) |

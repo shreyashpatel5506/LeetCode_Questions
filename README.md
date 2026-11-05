@@ -13,7 +13,7 @@ This portfolio is automatically updated by a **custom, native Node.js pipeline**
 | **Sync Engine** | 🟢 Active |
 | **Actions Workflows** | 6 Pipelines (Sync, Stats, README, Topics, Validate, Cleanup) |
 | **Third-Party Libraries** | None (100% Native Node.js & ES Modules) |
-| **Latest Synchronization** | `Nov 4, 2026, 10:43 PM (UTC)` |
+| **Latest Synchronization** | `Nov 5, 2026, 9:40 AM (UTC)` |
 | **Workflow Status** | [![Sync](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml/badge.svg)](https://github.com/shreyashpatel5506/LeetCode_Questions/actions/workflows/sync.yml) |
 
 ---
@@ -25,15 +25,15 @@ We focus on writing high-quality, optimal solutions across all difficulties:
 
 | Difficulty | Solved Count | Percentage | Visualization |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | **286** | 61.2% | `██████` |
+| 🟢 **Easy** | **287** | 61.3% | `██████` |
 | 🟡 **Medium** | **151** | 32.3% | `███` |
 | 🔴 **Hard** | **30** | 6.4% | `█` |
-| **Total Solved** | **467** | **100%** | |
+| **Total Solved** | **468** | **100%** | |
 
 ### Top Languages Used
 | Language | Count | Percentage |
 | :--- | :---: | :---: |
-| `java` | 321 | 68.7% |
+| `java` | 322 | 68.8% |
 | `mysql` | 70 | 15.0% |
 | `javascript` | 50 | 10.7% |
 | `python3` | 19 | 4.1% |
@@ -50,10 +50,10 @@ Each problem in this portfolio is linked to one or more conceptual topics. You c
 
 | | | |
 | :--- | :--- | :--- |
-| 📁 [**Array**](topics/Array/) (`197`) | 📁 [**Math**](topics/Math/) (`113`) | 📁 [**String**](topics/String/) (`89`) |
-| 📁 [**Hash Table**](topics/Hash%20Table/) (`70`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`50`) |
+| 📁 [**Array**](topics/Array/) (`198`) | 📁 [**Math**](topics/Math/) (`113`) | 📁 [**String**](topics/String/) (`89`) |
+| 📁 [**Hash Table**](topics/Hash%20Table/) (`70`) | 📁 [**Database**](topics/Database/) (`68`) | 📁 [**Sorting**](topics/Sorting/) (`51`) |
 | 📁 [**Simulation**](topics/Simulation/) (`37`) | 📁 [**Bit Manipulation**](topics/Bit%20Manipulation/) (`33`) | 📁 [**Dynamic Programming**](topics/Dynamic%20Programming/) (`32`) |
-| 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Binary Search**](topics/Binary%20Search/) (`29`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`28`) |
+| 📁 [**Binary Search**](topics/Binary%20Search/) (`30`) | 📁 [**Greedy**](topics/Greedy/) (`30`) | 📁 [**Two Pointers**](topics/Two%20Pointers/) (`29`) |
 | 📁 [**Counting**](topics/Counting/) (`27`) | 📁 [**Matrix**](topics/Matrix/) (`18`) | 📁 [**Prefix Sum**](topics/Prefix%20Sum/) (`15`) |
 | 📁 [**Number Theory**](topics/Number%20Theory/) (`14`) | 📁 [**Stack**](topics/Stack/) (`12`) | 📁 [**Recursion**](topics/Recursion/) (`11`) |
 | 📁 [**Divide and Conquer**](topics/Divide%20and%20Conquer/) (`10`) | 📁 [**Heap (Priority Queue)**](topics/Heap%20(Priority%20Queue)/) (`10`) | 📁 [**Enumeration**](topics/Enumeration/) (`9`) |
@@ -78,6 +78,7 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 
 | ID | Title | Difficulty | Language | Acceptance Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1385 | [Find the Distance Value Between Two Arrays](#) | `Easy` | `java` | 2026-11-05 | [Local Code](problems/1385-find-the-distance-value-between-two-arrays/) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](#) | `Hard` | `java` | 2026-11-04 | [Local Code](problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) |
 | 3736 | [Minimum Moves to Equal Array Elements III](#) | `Easy` | `java` | 2026-11-03 | [Local Code](problems/3736-minimum-moves-to-equal-array-elements-iii/) |
 | 0462 | [Minimum Moves to Equal Array Elements II](#) | `Medium` | `java` | 2026-11-02 | [Local Code](problems/0462-minimum-moves-to-equal-array-elements-ii/) |
@@ -87,7 +88,6 @@ Here are the last 10 problems I solved, synchronized directly from my LeetCode h
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](#) | `Medium` | `java` | 2026-10-30 | [Local Code](problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) |
 | 3841 | [Palindromic Path Queries in a Tree](#) | `Hard` | `java` | 2026-10-29 | [Local Code](problems/3841-palindromic-path-queries-in-a-tree/) |
 | 3882 | [Minimum XOR Path in a Grid](#) | `Medium` | `java` | 2026-10-28 | [Local Code](problems/3882-minimum-xor-path-in-a-grid/) |
-| 3619 | [Count Islands With Total Value Divisible by K](#) | `Medium` | `java` | 2026-10-26 | [Local Code](problems/3619-count-islands-with-total-value-divisible-by-k/) |
 
 ---
 

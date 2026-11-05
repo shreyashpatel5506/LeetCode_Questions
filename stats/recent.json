@@ -1,5 +1,13 @@
 [
   {
+    "id": "1385",
+    "title": "Find the Distance Value Between Two Arrays",
+    "difficulty": "Easy",
+    "language": "java",
+    "acceptanceDate": "2026-11-05T03:25:31.000Z",
+    "slug": "find-the-distance-value-between-two-arrays"
+  },
+  {
     "id": "3505",
     "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
     "difficulty": "Hard",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-28T17:57:25.000Z",
     "slug": "minimum-xor-path-in-a-grid"
-  },
-  {
-    "id": "3619",
-    "title": "Count Islands With Total Value Divisible by K",
-    "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-10-26T10:07:56.000Z",
-    "slug": "count-islands-with-total-value-divisible-by-k"
   }
 ]

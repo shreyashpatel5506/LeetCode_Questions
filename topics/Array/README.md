@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (197)
+## Solved Problems (198)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -61,6 +61,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Find Smallest Letter Greater Than Target** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Local Solution](../../problems/0744-find-smallest-letter-greater-than-target/) |
 | **Find Subarrays With Equal Sum** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [Local Solution](../../problems/2395-find-subarrays-with-equal-sum/) |
 | **Find Target Indices After Sorting Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Local Solution](../../problems/2089-find-target-indices-after-sorting-array/) |
+| **Find the Distance Value Between Two Arrays** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Local Solution](../../problems/1385-find-the-distance-value-between-two-arrays/) |
 | **Find the Duplicate Number** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | [Local Solution](../../problems/0287-find-the-duplicate-number/) |
 | **Find the Highest Altitude** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/) | [Local Solution](../../problems/1732-find-the-highest-altitude/) |
 | **Find the Length of the Longest Common Prefix** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Local Solution](../../problems/3043-find-the-length-of-the-longest-common-prefix/) |

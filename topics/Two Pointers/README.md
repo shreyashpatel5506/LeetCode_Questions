@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Two Pointers** topic.
 
-## Solved Problems (28)
+## Solved Problems (29)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -10,6 +10,7 @@ This page contains all problems categorized under the **Two Pointers** topic.
 | **Container With Most Water** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [Local Solution](../../problems/0011-container-with-most-water/) |
 | **Earliest Finish Time for Land and Water Rides I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Local Solution](../../problems/3633-earliest-finish-time-for-land-and-water-rides-i/) |
 | **Earliest Finish Time for Land and Water Rides II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Local Solution](../../problems/3635-earliest-finish-time-for-land-and-water-rides-ii/) |
+| **Find the Distance Value Between Two Arrays** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Local Solution](../../problems/1385-find-the-distance-value-between-two-arrays/) |
 | **Find the Duplicate Number** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | [Local Solution](../../problems/0287-find-the-duplicate-number/) |
 | **Find the Index of the First Occurrence in a String** | `Easy` | `php` | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Local Solution](../../problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
 | **Happy Number** | `Easy` | `python3` | [LeetCode](https://leetcode.com/problems/happy-number/) | [Local Solution](../../problems/0202-happy-number/) |

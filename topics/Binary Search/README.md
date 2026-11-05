@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Binary Search** topic.
 
-## Solved Problems (29)
+## Solved Problems (30)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -18,6 +18,7 @@ This page contains all problems categorized under the **Binary Search** topic.
 | **Find Peak Element** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-peak-element/) | [Local Solution](../../problems/0162-find-peak-element/) |
 | **Find Smallest Letter Greater Than Target** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Local Solution](../../problems/0744-find-smallest-letter-greater-than-target/) |
 | **Find Target Indices After Sorting Array** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Local Solution](../../problems/2089-find-target-indices-after-sorting-array/) |
+| **Find the Distance Value Between Two Arrays** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Local Solution](../../problems/1385-find-the-distance-value-between-two-arrays/) |
 | **Find the Duplicate Number** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | [Local Solution](../../problems/0287-find-the-duplicate-number/) |
 | **First Bad Version** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/first-bad-version/) | [Local Solution](../../problems/0278-first-bad-version/) |
 | **Guess Number Higher or Lower** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Local Solution](../../problems/0374-guess-number-higher-or-lower/) |

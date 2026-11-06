@@ -1,5 +1,13 @@
 [
   {
+    "id": "2747",
+    "title": "Count Zero Request Servers",
+    "difficulty": "Medium",
+    "language": "java",
+    "acceptanceDate": "2026-11-06T04:57:06.000Z",
+    "slug": "count-zero-request-servers"
+  },
+  {
     "id": "1385",
     "title": "Find the Distance Value Between Two Arrays",
     "difficulty": "Easy",
@@ -70,13 +78,5 @@
     "language": "java",
     "acceptanceDate": "2026-10-29T04:34:26.000Z",
     "slug": "palindromic-path-queries-in-a-tree"
-  },
-  {
-    "id": "3882",
-    "title": "Minimum XOR Path in a Grid",
-    "difficulty": "Medium",
-    "language": "java",
-    "acceptanceDate": "2026-10-28T17:57:25.000Z",
-    "slug": "minimum-xor-path-in-a-grid"
   }
 ]

@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Array** topic.
 
-## Solved Problems (198)
+## Solved Problems (199)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -36,6 +36,7 @@ This page contains all problems categorized under the **Array** topic.
 | **Count Primes** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-primes/) | [Local Solution](../../problems/0204-count-primes/) |
 | **Count the Number of Consistent Strings** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Local Solution](../../problems/1684-count-the-number-of-consistent-strings/) |
 | **Count the Number of Vowel Strings in Range** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Local Solution](../../problems/2586-count-the-number-of-vowel-strings-in-range/) |
+| **Count Zero Request Servers** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | [Local Solution](../../problems/2747-count-zero-request-servers/) |
 | **Create Binary Tree From Descriptions** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Local Solution](../../problems/2196-create-binary-tree-from-descriptions/) |
 | **Cyclically Rotating a Grid** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Local Solution](../../problems/1914-cyclically-rotating-a-grid/) |
 | **Defuse the Bomb** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/defuse-the-bomb/) | [Local Solution](../../problems/1652-defuse-the-bomb/) |

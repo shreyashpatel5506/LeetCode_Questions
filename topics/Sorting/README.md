@@ -2,13 +2,14 @@
 
 This page contains all problems categorized under the **Sorting** topic.
 
-## Solved Problems (51)
+## Solved Problems (52)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Can Make Arithmetic Progression From Sequence** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Local Solution](../../problems/1502-can-make-arithmetic-progression-from-sequence/) |
 | **Check if Array is Good** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/check-if-array-is-good/) | [Local Solution](../../problems/2784-check-if-array-is-good/) |
 | **Contains Duplicate** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [Local Solution](../../problems/0217-contains-duplicate/) |
+| **Count Zero Request Servers** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | [Local Solution](../../problems/2747-count-zero-request-servers/) |
 | **Destroying Asteroids** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) | [Local Solution](../../problems/2126-destroying-asteroids/) |
 | **Earliest Finish Time for Land and Water Rides I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Local Solution](../../problems/3633-earliest-finish-time-for-land-and-water-rides-i/) |
 | **Earliest Finish Time for Land and Water Rides II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Local Solution](../../problems/3635-earliest-finish-time-for-land-and-water-rides-ii/) |

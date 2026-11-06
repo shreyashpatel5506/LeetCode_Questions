@@ -2,7 +2,7 @@
 
 This page contains all problems categorized under the **Hash Table** topic.
 
-## Solved Problems (70)
+## Solved Problems (71)
 
 | Problem Name | Difficulty | Language | LeetCode Link | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -15,6 +15,7 @@ This page contains all problems categorized under the **Hash Table** topic.
 | **Count the Number of Consistent Strings** | `Easy` | `javascript` | [LeetCode](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Local Solution](../../problems/1684-count-the-number-of-consistent-strings/) |
 | **Count the Number of Special Characters I** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Local Solution](../../problems/3120-count-the-number-of-special-characters-i/) |
 | **Count the Number of Special Characters II** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Local Solution](../../problems/3121-count-the-number-of-special-characters-ii/) |
+| **Count Zero Request Servers** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | [Local Solution](../../problems/2747-count-zero-request-servers/) |
 | **Create Binary Tree From Descriptions** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Local Solution](../../problems/2196-create-binary-tree-from-descriptions/) |
 | **Equal Row and Column Pairs** | `Medium` | `java` | [LeetCode](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Local Solution](../../problems/2352-equal-row-and-column-pairs/) |
 | **Existence of a Substring in a String and Its Reverse** | `Easy` | `java` | [LeetCode](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | [Local Solution](../../problems/3083-existence-of-a-substring-in-a-string-and-its-reverse/) |

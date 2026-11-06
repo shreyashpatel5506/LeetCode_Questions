@@ -1,0 +1,17 @@
+{
+  "id": "2747",
+  "title": "Count Zero Request Servers",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Sorting"
+  ],
+  "language": "java",
+  "slug": "count-zero-request-servers",
+  "acceptanceDate": "2026-11-06T04:57:06.000Z",
+  "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+  "submissionId": 2190484279,
+  "lastUpdated": "2026-11-06T09:34:33.200Z"
+}
